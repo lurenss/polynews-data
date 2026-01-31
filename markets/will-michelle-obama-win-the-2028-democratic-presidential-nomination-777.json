@@ -1,0 +1,29 @@
+{
+  "id": "will-michelle-obama-win-the-2028-democratic-presidential-nomination-777",
+  "title": "Will Michelle Obama win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 166216.715333,
+  "liquidity": 691463.57968,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:10.65535Z",
+  "clobTokenIds": [
+    "83723134981785004242996949681785273460678873813693556756054904164484296299719",
+    "107146110974011455665373243296921398136854344089489911087344946921091914123046"
+  ],
+  "volumeTotal": 13684263.779326,
+  "volume1wk": 2312336.674898002,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0.001,
+  "hybridScore": 6.394713685846494,
+  "category": "Politics"
+}

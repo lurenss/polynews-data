@@ -1,0 +1,29 @@
+{
+  "id": "will-brian-kemp-win-the-2028-republican-presidential-nomination",
+  "title": "Will Brian Kemp win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.008",
+    "0.992"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 93736.88125300001,
+  "liquidity": 271997.02877,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:09.524724Z",
+  "clobTokenIds": [
+    "109121432238307135312607668741094299588249627783575654034498708660414246884093",
+    "26528147249337195767129586250556983229143036006556368874091657477633405171243"
+  ],
+  "volumeTotal": 4999132.136529,
+  "volume1wk": 1870038.7843539994,
+  "competitive": 0.8051114918393899,
+  "priceChange24h": 0,
+  "hybridScore": 6.063157064259813,
+  "category": "Politics"
+}

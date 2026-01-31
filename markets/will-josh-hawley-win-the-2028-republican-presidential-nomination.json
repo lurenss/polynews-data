@@ -1,0 +1,29 @@
+{
+  "id": "will-josh-hawley-win-the-2028-republican-presidential-nomination",
+  "title": "Will Josh Hawley win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 30998.939839000002,
+  "liquidity": 230654.42172,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:11.045899Z",
+  "clobTokenIds": [
+    "16959950591508656523048029588253513417107455151269158025695062757254216051157",
+    "67257241906349232705880054817671247803154024437556078414309396160231441958063"
+  ],
+  "volumeTotal": 9870922.755728,
+  "volume1wk": 410440.095252,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 6.022536647318667,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-tucker-carlson-win-the-2028-republican-presidential-nomination",
+  "title": "Will Tucker Carlson win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0195",
+    "0.9805"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 144465.679871,
+  "liquidity": 286994.50736,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:16.221642Z",
+  "clobTokenIds": [
+    "78994573210477487932611223094751007094801552166562252085708682076112788032998",
+    "8140793935596394912663577132141762112024484538385519683062085870219967913900"
+  ],
+  "volumeTotal": 1567476.383002,
+  "volume1wk": 157325.300112,
+  "competitive": 0.8124267165713318,
+  "priceChange24h": 0.001,
+  "hybridScore": 5.930012557083456,
+  "category": "Politics"
+}

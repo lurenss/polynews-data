@@ -1,0 +1,29 @@
+{
+  "id": "tesla-launches-unsupervised-full-self-driving-fsd-by-october-31-717-337",
+  "title": "Tesla launches unsupervised full self driving (FSD) by June 30?",
+  "description": "This market will resolve to “Yes” if Tesla publicly releases an unsupervised Full Self-Driving capability that satisfies all of the following criteria by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No.”\n\n1. Tesla (or Elon Musk) must label the feature “Full Self-Driving” or use an equivalent name indicating no requirement for human intervention.\n\n2. The system must operate on public roads without a human driver present or required to oversee its performance. In practice, this means either:\n- The vehicle runs with no one in the driver’s seat, or\n- The vehicle operates in a mode where no occupant is expected to monitor or intervene.\n\n3. Tesla or any Tesla-affiliated entity must make the unsupervised Full Self-Driving capability broadly accessible either through a robo-taxi or ride-hailing service open to the public, or inclusion as a standard or optional feature on newly sold Tesla vehicles, or a software update that enables unsupervised operation in current vehicles.\n\nAny mode that requires a licensed driver to be seated in the vehicle, or for a human (on-site or remote) to continuously supervise the driving performance or remain ready to intervene at any moment, will not qualify. However, remote monitoring that does not involve continuous supervision or expectation of real-time intervention—for example, oversight limited to emergency response—will not disqualify the service.\n\nThis market’s resolution source will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.998",
+    "0.002"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2391490.868972,
+  "liquidity": 551264.86832,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2025-07-21T12:38:46.297122Z",
+  "clobTokenIds": [
+    "107281002012721876026695277673649500471455902224367011098589595335909329157141",
+    "109093397784326761075153288668799676062883343553988702537365993605828533802123"
+  ],
+  "volumeTotal": 9649030.36359,
+  "volume1wk": 8602804.014568014,
+  "competitive": 0.8012794830785799,
+  "priceChange24h": 0.0025,
+  "hybridScore": 6.656945863670016,
+  "category": "Economics"
+}

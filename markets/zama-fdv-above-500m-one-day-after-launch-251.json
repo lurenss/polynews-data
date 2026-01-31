@@ -1,0 +1,29 @@
+{
+  "id": "zama-fdv-above-500m-one-day-after-launch-251",
+  "title": "Zama FDV above $500M one day after launch?",
+  "description": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of Zama's token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\nThe FDV will be determined using the total token supply multiplied by the token price.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Zama doesn't launch a token by December 31, 2026, 11:59 PM ET, this market will resolve to \"No\".",
+  "outcomePrices": [
+    "0.545",
+    "0.455"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 6514.389054,
+  "liquidity": 10399.0873,
+  "active": true,
+  "closed": false,
+  "endDate": "2027-01-01T05:00:00Z",
+  "createdAt": "2026-01-23T21:35:36.042017Z",
+  "clobTokenIds": [
+    "43011861142566427211555089990664778239303912586164805372510057487277418936055",
+    "47709809938870303752874021599186386943095702370279286363824879126039495837375"
+  ],
+  "volumeTotal": 1182450.161903,
+  "volume1wk": 1175835.6660710003,
+  "competitive": 0.9979790923380155,
+  "priceChange24h": -0.06,
+  "hybridScore": 5.374681880421095,
+  "category": "Crypto"
+}

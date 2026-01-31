@@ -1,0 +1,29 @@
+{
+  "id": "bitcoin-all-time-high-by-march-31-2026",
+  "title": "Bitcoin all time high by March 31, 2026?",
+  "description": "This market will resolve to \"Yes\" if any Binance 1 minute candle for BTC/USDT between 16 December '25 10:30 and 11:59PM ET on the date specified in the title has a final “High” price that is higher than any previous Binance 1 minute candle's \"High\" price on any prior date. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"High\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with “1m” and “Candles” selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.",
+  "outcomePrices": [
+    "0.0465",
+    "0.9535"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 31414.139685,
+  "liquidity": 65385.35714,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-04-01T05:00:00Z",
+  "createdAt": "2025-12-16T15:53:59.212952Z",
+  "clobTokenIds": [
+    "92156284534280143070615206923373921895950068003448597987249195254309153661443",
+    "16374127121273273856782971978781701505843623815162614654704785090655145200358"
+  ],
+  "volumeTotal": 728751.872034,
+  "volume1wk": 220021.35047300006,
+  "competitive": 0.829419682004641,
+  "priceChange24h": 0.007,
+  "hybridScore": 5.486690920724214,
+  "category": "Crypto"
+}

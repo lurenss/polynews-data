@@ -1,0 +1,29 @@
+{
+  "id": "will-drake-maye-win-the-202526-nfl-mvp-award",
+  "title": "Will Drake Maye win the 2025–26 NFL MVP award?",
+  "description": "This polymarket will resolve to \"Yes\" if the listed player is named the 2025–26 NFL regular season MVP. Otherwise, it will resolve to \"No\".\n\nIf the 2025–26 NFL MVP is not announced by May 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source for this market will be official announcements from the NFL. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.123",
+    "0.877"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 5653.36334,
+  "liquidity": 18122.11479,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-18T00:00:00Z",
+  "createdAt": "2025-07-22T19:51:20.743113Z",
+  "clobTokenIds": [
+    "9444875387048561707328398243735771928876844280187072509566263132973432689266",
+    "75397678408763136682779179110117186597543604211907206346792002603512724903880"
+  ],
+  "volumeTotal": 798186.247504,
+  "volume1wk": 53299.955066999995,
+  "competitive": 0.8755578397886754,
+  "priceChange24h": -0.0215,
+  "hybridScore": 5.2137614356065995,
+  "category": "Sports"
+}

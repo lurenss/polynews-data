@@ -1,0 +1,29 @@
+{
+  "id": "will-the-toronto-raptors-win-the-2026-nba-finals",
+  "title": "Will the Toronto Raptors win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Toronto Raptors win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 35608.22904900001,
+  "liquidity": 355095.44881,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:37.781466Z",
+  "clobTokenIds": [
+    "111039354521750894925304771773687530394455073318948424656845140321925374032772",
+    "30357767947480285883761313215827358416711193584639846702115748417508830705975"
+  ],
+  "volumeTotal": 4026072.872559,
+  "volume1wk": 252022.86156000008,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0,
+  "hybridScore": 5.923558650960789,
+  "category": "Sports"
+}

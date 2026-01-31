@@ -1,0 +1,29 @@
+{
+  "id": "us-strikes-iran-by-march-31-2026-393-221-132-633-215-592-866-184-321-377-931-222-297-655-719-935-944-321-534-925-937-744-476-586",
+  "title": "US strikes Iran by March 31, 2026?",
+  "description": "This market will resolve to \"Yes\" if the US initiates a drone, missile, or air strike on Iranian soil or any official Iranian embassy or consulate between the time of this market's creation and the listed date (ET). Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by US military forces that impact Iranian ground territory or any official Iranian embassy or consulate (e.g., if a weapons depot on Iranian soil is hit by an US missile, this market will resolve to \"Yes\").\n\nMissiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution regardless of whether they land on Iranian territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by US ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.585",
+    "0.415"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 242242.0277050001,
+  "liquidity": 68205.8223,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2025-12-20T23:36:49.898548Z",
+  "clobTokenIds": [
+    "114073431155826730926052468626599502581519892859155799641358176120253844422606",
+    "102493900551645701521693125055452122755587721284263456800351297341161706805154"
+  ],
+  "volumeTotal": 4440721.175581,
+  "volume1wk": 1189703.9422190017,
+  "competitive": 0.9928268261808434,
+  "priceChange24h": -0.04,
+  "hybridScore": 6.233849216599975,
+  "category": "Economics"
+}

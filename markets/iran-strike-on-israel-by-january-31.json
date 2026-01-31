@@ -1,0 +1,29 @@
+{
+  "id": "iran-strike-on-israel-by-january-31",
+  "title": "Iran Strike on Israel by January 31?",
+  "description": "This market will resolve to \"Yes\" if an Iran-initiated drone, missile, or air strike on the soil of Israel is announced or credibly reported to have occurred by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including FPV and ATGM strikes as well as cruise or ballistic missiles) launched by any Iranian operatives, including military forces, intelligence agencies, or other Iranian government operatives, that physically impact ground territory within the listed country.\n\nA strike on any area within the terrestrial territory (including rivers, lakes, ports, but excluding territorial sea) of the listed country counts.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution, regardless of whether they land in Israeli territory or cause damage.\n\nActions such as artillery fire, small arms fire, ground incursions, naval shelling, or cyberattacks will not qualify.\n\nThe primary resolution source will be a consensus of credible reporting.\n\nIf no qualifying strike is confirmed by the resolution date this market will remain open until the end of the second day after the resolution time. If the date/time of a qualifying strike cannot be confirmed by a consensus of credible reporting by that time, it will resolve to \"No\" regardless of whether a strike was later confirmed to have taken place.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 43018.978091,
+  "liquidity": 16086.62351,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2026-01-12T18:33:18.118289Z",
+  "clobTokenIds": [
+    "14563704170707092754225166829668039264860512279269689408027999291687006154046",
+    "48327576922912565506823814810194225620948145469896033309190856214975092002183"
+  ],
+  "volumeTotal": 522105.849333,
+  "volume1wk": 256150.4096069999,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": -0.0265,
+  "hybridScore": 5.3232957301063175,
+  "category": "Economics"
+}

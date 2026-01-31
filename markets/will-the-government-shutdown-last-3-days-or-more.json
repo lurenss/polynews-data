@@ -1,0 +1,29 @@
+{
+  "id": "will-the-government-shutdown-last-3-days-or-more",
+  "title": "Will the government shutdown last 3 days or more?",
+  "description": "This market will resolve to \"Yes\" if the government is shut down for the listed number of days, inclusive of the beginning and ending dates. Otherwise, this market will resolve to \"No\".\n\nA qualifying government shutdown will be defined as having begun when the Office of Personnel Management (OPM) announces that the U.S. federal government is shut down due to a lapse in appropriations. \n\nThe end date of the shut down will be determined by the date on which the funding bill required to reopen the government is signed by the President or otherwise enacted. The announcement of an impending reopen will not qualify.\n\nPartial shutdowns count as shutdowns; announcements of office closures due to holidays or inclement weather do not qualify as a shutdown. \n\nIf no qualifying shutdown begins by January 31, 2026, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market will be OPM’s Operating Status page (https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/), information from official U.S. Government sources, and a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.99",
+    "0.01"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 648769.3803960002,
+  "liquidity": 169176.72619,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2026-01-24T22:00:51.357665Z",
+  "clobTokenIds": [
+    "45834992705311952325019110769074251045520613427860944634211713333639342925215",
+    "67044993355929871917109997788450094017244283163136736213822945937563487769385"
+  ],
+  "volumeTotal": 1198571.752333,
+  "volume1wk": 1048999.9087410006,
+  "competitive": 0.8063865817272801,
+  "priceChange24h": 0.134,
+  "hybridScore": 6.027148282816865,
+  "category": "Politics"
+}

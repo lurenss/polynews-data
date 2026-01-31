@@ -1,0 +1,29 @@
+{
+  "id": "will-nebius-group-be-acquired-before-2027-514",
+  "title": "Will Nebius Group be acquired before 2027?",
+  "description": "This market will resolve to “Yes” if credible reporting confirms that any entity enters into an agreement to acquire the listed company by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nMergers where the listed company is subsumed by another entity will count toward a \"Yes\" resolution.\n\nAn announced agreement between the listed company and an acquiring entity will qualify for a “Yes” resolution, regardless of whether the acquisition is ultimately completed.\n\nThe primary resolution source for this market is official information from the listed company and/or its leadership; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.325",
+    "0.675"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 342.770246,
+  "liquidity": 976.7324,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-21T13:00:15.52525Z",
+  "clobTokenIds": [
+    "111459230416043857818772115954120316062080149477780988827460623382161213865425",
+    "36013073749520466956881727893519980198380939375916480505403995761194037240269"
+  ],
+  "volumeTotal": 4201555.420011,
+  "volume1wk": 4201444.540011,
+  "competitive": 0.9702850212249848,
+  "priceChange24h": -0.145,
+  "hybridScore": 4.978573588020946,
+  "category": "Economics"
+}

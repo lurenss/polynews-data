@@ -1,0 +1,29 @@
+{
+  "id": "will-tyler-shough-be-the-2025-2026-nfl-offensive-rookie-of-the-year-166",
+  "title": "Will Tyler Shough be the 2025-2026 NFL Offensive Rookie of the Year?",
+  "description": "This market will resolve according to the player who wins 2025-2026 NFL Offensive Rookie of the Year Award. \n\nThe primary resolution source for this market is official information from the NFL.",
+  "outcomePrices": [
+    "0.0045",
+    "0.9955"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 591.85,
+  "liquidity": 3312.59294,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-07T12:00:00Z",
+  "createdAt": "2025-05-05T19:44:13.983198Z",
+  "clobTokenIds": [
+    "23457159102492014587086554465196338289744024850295026709594590570594307006124",
+    "110939410396280242686745621450433239202261964384334587272797625560637101546321"
+  ],
+  "volumeTotal": 586980.815912,
+  "volume1wk": 7041.8518,
+  "competitive": 0.8028773518535728,
+  "priceChange24h": 0.003,
+  "hybridScore": 4.646270489346655,
+  "category": "Sports"
+}

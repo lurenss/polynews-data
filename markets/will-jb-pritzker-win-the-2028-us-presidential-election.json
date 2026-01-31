@@ -1,0 +1,29 @@
+{
+  "id": "will-jb-pritzker-win-the-2028-us-presidential-election",
+  "title": "Will JB Pritzker win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0195",
+    "0.9805"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 10718.777627,
+  "liquidity": 320945.1155,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:05.004154Z",
+  "clobTokenIds": [
+    "70948731404464821824516595498024506131170394300814446118501620719416471444076",
+    "111825297267676135304812085666512747626812691749338692567733264184356420470119"
+  ],
+  "volumeTotal": 3204238.719004,
+  "volume1wk": 97740.80103600003,
+  "competitive": 0.8124267165713318,
+  "priceChange24h": 0.001,
+  "hybridScore": 5.725058874026642,
+  "category": "Politics"
+}

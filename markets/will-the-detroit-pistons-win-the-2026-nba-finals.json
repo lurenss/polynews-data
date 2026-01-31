@@ -1,0 +1,29 @@
+{
+  "id": "will-the-detroit-pistons-win-the-2026-nba-finals",
+  "title": "Will the Detroit Pistons win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Detroit Pistons win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0625",
+    "0.9375"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 75496.11919899998,
+  "liquidity": 130814.67648,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:35.537981Z",
+  "clobTokenIds": [
+    "59742411602053785892348440048778056320272639465974092140970920277782290781360",
+    "17229559412398170618704225341353811929634795955092110836823940954753499964583"
+  ],
+  "volumeTotal": 2865393.558263,
+  "volume1wk": 232076.41902400032,
+  "competitive": 0.839344262295082,
+  "priceChange24h": 0.004,
+  "hybridScore": 5.908929107356541,
+  "category": "Sports"
+}

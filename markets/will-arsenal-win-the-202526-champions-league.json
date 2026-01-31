@@ -1,0 +1,29 @@
+{
+  "id": "will-arsenal-win-the-202526-champions-league",
+  "title": "Will Arsenal win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.175",
+    "0.825"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 8410.065036000002,
+  "liquidity": 258104.9976,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:40.858107Z",
+  "clobTokenIds": [
+    "76184513907290761912636659055080401703643418316153242056949287928791438454394",
+    "40207448075213637709805668474726325753733020974923638056549809058860608450985"
+  ],
+  "volumeTotal": 1553944.25349,
+  "volume1wk": 120729.84131500025,
+  "competitive": 0.9044657998869418,
+  "priceChange24h": 0,
+  "hybridScore": 5.640855002169851,
+  "category": "Economics"
+}

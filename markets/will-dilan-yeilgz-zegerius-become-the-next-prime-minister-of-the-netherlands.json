@@ -1,0 +1,29 @@
+{
+  "id": "will-dilan-yeilgz-zegerius-become-the-next-prime-minister-of-the-netherlands",
+  "title": "Will Dilan Yeşilgöz-Zegerius become the next Prime Minister of the Netherlands?",
+  "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.003",
+    "0.997"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1231.2845,
+  "liquidity": 29220.14919,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-06-04T19:49:21.221297Z",
+  "clobTokenIds": [
+    "75675794787726583517922072284175382627586386442761686314701063627501030148170",
+    "82024587445113530836763278541179136536267277433851701705572340424703593880778"
+  ],
+  "volumeTotal": 704644.082197,
+  "volume1wk": 17150.25475,
+  "competitive": 0.8019188313797254,
+  "priceChange24h": 0.0005,
+  "hybridScore": 4.961459755561747,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-mike-vrabel-win-nfl-coach-of-the-year",
+  "title": "Will Mike Vrabel win NFL Coach of the Year?",
+  "description": "This market will resolve according to the coach who wins the 2025-2026 NFL Coach of the Year award. \n\nThe primary resolution source for this market is official information from the NFL.",
+  "outcomePrices": [
+    "0.845",
+    "0.155"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2848.9318339999995,
+  "liquidity": 2240.5753,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-11T12:00:00Z",
+  "createdAt": "2025-05-07T15:33:58.199316Z",
+  "clobTokenIds": [
+    "99715488964417214066652199511187267721963086959461714627958930922819755740122",
+    "19405834769133359089426335642143711653309738799401770550977513691248588502032"
+  ],
+  "volumeTotal": 990846.601627,
+  "volume1wk": 15855.981559999998,
+  "competitive": 0.8936350841134023,
+  "priceChange24h": 0.005,
+  "hybridScore": 4.998598837346161,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-laura-virginia-fernndez-delgado-win-the-2026-costa-rican-presidential-election",
+  "title": "Will Laura Virginia Fernández Delgado win the 2026 Costa Rican presidential election?",
+  "description": "The 2026 Costa Rican general election is scheduled for February 1, 2026. The President of Costa Rica is elected via a two-round system; a candidate must secure over 40% of the vote to win outright in the first round. If no candidate achieves this, the top two contenders advance to a runoff.\n\nThis market will resolve according to the candidate that wins this election.\n\nThis market includes any potential second round. If the results of the election are not known by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Tribunal Supremo de Elecciones (https://www.tse.go.cr/index.html).",
+  "outcomePrices": [
+    "0.915",
+    "0.085"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 143635.22168199992,
+  "liquidity": 62812.0903,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-01T00:00:00Z",
+  "createdAt": "2025-11-11T16:22:58.993118Z",
+  "clobTokenIds": [
+    "79088566337162437836671719273222979446951480948581045590914647087925119645023",
+    "100468578107797662479135781834982634847825161134930920186172922949816293128131"
+  ],
+  "volumeTotal": 1028952.082405,
+  "volume1wk": 635546.0951970004,
+  "competitive": 0.8530785472072341,
+  "priceChange24h": 0.01,
+  "hybridScore": 5.764826000087379,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-the-boston-celtics-win-the-2026-nba-finals",
+  "title": "Will the Boston Celtics win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Boston Celtics win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0585",
+    "0.9415"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 57415.19775800005,
+  "liquidity": 115090.76704,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:30.775335Z",
+  "clobTokenIds": [
+    "98951343420969493497594761179562691809954416596888138302255086663562042936451",
+    "68988781087071608596579516085819336301201525599500826069950065091990393143710"
+  ],
+  "volumeTotal": 3040933.698996,
+  "volume1wk": 259912.12323800032,
+  "competitive": 0.8368745330501629,
+  "priceChange24h": -0.0005,
+  "hybridScore": 5.869996551047185,
+  "category": "Sports"
+}

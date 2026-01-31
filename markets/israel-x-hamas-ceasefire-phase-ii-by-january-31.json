@@ -1,0 +1,29 @@
+{
+  "id": "israel-x-hamas-ceasefire-phase-ii-by-january-31",
+  "title": "Israel x Hamas Ceasefire Phase II by January 31?",
+  "description": "On October 8, an agreement on an initial ceasefire (Phase 1) was announced, constituting a halt in fighting, a partial Israeli pullback to a “yellow line,” prisoner swaps, expanded aid, and the release of hostages. A second phase of the deal, yet to be negotiated, is expected to address further Israeli withdrawal, Hamas’s disarmament, and the establishment of new security and governance arrangements in Gaza.\n\nThis market will resolve to \"Yes\" if an official agreement for the second phase of the Israel–Hamas ceasefire, defined as a publicly announced mutual agreement, is reached between Israel and Hamas by January 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nIf the agreement is officially reached before the resolution date, this market will resolve to \"Yes,\" regardless of if/when the agreement goes into effect.\n\nFor purposes of this market, a “second phase” ceasefire agreement refers to a deal publicly acknowledged by both Israel and Hamas (directly or via recognized mediators such as the U.S., Egypt, or Qatar) that goes beyond the Phase 1 initial truce and includes commitments towards a comprehensive or “full” ceasefire.  Any agreement that is publicly described by the parties, or by mediators on their behalf, as the completion of “Phase 2” of the ceasefire will qualify, regardless of whether it includes further Israeli withdrawals beyond the “yellow line,” or agreements by Hamas to disarm.\n\nAn extension or continuation of the Phase 1 arrangement alone will not qualify.\n\nThis market's resolution will be based on official announcements from both Israel and Hamas, however a wide consensus of credible media reporting will also qualify.",
+  "outcomePrices": [
+    "0.016",
+    "0.984"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 8832.547087,
+  "liquidity": 15610.84921,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2025-12-17T21:41:00.848918Z",
+  "clobTokenIds": [
+    "7161477674730930142938817782616174117299738016634984051227664981646809850187",
+    "101614282394727971592036328776680083744930711789841744039628342550913062491176"
+  ],
+  "volumeTotal": 701014.968825,
+  "volume1wk": 232296.65974300003,
+  "competitive": 0.8102046901129101,
+  "priceChange24h": -0.0105,
+  "hybridScore": 5.171027262652968,
+  "category": "Economics"
+}

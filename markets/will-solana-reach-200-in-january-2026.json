@@ -1,0 +1,29 @@
+{
+  "id": "will-solana-reach-200-in-january-2026",
+  "title": "Will Solana reach $200 in January?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for SOL/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final High price equal to or greater than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the SOL/USDT High prices available at https://www.binance.com/en/trade/SOL_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance SOL/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+  "outcomePrices": [
+    "0.0005",
+    "0.9995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2325.8,
+  "liquidity": 52198.58378,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-01T05:00:00Z",
+  "createdAt": "2026-01-01T19:17:42.86941Z",
+  "clobTokenIds": [
+    "1454770453972280024866809342994246496770815816742196470294484938003873307421",
+    "2278233597489122481231134759168316809917758251952353065335146832748073941112"
+  ],
+  "volumeTotal": 617545.841636,
+  "volume1wk": 309654.1218639997,
+  "competitive": 0.8003199679231757,
+  "priceChange24h": 0,
+  "hybridScore": 5.0701490544500665,
+  "category": "Economics"
+}

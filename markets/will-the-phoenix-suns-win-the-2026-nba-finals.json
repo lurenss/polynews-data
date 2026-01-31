@@ -1,0 +1,29 @@
+{
+  "id": "will-the-phoenix-suns-win-the-2026-nba-finals",
+  "title": "Will the Phoenix Suns win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Phoenix Suns win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0125",
+    "0.9875"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 28865.285214000007,
+  "liquidity": 286893.22845,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:38.245803Z",
+  "clobTokenIds": [
+    "106572879185916710503631021854572801471104977091252507745096331167318654083650",
+    "58087869106006103428727335605812139174959660101169613412457934526729964554109"
+  ],
+  "volumeTotal": 4766383.315799,
+  "volume1wk": 188867.69005900013,
+  "competitive": 0.8079787905567479,
+  "priceChange24h": 0.001,
+  "hybridScore": 5.908916045078286,
+  "category": "Sports"
+}

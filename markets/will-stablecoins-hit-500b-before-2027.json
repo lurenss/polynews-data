@@ -1,0 +1,29 @@
+{
+  "id": "will-stablecoins-hit-500b-before-2027",
+  "title": "Will stablecoins hit $500B before 2027?",
+  "description": "This market will resolve to “Yes” if the total stablecoin market cap shown on DefiLlama is equal to or greater than $500B on any day by December 31, 2026. Otherwise, it will resolve to “No.”\n\nThe resolution source is DefiLlama’s Total Stablecoins page, available at:\nhttps://defillama.com/stablecoins\n\nA data point on the DefiLlama chart is considered finalized once the data point for the following day is published.\n\nIf the DefiLlama page becomes permanently unavailable, the market will resolve based on other credible and publicly verifiable sources.",
+  "outcomePrices": [
+    "0.34",
+    "0.66"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 905.992221,
+  "liquidity": 32715.5935,
+  "active": true,
+  "closed": false,
+  "endDate": "2027-01-01T05:00:00Z",
+  "createdAt": "2025-12-30T21:53:38.246342Z",
+  "clobTokenIds": [
+    "111765777432361767817016751424857155311481989136107421374410759927320901025756",
+    "66556856701588886928455237478275515516408928121456431134772921415845283581388"
+  ],
+  "volumeTotal": 547333.839411,
+  "volume1wk": 2516.054134,
+  "competitive": 0.9750390015600624,
+  "priceChange24h": -0.02,
+  "hybridScore": 5.060574923070956,
+  "category": "Economics"
+}

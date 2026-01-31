@@ -1,0 +1,29 @@
+{
+  "id": "will-the-denver-nuggets-win-the-2026-nba-finals",
+  "title": "Will the Denver Nuggets win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Denver Nuggets win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.135",
+    "0.865"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 48955.904117,
+  "liquidity": 159320.244,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:32.868218Z",
+  "clobTokenIds": [
+    "56814725870179920615881424393027028330166672775619196396436430486653645555698",
+    "76502490060038468983308870100553689583720145873703214557423080536912388384600"
+  ],
+  "volumeTotal": 1857212.454021,
+  "volume1wk": 143646.0727009998,
+  "competitive": 0.8824372917999515,
+  "priceChange24h": 0.01,
+  "hybridScore": 5.8373809419736125,
+  "category": "Sports"
+}

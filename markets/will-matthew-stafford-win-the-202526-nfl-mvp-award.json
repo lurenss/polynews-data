@@ -1,0 +1,29 @@
+{
+  "id": "will-matthew-stafford-win-the-202526-nfl-mvp-award",
+  "title": "Will Matthew Stafford win the 2025–26 NFL MVP award?",
+  "description": "This polymarket will resolve to \"Yes\" if the listed player is named the 2025–26 NFL regular season MVP. Otherwise, it will resolve to \"No\".\n\nIf the 2025–26 NFL MVP is not announced by May 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source for this market will be official announcements from the NFL. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.862",
+    "0.138"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 9889.075282000002,
+  "liquidity": 4181.78149,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-18T00:00:00Z",
+  "createdAt": "2025-07-22T19:51:19.383035Z",
+  "clobTokenIds": [
+    "90234889617199443673709150877675264662915727532354468551650133547723659310093",
+    "100775083078138615108479319294462886271864319829047478061028914953567402660704"
+  ],
+  "volumeTotal": 834850.904156,
+  "volume1wk": 63553.04076999993,
+  "competitive": 0.8841389017580218,
+  "priceChange24h": 0.006,
+  "hybridScore": 5.175635593296513,
+  "category": "Sports"
+}

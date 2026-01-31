@@ -1,0 +1,29 @@
+{
+  "id": "will-mrbeasts-next-video-get-between-90-and-100-million-views-on-week-1-217",
+  "title": "Will MrBeast's next video get between 90 and 100 million views on week 1?",
+  "description": "This market will resolve according to the number of views the next YouTube video posted by MrBeast after this market's creation gets in the first 7 days after being posted.\n\nIf MrBeast does not post a YouTube video by March 31, 2026, 11:59 PM ET, this market will resolve to the lowest range bracket.\n\nIf the reported value falls exactly between two brackets, this market will resolve to the higher range bracket.\n\nThe resolution source for this is MrBeast's YouTube channel (https://www.youtube.com/@MrBeast), specifically the 'views' counter for the described video.\n\nNote: This market refers to MrBeast's next video posted. Shorts, previews, or other videos released other than the referenced video will not be considered.",
+  "outcomePrices": [
+    "0.0005",
+    "0.9995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 160410.437898,
+  "liquidity": 218843.8922,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2026-01-13T14:54:01.202145Z",
+  "clobTokenIds": [
+    "25181292858353240850472856804111499951005843081763550426838046516280634092678",
+    "32140367830326713710546762425694232182141995941468497855454142502855716600955"
+  ],
+  "volumeTotal": 701145.881275,
+  "volume1wk": 689350.637085,
+  "competitive": 0.8003199679231757,
+  "priceChange24h": -0.001,
+  "hybridScore": 5.768241453044839,
+  "category": "Economics"
+}

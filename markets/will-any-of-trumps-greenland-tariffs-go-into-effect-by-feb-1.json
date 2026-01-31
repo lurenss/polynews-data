@@ -1,0 +1,29 @@
+{
+  "id": "will-any-of-trumps-greenland-tariffs-go-into-effect-by-feb-1",
+  "title": "Will any of Trump’s Greenland Tariffs go into effect by Feb 1?",
+  "description": "On January 17, Donald Trump threatened to impose new tariffs on Denmark, Norway, Sweden, France, Germany, The United Kingdom, The Netherlands, and Finland, which would begin on February 1 and would remain in effect until a deal is struck for the US to purchase Greenland (see: https://truthsocial.com/@realDonaldTrump/posts/115911344443637897).\n\nThis market will resolve to “Yes” if any new general tariff on imports into the United States from one or more of the following countries — Denmark, Norway, Sweden, France, Germany, The United Kingdom, The Netherlands, and Finland — goes into effect for any amount of time by February 1, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nFor the purpose of this market, \"goes into effect\" means the start date for the tariffs must have occurred without being further delayed or suspended.\n\nA new general tariff that includes item-specific exceptions will still qualify, as long as a new policy of a general tariff on imports into the United States from one or more of the listed countries goes into effect.\n\nOnly tariffs specifically targeting one or more of the listed countries or a specific set of countries including one or more of the listed countries will qualify. For example, a new global tariff (tariffs on all imports into the U.S. from any country) will not count toward this market's resolution.\n\nAn increase in the rate of pre-existing general tariffs on imports into the US from one or more of the listed countries will count.\n\nThis market's primary resolution source will be official information from the Trump administration; however, a consensus of credible information may also be used.",
+  "outcomePrices": [
+    "0.006",
+    "0.994"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 8428.513784999996,
+  "liquidity": 6341.06439,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-01T00:00:00Z",
+  "createdAt": "2026-01-17T22:48:16.722821Z",
+  "clobTokenIds": [
+    "84375245842663558308399194125254935482530576825919338744760236672707319788658",
+    "78391136385775506300905945292645837625602264913266798340228159433537225802713"
+  ],
+  "volumeTotal": 781641.589509,
+  "volume1wk": 106098.11680300001,
+  "competitive": 0.8038352587867232,
+  "priceChange24h": -0.005,
+  "hybridScore": 5.099225431693544,
+  "category": "Politics"
+}

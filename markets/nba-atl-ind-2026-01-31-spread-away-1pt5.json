@@ -1,0 +1,29 @@
+{
+  "id": "nba-atl-ind-2026-01-31-spread-away-1pt5",
+  "title": "Spread: Hawks (-1.5)",
+  "description": "In the upcoming NBA game, scheduled for January 31 at 7:00 PM ET:\n\nThis market will resolve to \"Hawks\" if the Hawks win the game by 2 or more points.\n\nOtherwise, this market will resolve to \"Pacers\". If the game ends in a tie, this market will resolve to \"Pacers\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50.",
+  "outcomePrices": [
+    "0.48",
+    "0.52"
+  ],
+  "outcomes": [
+    "Hawks",
+    "Pacers"
+  ],
+  "volume24hr": 48840.962953,
+  "liquidity": 85861.7304,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-01T00:00:00Z",
+  "createdAt": "2026-01-30T22:10:32.607138Z",
+  "clobTokenIds": [
+    "5866685627943398894302541260475350529438505632985940339509957999752038035065",
+    "62571981765068871165964281245212523869481596105190202966350056388381258821795"
+  ],
+  "volumeTotal": 660852.835413,
+  "volume1wk": 48840.962953,
+  "competitive": 0.9996001599360256,
+  "priceChange24h": -0.49,
+  "hybridScore": 5.72104119779405,
+  "category": "Sports"
+}

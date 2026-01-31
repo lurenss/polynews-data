@@ -1,0 +1,29 @@
+{
+  "id": "will-the-government-shutdown-last-7-days-or-more-188-769-669",
+  "title": "Will the government shutdown last 7 days or more?",
+  "description": "This market will resolve to \"Yes\" if the government is shut down for the listed number of days, inclusive of the beginning and ending dates. Otherwise, this market will resolve to \"No\".\n\nA qualifying government shutdown will be defined as having begun when the Office of Personnel Management (OPM) announces that the U.S. federal government is shut down due to a lapse in appropriations. \n\nThe end date of the shut down will be determined by the date on which the funding bill required to reopen the government is signed by the President or otherwise enacted. The announcement of an impending reopen will not qualify.\n\nPartial shutdowns count as shutdowns; announcements of office closures due to holidays or inclement weather do not qualify as a shutdown. \n\nIf no qualifying shutdown begins by January 31, 2026, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market will be OPM’s Operating Status page (https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/), information from official U.S. Government sources, and a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.105",
+    "0.895"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 144340.02462799978,
+  "liquidity": 23492.7329,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2026-01-24T22:00:51.83857Z",
+  "clobTokenIds": [
+    "59504136924064087795648081133235705846655371799758292499235575393658009825596",
+    "86247848522476811956744818668364574835142715064162362411756221076437767369255"
+  ],
+  "volumeTotal": 509430.282081,
+  "volume1wk": 464188.0316360004,
+  "competitive": 0.865033195648883,
+  "priceChange24h": -0.11,
+  "hybridScore": 5.569874780078664,
+  "category": "Politics"
+}

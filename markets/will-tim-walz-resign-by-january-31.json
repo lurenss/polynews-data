@@ -1,0 +1,29 @@
+{
+  "id": "will-tim-walz-resign-by-january-31",
+  "title": "Will Tim Walz resign by January 31?",
+  "description": "This market will resolve to \"Yes\" if Tim Walz announces he has resigned or will resign as Governor of Minnesota by the listed date ET. Otherwise, this market will resolve to \"No.\"\n\nIf it becomes impossible for Tim Walz to resign or to announce his resignation (e.g., due to his removal from office by other means, etc.), this market will immediately resolve to \"No.\"\n\nFor this market to resolve to \"Yes,\" it is only necessary that Tim Walz announce that he has resigned or will resign. Whether he actually resigns will have no bearing on the resolution of this market.\n\nThe primary resolution source for this market will be official information from the US federal government or the government of Minnesota; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 116652.85023500005,
+  "liquidity": 39147.36323,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2025-12-28T14:51:26.060204Z",
+  "clobTokenIds": [
+    "37510092193785525994681223255524165608270293701945397424738517422719724135424",
+    "69726433524238545951664461697974161329922343554589969328442225180627335544469"
+  ],
+  "volumeTotal": 2211074.917355,
+  "volume1wk": 356010.1143189997,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0.0005,
+  "hybridScore": 5.777413616759251,
+  "category": "Economics"
+}

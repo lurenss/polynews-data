@@ -1,0 +1,29 @@
+{
+  "id": "lol-c9-ly-2026-01-31",
+  "title": "LoL: Cloud9 vs LYON (BO3) - LCS Lock In Group Stage",
+  "description": "This market refers to the LoL match between Cloud9 and LYON in the LCS Lock In Group Stage, scheduled for January 31 at 4:00PM ET.\n\nThis market will resolve to \"Cloud9\" if Cloud9 win the match against LYON.\n\nThis market will resolve to \"LYON\" if LYON win the match against Cloud9.\n\nIf the match is canceled (not played at all), ends in a tie, or is delayed beyond 7 days from the scheduled date without a winner determined, this market will resolve to 50-50. \n\nIf the match begins but is not completed, and one team wins due to the opponent's forfeiture, disqualification, or walkover, this market will resolve to the team who wins. \n\nIf the match ends in a forfeit, disqualification, or walkover (team withdraws before the start and the other wins automatically), this market will resolve to 50-50. \n\nThe resolution source for this market will be official information from https://liquipedia.net/leagueoflegends/Main_Page.",
+  "outcomePrices": [
+    "0.65",
+    "0.35"
+  ],
+  "outcomes": [
+    "Cloud9",
+    "LYON"
+  ],
+  "volume24hr": 180791.91309000002,
+  "liquidity": 10525.9895,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-01T03:00:00Z",
+  "createdAt": "2026-01-26T18:00:13.301459Z",
+  "clobTokenIds": [
+    "101980880248972481118700137260474979728059458849853649188537177048972287383683",
+    "20643559382903552141275249052663932518343878480203586873896808622398187913433"
+  ],
+  "volumeTotal": 814569.999175,
+  "volume1wk": 736201.7797170008,
+  "competitive": 0.9779951100244499,
+  "priceChange24h": -0.03,
+  "hybridScore": 5.723981946347546,
+  "category": "Economics"
+}

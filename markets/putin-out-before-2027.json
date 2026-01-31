@@ -1,0 +1,29 @@
+{
+  "id": "putin-out-before-2027",
+  "title": "Putin out as President of Russia by end of 2026?",
+  "description": "This market will resolve to \"Yes\" if Russia's president, Vladimir Putin, is removed from power for any length of time between July 6, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nPresident Vladimir Putin will be considered to be removed from power if he resigns, is detained, or otherwise loses his position or is prevented from fulfilling his duties as President of Russia within this market's timeframe.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.095",
+    "0.905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2555.935356,
+  "liquidity": 111012.4038,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T18:30:00Z",
+  "createdAt": "2025-07-06T18:19:59.120869Z",
+  "clobTokenIds": [
+    "350977769852917329387037893294763093471844346281449484439085576212613048126",
+    "87073899845581463485186346288398658568334162612963837182986759797304993556208"
+  ],
+  "volumeTotal": 1842780.021732,
+  "volume1wk": 68021.50481000004,
+  "competitive": 0.8590880780051975,
+  "priceChange24h": 0,
+  "hybridScore": 5.396668578665674,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-glenn-youngkin-win-the-2028-republican-presidential-nomination",
+  "title": "Will Glenn Youngkin win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0135",
+    "0.9865"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 11055.288467,
+  "liquidity": 199836.04951,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:05.210227Z",
+  "clobTokenIds": [
+    "108177352465155946413420144732939501038742536693084796111933355102723645081439",
+    "40195401263640671665116916114051111593115139897599831021772971493074676316453"
+  ],
+  "volumeTotal": 2501295.638889,
+  "volume1wk": 105593.29385700001,
+  "competitive": 0.8086151475045429,
+  "priceChange24h": -0.001,
+  "hybridScore": 5.641099237479175,
+  "category": "Politics"
+}

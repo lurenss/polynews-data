@@ -1,0 +1,29 @@
+{
+  "id": "ilhan-omar-town-hall-attack-staged",
+  "title": "Ilhan Omar town hall attack staged?",
+  "description": "This market will resolve to “Yes” if it is widely and credibly confirmed that the January 27, 2026 incident in which Rep. Ilhan Omar was sprayed with an unknown liquid at a Minneapolis town hall was staged, pre-arranged, orchestrated, fake, or otherwise not a genuine adversarial attack — including if broad consensus from credible reporting, or official statements (e.g., from law enforcement, U.S. government, or equivalent credible sources), confirms it was staged or pre-arranged. Otherwise, this market will resolve to “No”.\n\nStatements from the U.S. government, law enforcement agencies, or major credible news organizations concluding that the incident was staged or pre-arranged will qualify for a “Yes” resolution. If no broad consensus from credible reporting and authoritative statements has been reached by February 28, 2026, 11:59 PM ET, this market will resolve to “No.”",
+  "outcomePrices": [
+    "0.0195",
+    "0.9805"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 116399.03486100001,
+  "liquidity": 180093.54116,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2026-01-28T07:07:27.802498Z",
+  "clobTokenIds": [
+    "39929167511806129269566211555484180799427968863569900452082867390507107270299",
+    "13254241531379113814268623702591445764028502818838968001780086361032892261649"
+  ],
+  "volumeTotal": 1474803.843083,
+  "volume1wk": 1459017.8473789988,
+  "competitive": 0.8124267165713318,
+  "priceChange24h": 0.001,
+  "hybridScore": 5.850806581555524,
+  "category": "Economics"
+}

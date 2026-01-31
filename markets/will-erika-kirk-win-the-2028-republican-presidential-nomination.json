@@ -1,0 +1,29 @@
+{
+  "id": "will-erika-kirk-win-the-2028-republican-presidential-nomination",
+  "title": "Will Erika Kirk win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 128253.938034,
+  "liquidity": 445205.19944,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:20.730741Z",
+  "clobTokenIds": [
+    "36725157385158152303355940271421346899386884953712631735038848833359115722560",
+    "100798539333257155804503755544697952331380694697499428407950484702163979829576"
+  ],
+  "volumeTotal": 2688056.949269,
+  "volume1wk": 770438.3216529996,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0.001,
+  "hybridScore": 6.038702459577344,
+  "category": "Politics"
+}

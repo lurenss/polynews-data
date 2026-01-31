@@ -1,0 +1,29 @@
+{
+  "id": "will-solana-dip-to-80-in-january-2026",
+  "title": "Will Solana dip to $80 in January?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for SOL/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final Low price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the SOL/USDT Low prices available at https://www.binance.com/en/trade/SOL_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance SOL/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+  "outcomePrices": [
+    "0.007",
+    "0.993"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 60568.41651099999,
+  "liquidity": 30458.26532,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-01T05:00:00Z",
+  "createdAt": "2026-01-01T19:17:56.315035Z",
+  "clobTokenIds": [
+    "79047234225012432786115809631291200281019012133441870673062701647366483959728",
+    "1995920059453097142319847259787402180974343890297361830118990465139561936721"
+  ],
+  "volumeTotal": 544592.522432,
+  "volume1wk": 169493.148906,
+  "competitive": 0.8044735163296057,
+  "priceChange24h": 0.0035,
+  "hybridScore": 5.43032240665667,
+  "category": "Economics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-2026-be-the-fifth-hottest-year-on-record",
+  "title": "Will 2026 be the fifth-hottest year on record?",
+  "description": "This market will resolve according to the numerical rank of how hot 2026 is when compared against all other years for which the Global Land-Ocean Temperature Index has data.\n\nYears will be ranked in descending order, starting with the hottest as number 1, the second hottest as number 2, etc.\n\nIf 2026 ties with any other year, it will resolve according to the place the year it ties with occupies.\n\nThis market will resolve immediately once the specified data becomes available, regardless of whether the figure for the relevant years is later revised.\n\nThe primary resolution source for this market will be the figure found in the table titled \"Land-Ocean Temperature Index (C)\" under the column \"No_Smoothing\" in the row \"2026\" (https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt). If NASA's \"Global Temperature Index\" is rendered permanently unavailable, other information from NASA may be used. If no information for 2026 is provided by NASA by March 1, 2027, 11:59 PM ET, this market will resolve based on a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.052",
+    "0.948"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 509.66241199999996,
+  "liquidity": 3584.94996,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-12T18:24:30.810882Z",
+  "clobTokenIds": [
+    "36385708241103656881636928091267439785598872725658076323572114247897288109684",
+    "15336383889349013242644173673080732516940253578861664837926820391700365550025"
+  ],
+  "volumeTotal": 511355.755096,
+  "volume1wk": 2979.114536,
+  "competitive": 0.8328447310910932,
+  "priceChange24h": 0.0215,
+  "hybridScore": 4.639695342700728,
+  "category": "Economics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "insurrection-act-invoked-by-january-31-674",
+  "title": "Insurrection Act invoked by January 31?",
+  "description": "This market will resolve to \"Yes\" if Donald Trump officially invokes the Insurrection Act of 1807 by January 31, 2026, 11:59 PM ET. Otherwise, it will resolve to \"No\".\n\nFor the purposes of this market, \"invoke\" means that the President formally announces the use of the Insurrection Act as legal authority for deploying active-duty U.S. military forces or federalizing the National Guard in response to civil disorder, insurrection, or rebellion.\n\nThe resolution source will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.0035",
+    "0.9965"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 10008.356956,
+  "liquidity": 15489.20193,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2026-01-15T17:01:23.135749Z",
+  "clobTokenIds": [
+    "112190878063040780889671762053113324261588311317587116879666501404437497018590",
+    "7287681229651258139381689770505580285026522798705230730822294318341036294451"
+  ],
+  "volumeTotal": 481481.12236,
+  "volume1wk": 147884.24112900003,
+  "competitive": 0.8022384055993032,
+  "priceChange24h": -0.002,
+  "hybridScore": 5.113403741167427,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-bitcoin-dip-to-75k-in-january-2026",
+  "title": "Will Bitcoin dip to $75,000 in January?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for BTC/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final Low price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT Low prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+  "outcomePrices": [
+    "0.1925",
+    "0.8075"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 396550.1310050004,
+  "liquidity": 46071.53475,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-01T05:00:00Z",
+  "createdAt": "2026-01-01T19:17:52.573898Z",
+  "clobTokenIds": [
+    "20099240131435270101243886986764622431137880237564542574320666248714205282967",
+    "107215017509232964267319647251985124647716227186424524868458584097835560460596"
+  ],
+  "volumeTotal": 4171317.719725,
+  "volume1wk": 1707648.325822999,
+  "competitive": 0.9136122515402932,
+  "priceChange24h": 0.1505,
+  "hybridScore": 6.173899780430803,
+  "category": "Crypto"
+}

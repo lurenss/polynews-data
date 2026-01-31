@@ -1,0 +1,29 @@
+{
+  "id": "will-ethereum-dip-to-1800-in-january-2026-971",
+  "title": "Will Ethereum dip to $1,800 in January?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for ETH/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final Low price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the ETH/USDT Low prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+  "outcomePrices": [
+    "0.0025",
+    "0.9975"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 63982.441908999994,
+  "liquidity": 42267.3441,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-01T05:00:00Z",
+  "createdAt": "2026-01-01T19:17:55.909751Z",
+  "clobTokenIds": [
+    "94020878406857742965229426577041955011427459297061061243824035842206666812240",
+    "29257191685376532687042197311835399537931933412718837399725052506804389976889"
+  ],
+  "volumeTotal": 661334.277026,
+  "volume1wk": 401975.42728400003,
+  "competitive": 0.8015991903848178,
+  "priceChange24h": 0.0015,
+  "hybridScore": 5.496791192657889,
+  "category": "Crypto"
+}

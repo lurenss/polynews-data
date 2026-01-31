@@ -1,0 +1,29 @@
+{
+  "id": "will-the-us-invade-venezuela-by-january-31-2026",
+  "title": "Will the U.S. invade Venezuela by January 31, 2026?",
+  "description": "This market will resolve to \"Yes\" if the United States commences a military offensive intended to establish control over any portion of Venezuela between November 3, 2025, and January 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, land de facto controlled by Venezuela or the United States as of September 6, 2025, 12:00 PM ET, will be considered the sovereign territory of that country.\n\nThe resolution source for this market will be a consensus of credible sources.",
+  "outcomePrices": [
+    "0.002",
+    "0.998"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 38685.62774900001,
+  "liquidity": 61251.73041,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2025-12-17T20:20:20.011253Z",
+  "clobTokenIds": [
+    "93715017999299261588944061464372509395185250817523863925904889301335289765870",
+    "25723597394415499227218361148528714017737096767507235616700212312538360075985"
+  ],
+  "volumeTotal": 8175434.209145,
+  "volume1wk": 305412.6927930001,
+  "competitive": 0.8012794830785799,
+  "priceChange24h": -0.0005,
+  "hybridScore": 5.899977188422537,
+  "category": "Economics"
+}

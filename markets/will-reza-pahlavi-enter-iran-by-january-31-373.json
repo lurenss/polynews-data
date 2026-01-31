@@ -1,0 +1,29 @@
+{
+  "id": "will-reza-pahlavi-enter-iran-by-january-31-373",
+  "title": "Will Reza Pahlavi enter Iran by January 31?",
+  "description": "If Reza Pahlavi visits Iran between market creation and January 31, 2026 11:59 PM ET, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\".\n\nFor the purpose of this market, a \"visit\" is defined as Reza Pahlavi physically entering the terrestrial territory of Iran. Whether or not Reza Pahlavi enters Iranian airspace or maritime territory during the timeframe of this market will have no bearing on a positive resolution.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 12236.512955000004,
+  "liquidity": 13779.87701,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2026-01-08T21:14:39.588874Z",
+  "clobTokenIds": [
+    "15413982220769667410608278994582161916012413634012817198013180996928705427334",
+    "21014245273419795166738423460822003379993466809327130645857266095723288310519"
+  ],
+  "volumeTotal": 542518.582646,
+  "volume1wk": 122821.95045200002,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": -0.0005,
+  "hybridScore": 5.148889198247563,
+  "category": "Economics"
+}

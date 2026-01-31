@@ -1,0 +1,29 @@
+{
+  "id": "will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676",
+  "title": "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0155",
+    "0.9845"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 20736.086832999998,
+  "liquidity": 200851.50068,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:04.461062Z",
+  "clobTokenIds": [
+    "57761428076807364758801249497410455358987881775226117256631754592198558850468",
+    "64300336035644500626313522990854070672468621241744347587785777226296613235598"
+  ],
+  "volumeTotal": 3981184.418192,
+  "volume1wk": 241431.845352,
+  "competitive": 0.8098869377587715,
+  "priceChange24h": -0.0015,
+  "hybridScore": 5.805491672150991,
+  "category": "Politics"
+}

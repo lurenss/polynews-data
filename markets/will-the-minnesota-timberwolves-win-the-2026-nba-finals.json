@@ -1,0 +1,29 @@
+{
+  "id": "will-the-minnesota-timberwolves-win-the-2026-nba-finals",
+  "title": "Will the Minnesota Timberwolves win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Minnesota Timberwolves win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0285",
+    "0.9715"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 48811.25446699996,
+  "liquidity": 207147.44177,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:29.148315Z",
+  "clobTokenIds": [
+    "5771676627182954113677164857547228277089396639521594262964034606220001939923",
+    "65745417184316471123701656851846948699220805945682138735308449338418068204083"
+  ],
+  "volumeTotal": 2261802.917785,
+  "volume1wk": 266906.6961540004,
+  "competitive": 0.8181215560917433,
+  "priceChange24h": 0.0005,
+  "hybridScore": 5.829718531040541,
+  "category": "Sports"
+}

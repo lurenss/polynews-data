@@ -1,0 +1,29 @@
+{
+  "id": "trump-out-as-president-before-gta-vi-846",
+  "title": "Trump out as President before GTA VI?",
+  "description": "This market will resolve to \"Yes\" if Donald Trump ceases to be the President of the U.S. for any period of time before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nAn announcement of Trump's resignation/removal, or a scheduled departure from office due to the outcome of an election will not alone qualify.\n\nOnly permanent removal from office will qualify for resolution. Temporary removals, such as temporary invocation of the 25th Amendment, will not count.\n\nThe resolution source for Trump leaving the presidency will be a consensus of credible reporting.\n",
+  "outcomePrices": [
+    "0.535",
+    "0.465"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1116.873242,
+  "liquidity": 48212.2067,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-31T12:00:00Z",
+  "createdAt": "2025-05-02T15:15:30.618414Z",
+  "clobTokenIds": [
+    "108999723207897941876452935557011604067917389120996960199512481363958770540884",
+    "64533579809297525579033609963634939501013332859992608996100633472507000251907"
+  ],
+  "volumeTotal": 476951.115465,
+  "volume1wk": 10475.825081999998,
+  "competitive": 0.9987764987889834,
+  "priceChange24h": 0.01,
+  "hybridScore": 5.121317382323226,
+  "category": "Politics"
+}
