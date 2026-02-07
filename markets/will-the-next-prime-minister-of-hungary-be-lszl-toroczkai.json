@@ -1,0 +1,29 @@
+{
+  "id": "will-the-next-prime-minister-of-hungary-be-lszl-toroczkai",
+  "title": "Will the next Prime Minister of Hungary be László Toroczkai?",
+  "description": "Parliamentary elections are expected to be held in Hungary in April or May 2026.\n\nThis market will resolve to the individual who is next officially appointed and confirmed as Prime Minister of Hungary following the 2026 parliamentary election.\n\nTo count for resolution, the individual must be formally elected and appointed to the role of Prime Minister. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is confirmed by December 31, 2026, 11:59 PM ET, this market will resolve to “Other.”\n\nThe primary resolution source for this market will be official information from the Government of Hungary; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.011",
+    "0.989"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 7158.613804999998,
+  "liquidity": 27137.76558,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-24T21:26:36.835095Z",
+  "clobTokenIds": [
+    "62276312834902257904558594246531967377131544314278449037472956208145787396192",
+    "41816235129804583132761611821034988200514081417230164418955968670861645554369"
+  ],
+  "volumeTotal": 1569675.174502,
+  "volume1wk": 66656.103614,
+  "competitive": 0.8070236885663306,
+  "priceChange24h": 0,
+  "hybridScore": 5.328532612066402,
+  "category": "Politics"
+}

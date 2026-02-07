@@ -1,0 +1,29 @@
+{
+  "id": "will-england-win-the-2026-fifa-world-cup-937",
+  "title": "Will England win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.135",
+    "0.865"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 3629.512807,
+  "liquidity": 456291.1812,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:41.473096Z",
+  "clobTokenIds": [
+    "115556263888245616435851357148058235707004733438163639091106356867234218207169",
+    "77121637225348873006259930776623502125079210522997384841464684944292365296940"
+  ],
+  "volumeTotal": 1211751.394701,
+  "volume1wk": 36374.58749099997,
+  "competitive": 0.8824372917999515,
+  "priceChange24h": 0,
+  "hybridScore": 5.5156418437941594,
+  "category": "Sports"
+}

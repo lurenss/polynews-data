@@ -1,0 +1,29 @@
+{
+  "id": "will-paraguay-win-the-2026-fifa-world-cup-967",
+  "title": "Will Paraguay win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0035",
+    "0.9965"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 16408.441328999997,
+  "liquidity": 638394.08244,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:53.364208Z",
+  "clobTokenIds": [
+    "93165696161088512376930999170413968261015485018106746563527821398897374023845",
+    "64564930076241670294516403352804569921660004975706088367725793399153499601932"
+  ],
+  "volumeTotal": 2179086.021331,
+  "volume1wk": 425456.893959,
+  "competitive": 0.8022384055993032,
+  "priceChange24h": 0,
+  "hybridScore": 5.7630942804453404,
+  "category": "Sports"
+}

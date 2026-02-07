@@ -1,0 +1,29 @@
+{
+  "id": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-february-28",
+  "title": "Will Amazon be the largest company in the world by market cap on February 28?",
+  "description": "This market will resolve to the largest company in the world by market cap on February 28, 2026, as of market close.\n\nThe resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 25822.704999999994,
+  "liquidity": 201767.31916,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2026-01-21T22:49:28.034615Z",
+  "clobTokenIds": [
+    "108861433733880688560796118112534958142630741940625904127501532594970918120908",
+    "897864005622296971475629175060013356646318157853195232982833542065967907856"
+  ],
+  "volumeTotal": 539810.629816,
+  "volume1wk": 502314.1119839997,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 5.478432765443871,
+  "category": "Economics"
+}

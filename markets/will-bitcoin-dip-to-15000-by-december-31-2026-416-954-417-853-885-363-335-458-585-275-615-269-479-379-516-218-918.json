@@ -1,0 +1,29 @@
+{
+  "id": "will-bitcoin-dip-to-15000-by-december-31-2026-416-954-417-853-885-363-335-458-585-275-615-269-479-379-516-218-918",
+  "title": "Will Bitcoin dip to $15,000 by December 31, 2026?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for Bitcoin (BTC/USDT) between November 24, 2025, 14:00 and December 31, 2026, 23:59 in the ET timezone has a final \"Low\" price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Low\" prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.\n",
+  "outcomePrices": [
+    "0.0645",
+    "0.9355"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 147214.9915049998,
+  "liquidity": 44032.37394,
+  "active": true,
+  "closed": false,
+  "endDate": "2027-01-01T05:00:00Z",
+  "createdAt": "2025-12-29T15:16:15.065723Z",
+  "clobTokenIds": [
+    "63985397218239656926367525871649971575041102854345777114360978052613472299768",
+    "89977007741727017614798848147688321409996583214301844632616973663289014402184"
+  ],
+  "volumeTotal": 2667572.578621,
+  "volume1wk": 401425.40875999955,
+  "competitive": 0.8405761224685787,
+  "priceChange24h": -0.0005,
+  "hybridScore": 5.890165574529756,
+  "category": "Crypto"
+}

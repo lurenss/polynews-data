@@ -1,0 +1,29 @@
+{
+  "id": "will-juventus-win-the-202526-champions-league",
+  "title": "Will Juventus win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 41419.06133500001,
+  "liquidity": 189762.74229,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:45.894874Z",
+  "clobTokenIds": [
+    "28349060551413759330452246043341991702791557659100363740323132646947810293543",
+    "1879146758336316812853714924296913426652714952732015629000599127768330208957"
+  ],
+  "volumeTotal": 3218699.556922,
+  "volume1wk": 159336.1414299999,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0,
+  "hybridScore": 5.849946016714128,
+  "category": "Economics"
+}

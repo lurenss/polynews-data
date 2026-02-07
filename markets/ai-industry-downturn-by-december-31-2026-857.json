@@ -1,0 +1,29 @@
+{
+  "id": "ai-industry-downturn-by-december-31-2026-857",
+  "title": "AI Industry Downturn by December 31, 2026?",
+  "description": "This market will resolve to \"Yes\" if the AI industry experiences an industry downturn by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, the AI industry will be considered to have experienced an industry downturn once at least three of the following events have occurred within 90 days of this market's specified timeframe:\n- NVIDIA Corporation (NVDA) closing stock price is down 50% from its all-time high.\n- iShares PHLX Semiconductor ETF (SOXX) closing stock price is down 40% from its all-time high.\n- OpenAI, Inc. or Anthropic PBC declares bankruptcy.\n- OpenAI, Inc. is acquired.\n- H100 rental price falls to $1.00 or lower for five consecutive days, as shown on the SiliconData Silicon Index at:\nhttps://www.silicondata.com/products/silicon-index.\n- Major AI Hardware Supplier Collapse: Taiwan Semiconductor Manufacturing Company Limited (TSM), ASML Holding N.V. (ASML), Broadcom Inc. (AVGO), Arista Networks, Inc. (ANET), or Super Micro Computer, Inc. (SMCI), closing stock price is down 50% from its all-time high.\n\nThis market may resolve immediately once three conditions have been met within 90 days of the specified timeframe.\n\nThis market will not resolve to \"Yes\" until three conditions have been met, regardless of reporting of an industry downturn or similar claims.\n\nThe primary resolution source will be official information from the respective companies and listing exchanges; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.212",
+    "0.788"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1050.7123720000002,
+  "liquidity": 9635.10691,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-19T14:25:34.241008Z",
+  "clobTokenIds": [
+    "95143949049440805515065120245245136072200903084986833252741074455111459269340",
+    "17769188746995805889009627485623784462879024540194570282917960402976991944943"
+  ],
+  "volumeTotal": 1561921.096374,
+  "volume1wk": 3651.138713,
+  "competitive": 0.9234087819868801,
+  "priceChange24h": 0.01,
+  "hybridScore": 5.104221946338167,
+  "category": "Economics"
+}

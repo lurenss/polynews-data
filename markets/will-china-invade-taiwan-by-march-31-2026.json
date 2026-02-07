@@ -1,0 +1,29 @@
+{
+  "id": "will-china-invade-taiwan-by-march-31-2026",
+  "title": "Will China invade Taiwan by March 31, 2026?",
+  "description": "This market will resolve to \"Yes\" if China commences a military offensive intended to establish control over any portion of the Republic of China (Taiwan) by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nTerritory under the administration of the Republic of China, including any inhabited islands, will qualify; however, uninhabited islands will not qualify. \n\nThe resolution source for this market will be official confirmation by China, Taiwan, the United Nations, or any permanent member of the UN Security Council; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.0185",
+    "0.9815"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 33822.63824400001,
+  "liquidity": 60125.90653,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2025-11-24T17:32:09.459989Z",
+  "clobTokenIds": [
+    "106549993070946237758310281255754864390927967486677098278324584793561067743644",
+    "45508526462946448093261964971924605068149154773851783510479883418527084296876"
+  ],
+  "volumeTotal": 2074801.865095,
+  "volume1wk": 263107.9649509998,
+  "competitive": 0.8117922566789701,
+  "priceChange24h": 0.0025,
+  "hybridScore": 5.653162860589045,
+  "category": "Economics"
+}

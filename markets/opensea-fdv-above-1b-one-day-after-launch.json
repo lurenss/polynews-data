@@ -1,0 +1,29 @@
+{
+  "id": "opensea-fdv-above-1b-one-day-after-launch",
+  "title": "Opensea FDV above $1B one day after launch?",
+  "description": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of Opensea's token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Opensea doesn't launch a token by December 31, 2026, 11:59 PM ET, this market will resolve to \"No\".",
+  "outcomePrices": [
+    "0.325",
+    "0.675"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 15841.755704,
+  "liquidity": 36473.9367,
+  "active": true,
+  "closed": false,
+  "endDate": "2027-01-01T05:00:00Z",
+  "createdAt": "2025-09-30T17:18:05.328129Z",
+  "clobTokenIds": [
+    "55736535775539231856682158017890031261644294952589300517957218393676136917293",
+    "71718402031669298364238907670733752499185585238670546354636156779359681992646"
+  ],
+  "volumeTotal": 1068752.773084,
+  "volume1wk": 171907.67191700003,
+  "competitive": 0.9702850212249848,
+  "priceChange24h": 0,
+  "hybridScore": 5.5541842126074785,
+  "category": "Crypto"
+}

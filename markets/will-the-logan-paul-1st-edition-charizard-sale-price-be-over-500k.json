@@ -1,0 +1,29 @@
+{
+  "id": "will-the-logan-paul-1st-edition-charizard-sale-price-be-over-500k",
+  "title": "Will the Logan Paul 1st Edition Charizard sale price be over 500k?",
+  "description": "This market will resolve to \"Yes\" if the final sale price paid for the Pokemon Base Set 1st Edition Holo #4 Charizard - Logan Paul Break is greater than the listed price. Otherwise this market will resolve to \"No\".\n\nIf no sale is completed by February 28, 2026, ET this market will resolve to \"No\".\n\nThe market will resolve according to the final listed sale price including any premiums or auction fees included in the listed figure on Goldin (see: https://goldin.co/item/1999-pokemon-base-set-1st-edition-rare-holofoil-logan-paul-break-4-chajdvc5).",
+  "outcomePrices": [
+    "0.9895",
+    "0.0105"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 11339.110969000003,
+  "liquidity": 47304.71369,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2025-12-29T18:46:59.06738Z",
+  "clobTokenIds": [
+    "49306285114851141324991700407652466280317129871784211904056003164421819327935",
+    "68491303411494034094095343696970390708131957255428604209532343635990964690531"
+  ],
+  "volumeTotal": 711613.649902,
+  "volume1wk": 109604.8161840001,
+  "competitive": 0.8067051720490372,
+  "priceChange24h": 0.0035,
+  "hybridScore": 5.298971035259227,
+  "category": "Economics"
+}

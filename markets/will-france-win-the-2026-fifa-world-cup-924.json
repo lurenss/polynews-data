@@ -1,0 +1,29 @@
+{
+  "id": "will-france-win-the-2026-fifa-world-cup-924",
+  "title": "Will France win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.125",
+    "0.875"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 5982.344633000001,
+  "liquidity": 576645.121,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:42.081862Z",
+  "clobTokenIds": [
+    "108233603819467706476318984012158651931658302669301887462181073562758483842092",
+    "32270411694523539495262303868629477861017829722282576458031815333486368239544"
+  ],
+  "volumeTotal": 1486917.19368,
+  "volume1wk": 89859.48894499984,
+  "competitive": 0.8767123287671234,
+  "priceChange24h": 0,
+  "hybridScore": 5.630892239444328,
+  "category": "Sports"
+}

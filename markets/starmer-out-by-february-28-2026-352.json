@@ -1,0 +1,29 @@
+{
+  "id": "starmer-out-by-february-28-2026-352",
+  "title": "Starmer out by February 28, 2026?",
+  "description": "This market will resolve to “Yes” if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between September 14, 2025, and February 28, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+  "outcomePrices": [
+    "0.0775",
+    "0.9225"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 171154.62558499986,
+  "liquidity": 39207.18212,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T12:00:00Z",
+  "createdAt": "2026-02-04T23:52:25.071033Z",
+  "clobTokenIds": [
+    "74341056958547120660405490893413766202610642702385621904694146292080006615573",
+    "31855172254398395022586050472162698729124802414870579979071243373446988334227"
+  ],
+  "volumeTotal": 531576.615257,
+  "volume1wk": 531199.178393,
+  "competitive": 0.8485317748633068,
+  "priceChange24h": 0.0125,
+  "hybridScore": 5.6274511434849375,
+  "category": "Economics"
+}

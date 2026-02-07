@@ -1,0 +1,29 @@
+{
+  "id": "will-the-liberal-democratic-party-win-the-most-seats-in-the-2026-japanese-general-election",
+  "title": "Will the Liberal Democratic Party win the most seats in the 2026 Japanese general election?",
+  "description": "General elections are scheduled to be held in Japan on February 8, 2026.\n\nThis market will resolve according to the political party that wins the greatest number of seats in the next Japanese House of Representatives (衆議院, Shūgiin) election.\n\nIf the results are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties for the most seats won, this market will resolve in favor of the party that received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed abbreviation appears first in alphabetical order.\n\nThis market’s resolution will be based solely on the number of seats won by the named party in the House of Representatives of the Japanese National Diet.\n\nThis market will resolve based on the results of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results reported by the Japanese government, including the Ministry of Internal Affairs and Communications (https://www.soumu.go.jp/) or e-Stat (Japan’s government statistics portal; https://www.e-stat.go.jp/).\n\nNote: If a listed party contests the election as part of a jointly listed coalition with one or more parties not listed in this market (including through merger), the market corresponding to the listed party will represent the coalition and will count all seats won by the coalition collectively. If two or more listed parties contest the election as a jointly listed coalition (including through merger), with or without additional parties not listed in this market, the market corresponding to the party within that coalition that won the most seats in the previous election will represent the coalition and will count all seats won by the coalition collectively. If such a coalition dissolves, each market will again represent its respective party individually.",
+  "outcomePrices": [
+    "0.997",
+    "0.003"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 125512.04507900005,
+  "liquidity": 81901.28368,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-08T00:00:00Z",
+  "createdAt": "2026-01-19T20:28:01.05469Z",
+  "clobTokenIds": [
+    "101601524970636656928874258111069598977179844026686215168725953121107727362092",
+    "111528659181287027064420840777546379655894333708221212990767671701007425351510"
+  ],
+  "volumeTotal": 682480.00973,
+  "volume1wk": 371541.24810799985,
+  "competitive": 0.8019188313797254,
+  "priceChange24h": 0.0005,
+  "hybridScore": 5.647820922089544,
+  "category": "Politics"
+}

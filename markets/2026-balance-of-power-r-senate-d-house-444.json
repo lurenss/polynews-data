@@ -1,0 +1,29 @@
+{
+  "id": "2026-balance-of-power-r-senate-d-house-444",
+  "title": "2026 Balance of Power: R Senate, D House",
+  "description": "This market will resolve according to the result of the 2026 United States midterm elections.\n\nA party will be considered to have 'control' of the House of Representatives, if they win a majority of voting seats.\n\nA party will be considered to have 'control' of the Senate if they have more than half of the voting Senate members, or half of the voting Senate members and the Vice President.\n\nA candidate's party is determined by their ballot-listed or otherwise identifiable affiliation with that party at the time the 2026 United States midterm elections are conclusively called by this market's resolution sources. A candidate without a ballot-listed affiliation to either the Democrat or Republican Parties will be considered a member of one of these parties based on the party that they most recently expressed their intent to caucus with at the time the 2026 United States midterm elections are conclusively called by this market's resolution sources.\n\nIf control of the House is ambiguous given the above rules, this market will resolve according to the party affiliation of the first Speaker of the US House who is selected following the 2026 United States midterm elections. \n\nIf control of the Senate is ambiguous given the above rules, this market will resolve according to the party affiliation of the first Majority Leader of the US Senate who is selected following the 2026 United States midterm elections.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources have conclusively called winners of the House and Senate in the 2026 United States midterm elections. If all three sources do not achieve consensus in calling the relevant races for this market, it will resolve based on the official certification.",
+  "outcomePrices": [
+    "0.45",
+    "0.55"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 7648.801299,
+  "liquidity": 66728.6011,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-11-03T00:00:00Z",
+  "createdAt": "2025-07-11T20:47:54.792432Z",
+  "clobTokenIds": [
+    "6302359956133594764084277082169634158291609371270652093164054687145970756151",
+    "558600218792430158020964384658762756367786275998757133304987611939841005404"
+  ],
+  "volumeTotal": 527572.850262,
+  "volume1wk": 19063.691822000004,
+  "competitive": 0.9975062344139651,
+  "priceChange24h": 0.005,
+  "hybridScore": 5.416378291012877,
+  "category": "Politics"
+}

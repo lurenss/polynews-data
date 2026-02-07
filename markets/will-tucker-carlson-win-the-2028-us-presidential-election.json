@@ -1,0 +1,29 @@
+{
+  "id": "will-tucker-carlson-win-the-2028-us-presidential-election",
+  "title": "Will Tucker Carlson win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.011",
+    "0.989"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 30125.991622999994,
+  "liquidity": 331469.26904,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:11.613703Z",
+  "clobTokenIds": [
+    "45015916581148592087728250896178171120552786117190685135618507471166113474733",
+    "5353194854864999214467212176625447374807704051407621946584152368216621932371"
+  ],
+  "volumeTotal": 3323056.283361,
+  "volume1wk": 439721.49606600014,
+  "competitive": 0.8070236885663306,
+  "priceChange24h": 0,
+  "hybridScore": 5.863414465844386,
+  "category": "Politics"
+}

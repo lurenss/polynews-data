@@ -1,0 +1,29 @@
+{
+  "id": "puffpaw-fdv-above-50m-one-day-after-launch",
+  "title": "Puffpaw FDV above $50M one day after launch?",
+  "description": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of Puffpaw's governance token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\nThe FDV will be determined using the total token supply multiplied by the token price.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Puffpaw (https://www.puffpaw.xyz/) doesn't launch a token by December 31, 2026, 11:59 PM ET, this market will resolve to \"No\".",
+  "outcomePrices": [
+    "0.785",
+    "0.215"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 11616.961173999987,
+  "liquidity": 8894.0533,
+  "active": true,
+  "closed": false,
+  "endDate": "2027-01-01T05:00:00Z",
+  "createdAt": "2025-12-23T17:31:07.7695Z",
+  "clobTokenIds": [
+    "510034681274411516291754863482343062051712641324940501686223446447563026393",
+    "112035939766271890070835678458583327089904184175100021395727240122574156493209"
+  ],
+  "volumeTotal": 749139.729627,
+  "volume1wk": 132405.36742200647,
+  "competitive": 0.9248768757659137,
+  "priceChange24h": 0.02,
+  "hybridScore": 5.284070926804917,
+  "category": "Crypto"
+}

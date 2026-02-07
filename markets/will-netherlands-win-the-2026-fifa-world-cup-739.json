@@ -1,0 +1,29 @@
+{
+  "id": "will-netherlands-win-the-2026-fifa-world-cup-739",
+  "title": "Will Netherlands win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.032",
+    "0.968"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 216901.4630940002,
+  "liquidity": 225500.17249,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:45.066939Z",
+  "clobTokenIds": [
+    "55935183786009449883683540312350046975246300613283087403691731856990327029236",
+    "103711573894614472510743687764792452240919804104728889027222697502832804498206"
+  ],
+  "volumeTotal": 2597416.48749,
+  "volume1wk": 456398.5281539995,
+  "competitive": 0.8203283938626311,
+  "priceChange24h": -0.0005,
+  "hybridScore": 6.057654203927884,
+  "category": "Sports"
+}

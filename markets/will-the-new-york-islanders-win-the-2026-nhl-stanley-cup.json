@@ -1,0 +1,29 @@
+{
+  "id": "will-the-new-york-islanders-win-the-2026-nhl-stanley-cup",
+  "title": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
+  "description": "This market will resolve to “Yes” if the New York Islanders win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+  "outcomePrices": [
+    "0.013",
+    "0.987"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 563425.750583,
+  "liquidity": 93579.91331,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2025-06-19T18:02:59.755796Z",
+  "clobTokenIds": [
+    "100198467481990754389879542132900146141512359428605143337944632886324000145723",
+    "53611027669372139007790641596033292035302146631496758994013659593681089555225"
+  ],
+  "volumeTotal": 1222033.564483,
+  "volume1wk": 933184.1701310003,
+  "competitive": 0.8082970071186717,
+  "priceChange24h": 0,
+  "hybridScore": 5.96261909775102,
+  "category": "Economics"
+}

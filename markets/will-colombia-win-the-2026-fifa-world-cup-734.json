@@ -1,0 +1,29 @@
+{
+  "id": "will-colombia-win-the-2026-fifa-world-cup-734",
+  "title": "Will Colombia win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0165",
+    "0.9835"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 27366.793574999996,
+  "liquidity": 373656.56582,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:48.514643Z",
+  "clobTokenIds": [
+    "98803390175521456712653678280474920637934596234667490983228578374641217211132",
+    "66826965351166675155887515167306086307412332225034738589879767944935462342380"
+  ],
+  "volumeTotal": 1817721.408196,
+  "volume1wk": 232961.17325500006,
+  "competitive": 0.8105223634264752,
+  "priceChange24h": 0,
+  "hybridScore": 5.760000079549808,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-jesus-christ-return-before-gta-vi-665",
+  "title": "Will Jesus Christ return before GTA VI?",
+  "description": "This market will resolve to \"Yes\" if The Second Coming of Jesus Christ occurs before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nThe resolution source for the return of Jesus will be a consensus of credible sources.",
+  "outcomePrices": [
+    "0.485",
+    "0.515"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 14991.459952999983,
+  "liquidity": 485082.8017,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-31T12:00:00Z",
+  "createdAt": "2025-05-02T15:08:16.157823Z",
+  "clobTokenIds": [
+    "90435811253665578014957380826505992530054077692143838383981805324273750424057",
+    "92388629082681805622801622703528982922543286352927708208755887536971583436902"
+  ],
+  "volumeTotal": 9144440.923877,
+  "volume1wk": 260734.44758400164,
+  "competitive": 0.9997750506136119,
+  "priceChange24h": 0,
+  "hybridScore": 6.1741631567870225,
+  "category": "Economics"
+}

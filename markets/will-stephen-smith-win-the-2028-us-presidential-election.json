@@ -1,0 +1,29 @@
+{
+  "id": "will-stephen-smith-win-the-2028-us-presidential-election",
+  "title": "Will Stephen Smith win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0085",
+    "0.9915"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 257532.244111,
+  "liquidity": 1012934.31245,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:04.344587Z",
+  "clobTokenIds": [
+    "105367778020161609482094090847463497982204321259381518614669619753184648647559",
+    "12867420029045504056332323771270227403424313645832702673618751920867223902054"
+  ],
+  "volumeTotal": 15984177.790868,
+  "volume1wk": 1505431.749281002,
+  "competitive": 0.8054303726585385,
+  "priceChange24h": 0.001,
+  "hybridScore": 6.511272836040478,
+  "category": "Politics"
+}

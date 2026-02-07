@@ -1,0 +1,29 @@
+{
+  "id": "israel-x-iran-ceasefire-broken-by-march-31-2026-312-682",
+  "title": "Israel x Iran ceasefire broken by March 31, 2026?",
+  "description": "This market will resolve to \"Yes\" if either Israel initiates a drone, missile, or air strike on Iranian soil or any official Iranian embassy or consulate, or Iran initiates a drone, missile, or air strike on Israeli soil or any official Israeli embassy or consulate, by 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli or Iranian military forces that impact the other party’s ground territory or any official embassy or consulate (e.g., if a weapons depot on Iranian soil is hit by an Israeli missile, or an Israeli air base is hit by an Iranian drone, this market will resolve to \"Yes\") that is officially acknowledged by the relevant government or a consensus of credible reporting.\n\nMissiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution regardless of whether they land on the opposing party’s territory or cause damage.",
+  "outcomePrices": [
+    "0.39",
+    "0.61"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2445.88672,
+  "liquidity": 15241.0942,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2025-11-05T17:52:02.486562Z",
+  "clobTokenIds": [
+    "80805096467313419823865916963281184354953922115882059142494794327887573673497",
+    "37114768995166166425289237419695601463774549668889181983290296242123704967930"
+  ],
+  "volumeTotal": 1057904.481726,
+  "volume1wk": 151942.19267900003,
+  "competitive": 0.9880446596186148,
+  "priceChange24h": -0.01,
+  "hybridScore": 5.251016494065775,
+  "category": "Economics"
+}

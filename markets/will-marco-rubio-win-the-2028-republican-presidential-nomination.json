@@ -1,0 +1,29 @@
+{
+  "id": "will-marco-rubio-win-the-2028-republican-presidential-nomination",
+  "title": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.1225",
+    "0.8775"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 17472.299917000004,
+  "liquidity": 114585.20487,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:03.992571Z",
+  "clobTokenIds": [
+    "13565458761220145250977753098276900790902214604876327357986816739576288755859",
+    "75720156002519829912361786945091022242706922246722836126941546028340974330171"
+  ],
+  "volumeTotal": 3754585.281727,
+  "volume1wk": 156915.9008399999,
+  "competitive": 0.8752687348537481,
+  "priceChange24h": 0.0025,
+  "hybridScore": 5.789632517002714,
+  "category": "Politics"
+}

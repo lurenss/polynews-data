@@ -1,0 +1,29 @@
+{
+  "id": "will-new-zealand-win-the-2026-fifa-world-cup-635",
+  "title": "Will New Zealand win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 39161.61200000001,
+  "liquidity": 908532.81978,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:53.912088Z",
+  "clobTokenIds": [
+    "79609298644734030886284029462369514848707878622071495577618126141372199748974",
+    "19300733445673111152563700067702596357686293159476142927049736146587326855017"
+  ],
+  "volumeTotal": 7179790.042008,
+  "volume1wk": 762337.3000000011,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.112934146525558,
+  "category": "Sports"
+}

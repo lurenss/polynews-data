@@ -1,0 +1,29 @@
+{
+  "id": "will-john-fetterman-win-the-2028-democratic-presidential-nomination-941",
+  "title": "Will John Fetterman win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0085",
+    "0.9915"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 98023.88,
+  "liquidity": 610482.33289,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:15.042865Z",
+  "clobTokenIds": [
+    "71289010523270989807437428651002770360280908813019627976988032260868574107425",
+    "68686505966910102763700888296813272792512562699674656659355148432859571994559"
+  ],
+  "volumeTotal": 10123646.174606,
+  "volume1wk": 650716.8001479998,
+  "competitive": 0.8054303726585385,
+  "priceChange24h": 0,
+  "hybridScore": 6.262100831119925,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-anthony-davis-win-the-20252026-nba-mvp",
+  "title": "Will Anthony Davis win the 2025–2026 NBA MVP?",
+  "description": "This market will resolve to \"Yes\" if Anthony Davis is awarded the 2025–26 regular season NBA Most Valuable Player (MVP) Award. Otherwise, this market will resolve to \"No\".\n\nIf the listed player is not announced as a finalist for the 2025–26 NBA MVP award, this market will immediately resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the NBA. However, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0005",
+    "0.9995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 0,
+  "liquidity": 37946.41435,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-10T00:00:00Z",
+  "createdAt": "2025-07-16T16:03:26.674488Z",
+  "clobTokenIds": [
+    "3966533862466247704344244549971560368457045062860350677311447732853769253405",
+    "59999675311137587840491907461104965146991785998223820408543351474300723555438"
+  ],
+  "volumeTotal": 842915.205797,
+  "volume1wk": 341219.71,
+  "competitive": 0.8003199679231757,
+  "priceChange24h": 0,
+  "hybridScore": 4.086470167247034,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-the-atlanta-hawks-win-the-2026-nba-finals",
+  "title": "Will the Atlanta Hawks win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Atlanta Hawks win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.005",
+    "0.995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 923109.0837360001,
+  "liquidity": 610089.77647,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:40.327679Z",
+  "clobTokenIds": [
+    "46018378684967856456278619377189791752501136727354913341087475972513992392267",
+    "20129983565567341010763130180914686218636854709832178286955080327775892526669"
+  ],
+  "volumeTotal": 3817155.502236,
+  "volume1wk": 1165651.411492,
+  "competitive": 0.8031967229573703,
+  "priceChange24h": 0,
+  "hybridScore": 6.382547649831939,
+  "category": "Sports"
+}

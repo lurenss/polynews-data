@@ -1,0 +1,29 @@
+{
+  "id": "will-trump-admin-release-any-more-epstein-related-files-by-february-6",
+  "title": "Will Trump admin release any more Epstein related files by February 6?",
+  "description": "This market will resolve to \"Yes\" if the Trump Administration publicly releases any files pertaining to Jeffrey Epstein between market creation and the listed date (ET). Otherwise, this market will resolve to \"No\".\n\nAny release will qualify, including re-releases, partial releases, unsubstantive materials, or documents whose contents were already known from prior reporting.\n\nQualifying releases must be made by the Executive Branch itself, such as through an official government website, press release, or FOIA reading room. Transmissions solely to courts, Congress, or other non-Executive entities do not qualify unless the Executive Branch subsequently makes the files publicly accessible.\n\nThe following will not qualify:\n-Announcements of releases that are not implemented within this market’s timeframe.\n-Releases made exclusively by courts, Congress or its committees, state or local governments, private entities, or leaks not officially attributable to the Executive Branch.\n-Leaked, unofficial, or anonymously sourced disclosures.\n\nThe primary resolution source for this market will be official information from the government of the United States; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.9985",
+    "0.0015"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 521790.138701,
+  "liquidity": 342499.76204,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2026-02-03T15:19:19.312209Z",
+  "clobTokenIds": [
+    "112161997404354990363022967662407961042412027168520117029513197324952973126791",
+    "70150508650317489518117988842676573323798285863248410202388749758476817819448"
+  ],
+  "volumeTotal": 575525.747593,
+  "volume1wk": 573187.0142630001,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0.5835,
+  "hybridScore": 5.927167233080783,
+  "category": "Politics"
+}

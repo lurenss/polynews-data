@@ -1,0 +1,29 @@
+{
+  "id": "will-mauricio-cardenas-win-the-2026-colombian-presidential-election",
+  "title": "Will Mauricio Cardenas win the 2026 Colombian presidential election?",
+  "description": "Colombia's presidential elections are scheduled for May 31, 2026, and a second round (if required) on June 21, 2026, in case no candidate secures more than 50% of the valid votes in the first round.\n\nThis market will resolve according to the listed candidate that wins this election. \n\nThis market includes any potential second round. If the result of this election isn't known by December 31, 2026, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by Colombia's National Civil Registry (Registraduría Nacional del Estado Civil) (https://registraduria.gov.co).",
+  "outcomePrices": [
+    "0.003",
+    "0.997"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 5318.610000000001,
+  "liquidity": 14268.42335,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-21T14:00:00Z",
+  "createdAt": "2025-07-28T19:02:36.973739Z",
+  "clobTokenIds": [
+    "100491958886776974191121583503513146470234388396360962605267069217658465802580",
+    "82503349357181056398149908255365503506981833559023213427675200732940959552735"
+  ],
+  "volumeTotal": 1383284.330076,
+  "volume1wk": 21067.164333,
+  "competitive": 0.8019188313797254,
+  "priceChange24h": 0,
+  "hybridScore": 5.206928762578383,
+  "category": "Politics"
+}

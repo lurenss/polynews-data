@@ -1,0 +1,29 @@
+{
+  "id": "nba-hou-okc-2026-02-07-total-213pt5",
+  "title": "Rockets vs. Thunder: O/U 213.5",
+  "description": "In the upcoming NBA game, scheduled for February 7 at 3:30 PM ET:\n\nThis market will resolve to \"Over\" if the Rockets and Thunder combine to score 214 or more points in this game.\n\nIf the combined total is less than 214, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50.",
+  "outcomePrices": [
+    "0.505",
+    "0.495"
+  ],
+  "outcomes": [
+    "Over",
+    "Under"
+  ],
+  "volume24hr": 751821.9293890004,
+  "liquidity": 64651.1333,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-07T20:30:00Z",
+  "createdAt": "2026-02-07T01:10:25.52313Z",
+  "clobTokenIds": [
+    "8067391329483645524483069777673207356650433272108172193021097103888553863724",
+    "98403671062952657132268061411499199341436486861168316357536781306103024184075"
+  ],
+  "volumeTotal": 762165.570065,
+  "volume1wk": 751821.9293890004,
+  "competitive": 0.9999750006249843,
+  "priceChange24h": -0.54,
+  "hybridScore": 6.077746201002484,
+  "category": "Sports"
+}

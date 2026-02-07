@@ -1,0 +1,29 @@
+{
+  "id": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
+  "title": "Will LeBron James win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 77202.091201,
+  "liquidity": 1511990.36172,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:20.29482Z",
+  "clobTokenIds": [
+    "100561779829530520068956424581003844045516012444425572625523659025114550346085",
+    "46254744034025107660239982269249567113656697231872036621777316158933638064598"
+  ],
+  "volumeTotal": 27258206.188508,
+  "volume1wk": 778479.3965189996,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0,
+  "hybridScore": 6.482467102305952,
+  "category": "Politics"
+}

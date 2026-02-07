@@ -1,0 +1,29 @@
+{
+  "id": "will-the-milwaukee-bucks-win-the-2026-nba-finals",
+  "title": "Will the Milwaukee Bucks win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Milwaukee Bucks win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 80057.104,
+  "liquidity": 737886.67942,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:35.999295Z",
+  "clobTokenIds": [
+    "45990013143445742554418902941609344301435090837151736095983841403365776942169",
+    "64634346694605544041215581235986248584974024218745113885051865881058253914827"
+  ],
+  "volumeTotal": 4717330.017037,
+  "volume1wk": 658573.9086660001,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.115057892663118,
+  "category": "Sports"
+}

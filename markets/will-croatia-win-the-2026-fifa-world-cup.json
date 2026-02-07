@@ -1,0 +1,29 @@
+{
+  "id": "will-croatia-win-the-2026-fifa-world-cup",
+  "title": "Will Croatia win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0105",
+    "0.9895"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 170622.48589400004,
+  "liquidity": 517599.14278,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:55:05.105151Z",
+  "clobTokenIds": [
+    "106593539437032467615148553707998472829334050617128244920821917025746481184109",
+    "22335540631248526397385139154377717431237265005174891396662761131414559126312"
+  ],
+  "volumeTotal": 2714484.940779,
+  "volume1wk": 588820.6712300001,
+  "competitive": 0.8067051720490372,
+  "priceChange24h": -0.001,
+  "hybridScore": 6.092590731345281,
+  "category": "Sports"
+}

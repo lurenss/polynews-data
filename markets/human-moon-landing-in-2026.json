@@ -1,0 +1,29 @@
+{
+  "id": "human-moon-landing-in-2026",
+  "title": "Human moon landing in 2026?",
+  "description": "This market will resolve to \"Yes\" if any human-crewed mission lands on the moon between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA touchdown of the spacecraft with humans aboard will be sufficient to resolve this market to \"Yes\", regardless of technical complications.\n\nThe resolution source will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.061",
+    "0.939"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1375.547788,
+  "liquidity": 34184.43895,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2026-01-07T20:41:56.754741Z",
+  "clobTokenIds": [
+    "28341635557911393150957317220979689346286160229232485531195528953133660242151",
+    "110420951352726780968858751854229131963307700036109190281766766630426312327876"
+  ],
+  "volumeTotal": 1831367.74849,
+  "volume1wk": 1693429.907111006,
+  "competitive": 0.8384190435147868,
+  "priceChange24h": 0,
+  "hybridScore": 5.191934983072731,
+  "category": "Economics"
+}

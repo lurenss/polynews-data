@@ -1,0 +1,29 @@
+{
+  "id": "will-bitcoin-reach-110k-in-february-2026",
+  "title": "Will Bitcoin reach $110,000 in February?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for BTC/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final High price equal to or greater than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT High prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 90230.05346499999,
+  "liquidity": 132574.10173,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-01T05:00:00Z",
+  "createdAt": "2026-01-31T02:13:36.199413Z",
+  "clobTokenIds": [
+    "79658910652442637739434561953407020112938037142047380102012318170773246663203",
+    "4153034864262878743209029003172184314636153713898548956027874811589819148751"
+  ],
+  "volumeTotal": 916185.069419,
+  "volume1wk": 913985.9711799995,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 5.700685215364704,
+  "category": "Crypto"
+}

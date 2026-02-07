@@ -1,0 +1,29 @@
+{
+  "id": "will-the-los-angeles-clippers-win-the-2026-nba-finals",
+  "title": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Los Angeles Clippers win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0135",
+    "0.9865"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 25810.875162,
+  "liquidity": 102033.77128,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:34.141944Z",
+  "clobTokenIds": [
+    "80136419076132148090526858778468252473966514781048966836641001333641477735657",
+    "100235989029685073759381739968451115214418100567849447959982124994783813707575"
+  ],
+  "volumeTotal": 3227728.161388,
+  "volume1wk": 371137.9235040002,
+  "competitive": 0.8086151475045429,
+  "priceChange24h": -0.002,
+  "hybridScore": 5.737469487743519,
+  "category": "Sports"
+}

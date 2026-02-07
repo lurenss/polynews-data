@@ -1,0 +1,29 @@
+{
+  "id": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
+  "title": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.056",
+    "0.944"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 78269.18574299994,
+  "liquidity": 289962.77313,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:01.162383Z",
+  "clobTokenIds": [
+    "71169839497420596285841847514123589847893415750912355173877524195175834054354",
+    "55290827599553280245963175724940496753557722439999671239772487781170052583987"
+  ],
+  "volumeTotal": 4044314.483697,
+  "volume1wk": 294013.12087899935,
+  "competitive": 0.8353269803932051,
+  "priceChange24h": -0.001,
+  "hybridScore": 6.038612648642127,
+  "category": "Politics"
+}

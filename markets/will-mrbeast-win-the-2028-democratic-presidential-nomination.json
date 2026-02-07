@@ -1,0 +1,29 @@
+{
+  "id": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
+  "title": "Will MrBeast win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 152700.87576899995,
+  "liquidity": 1463172.10534,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:22.639481Z",
+  "clobTokenIds": [
+    "51035537065442638321333063915918274102446051033989435618245745345113522914516",
+    "93910251767329056141706007839545721784238465183449597462421810827705938093892"
+  ],
+  "volumeTotal": 28613001.998285,
+  "volume1wk": 913918.7591469998,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0,
+  "hybridScore": 6.57690574774271,
+  "category": "Politics"
+}

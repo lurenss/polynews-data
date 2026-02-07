@@ -1,0 +1,29 @@
+{
+  "id": "will-rand-paul-win-the-2028-republican-presidential-nomination",
+  "title": "Will Rand Paul win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 23560.037992,
+  "liquidity": 333064.94394,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:19.246735Z",
+  "clobTokenIds": [
+    "56369772478534954338683665819559528414197495274302917800610633957542171787417",
+    "97912974556505097471140703824534539631227593711361303698649171859837355186863"
+  ],
+  "volumeTotal": 9974681.731859,
+  "volume1wk": 582652.4920469997,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0,
+  "hybridScore": 6.021791925928348,
+  "category": "Politics"
+}

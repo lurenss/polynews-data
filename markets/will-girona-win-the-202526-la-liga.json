@@ -1,0 +1,29 @@
+{
+  "id": "will-girona-win-the-202526-la-liga",
+  "title": "Will Girona win the 2025–26 La Liga?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 La Liga.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 La Liga. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 La Liga season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from La Liga. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 33224.968,
+  "liquidity": 389645.95425,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-30T00:00:00Z",
+  "createdAt": "2025-07-21T21:26:41.862135Z",
+  "clobTokenIds": [
+    "68618188933080512964038260995023366053185799905309019014992518995975618016166",
+    "23372002659269712721625274671166233511290910792444491313409240473689348917142"
+  ],
+  "volumeTotal": 4473845.100867,
+  "volume1wk": 171447.91999999995,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 5.935809675992804,
+  "category": "Economics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-crystal-palace-win-the-202526-english-premier-league",
+  "title": "Will Crystal Palace win the 2025–26 English Premier League?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 English Premier League.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 English Premier League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 English Premier League season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the English Premier League. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 86171.03499999999,
+  "liquidity": 1115017.57888,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-27T00:00:00Z",
+  "createdAt": "2025-07-21T21:13:05.836422Z",
+  "clobTokenIds": [
+    "19290389377462768916644385757633311407772059127485132358381285671523884225788",
+    "80957076568129450869686175231049373382785292510301763260592056964542912568759"
+  ],
+  "volumeTotal": 9755570.170936,
+  "volume1wk": 813594.5090000003,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.286727116092036,
+  "category": "Economics"
+}

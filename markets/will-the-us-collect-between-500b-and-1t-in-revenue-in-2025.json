@@ -1,0 +1,29 @@
+{
+  "id": "will-the-us-collect-between-500b-and-1t-in-revenue-in-2025",
+  "title": "Will the U.S. collect between $500b and $1t in revenue in 2025?",
+  "description": "The U.S. government collected $82.2b in customs duties in FY 2025 (See: https://www.fiscal.treasury.gov/files/reports-statements/financial-report/2024/notes-to-the-financial-statements19.pdf).\n\nThis market will resolve according to the value of customs duties collected in FY 2025 according to the Financial Report of the United States Government published by the Treasury Department for FY 2025 (See: https://www.fiscal.treasury.gov/reports-statements/financial-report/)\n\nIf the Treasury Department does not publish relevant data for FY 2025 by February 28, 2026, 11:59 PM ET, this market will resolve to the lowest bracket. \n\nThe resolution source will be the Treasury Department.",
+  "outcomePrices": [
+    "0.005",
+    "0.995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 718716.9743390001,
+  "liquidity": 19407.52642,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T12:00:00Z",
+  "createdAt": "2025-04-15T21:37:24.104241Z",
+  "clobTokenIds": [
+    "14642427631762357507939608294887050551300827907746951519205602696553287464979",
+    "107108677406570769174644732556082858255108204503861334566787299375848455720534"
+  ],
+  "volumeTotal": 1967185.173384,
+  "volume1wk": 1436182.3339039998,
+  "competitive": 0.8031967229573703,
+  "priceChange24h": 0,
+  "hybridScore": 5.935300972742865,
+  "category": "Economics"
+}

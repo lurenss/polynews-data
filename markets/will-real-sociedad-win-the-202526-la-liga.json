@@ -1,0 +1,29 @@
+{
+  "id": "will-real-sociedad-win-the-202526-la-liga",
+  "title": "Will Real Sociedad win the 2025–26 La Liga?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 La Liga.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 La Liga. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 La Liga season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from La Liga. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 28278.152999999995,
+  "liquidity": 389537.60572,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-30T00:00:00Z",
+  "createdAt": "2025-07-21T21:26:41.349531Z",
+  "clobTokenIds": [
+    "38833914631096887115559828826164561131114710008350111509185642410015792861525",
+    "64593718191205213032989490859473612356330746129285455412509361326924170659077"
+  ],
+  "volumeTotal": 3165080.854525,
+  "volume1wk": 183648.06499999986,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 5.854663708736864,
+  "category": "Economics"
+}

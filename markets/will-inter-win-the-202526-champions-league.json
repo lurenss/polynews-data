@@ -1,0 +1,29 @@
+{
+  "id": "will-inter-win-the-202526-champions-league",
+  "title": "Will Inter win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.031",
+    "0.969"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 48434.36235799994,
+  "liquidity": 140256.51689,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:43.95435Z",
+  "clobTokenIds": [
+    "107589889099988041445300607606991516566670120875767300754708868073036165511332",
+    "88600268059883443385048654191981648497829094336579730410215438763388869951622"
+  ],
+  "volumeTotal": 2406922.888686,
+  "volume1wk": 225984.4701359999,
+  "competitive": 0.8196983346188936,
+  "priceChange24h": 0.0005,
+  "hybridScore": 5.807217272672586,
+  "category": "Economics"
+}

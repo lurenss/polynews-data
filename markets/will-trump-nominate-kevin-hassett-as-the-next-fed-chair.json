@@ -1,0 +1,29 @@
+{
+  "id": "will-trump-nominate-kevin-hassett-as-the-next-fed-chair",
+  "title": "Will Trump nominate Kevin Hassett as the next Fed chair?",
+  "description": "This market will resolve according to the next individual Donald Trump, as President of the United States, formally nominates to be Chair of the Federal Reserve by December 31, 2026, 11:59 PM ET. \n\nFormal nominations are defined as the submission of a nomination message to the U.S. Senate.\n\nActing or interim appointments will not count unless the individual is formally nominated to be Chair of the Federal Reserve by submission of a nomination message to the U.S. Senate.\n\nThe primary resolution source for this market will be official information from the U.S. Senate (see: https://www.senate.gov/legislative/nominations_new.htm), however a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0035",
+    "0.9965"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 333906.79866200004,
+  "liquidity": 574745.20907,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-08-05T17:13:19.537154Z",
+  "clobTokenIds": [
+    "34551606549875928972193520396544368029176529083448203019529657908155427866742",
+    "22802130763821766047382314926654345322953005062130920361011056163048911488589"
+  ],
+  "volumeTotal": 23804622.089951,
+  "volume1wk": 3736528.1872190004,
+  "competitive": 0.8022384055993032,
+  "priceChange24h": -0.001,
+  "hybridScore": 6.561886121203162,
+  "category": "Politics"
+}

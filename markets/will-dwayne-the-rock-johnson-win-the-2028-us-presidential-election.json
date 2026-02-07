@@ -1,0 +1,29 @@
+{
+  "id": "will-dwayne-the-rock-johnson-win-the-2028-us-presidential-election",
+  "title": "Will Dwayne 'The Rock' Johnson win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0135",
+    "0.9865"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 20324.551743999993,
+  "liquidity": 303170.32785,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:11.139371Z",
+  "clobTokenIds": [
+    "76252402837334795047528042167618984089231134882494719641438604550246396692717",
+    "82779978600617806806814031291287454099780828258739355925042203335968508676880"
+  ],
+  "volumeTotal": 2496992.581881,
+  "volume1wk": 108075.56431000015,
+  "competitive": 0.8086151475045429,
+  "priceChange24h": 0.0015,
+  "hybridScore": 5.756332446161312,
+  "category": "Politics"
+}

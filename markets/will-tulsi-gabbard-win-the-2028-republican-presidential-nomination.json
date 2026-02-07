@@ -1,0 +1,29 @@
+{
+  "id": "will-tulsi-gabbard-win-the-2028-republican-presidential-nomination",
+  "title": "Will Tulsi Gabbard win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 55373.37412399999,
+  "liquidity": 343851.84484,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:04.683789Z",
+  "clobTokenIds": [
+    "111796631871113641071635832853519973638674140424258605036492112910151603434351",
+    "72519808073108999474312955064075820476359073658026830985534265136852842710652"
+  ],
+  "volumeTotal": 5266134.116926,
+  "volume1wk": 603257.6870640002,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 6.023656512273552,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-bournemouth-win-the-202526-english-premier-league",
+  "title": "Will Bournemouth win the 2025–26 English Premier League?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 English Premier League.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 English Premier League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 English Premier League season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the English Premier League. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 30681.00099999999,
+  "liquidity": 862299.43342,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-27T00:00:00Z",
+  "createdAt": "2025-07-21T21:13:04.114438Z",
+  "clobTokenIds": [
+    "100646189122045324085441981910429777404802784273520591954905628395853532287622",
+    "101989278571416480151849250286480828784664704188397554553029534819446619245698"
+  ],
+  "volumeTotal": 8791635.110163,
+  "volume1wk": 518631.986955,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.111784416384629,
+  "category": "Economics"
+}

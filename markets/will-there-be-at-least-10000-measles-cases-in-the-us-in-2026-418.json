@@ -1,0 +1,29 @@
+{
+  "id": "will-there-be-at-least-10000-measles-cases-in-the-us-in-2026-418",
+  "title": "Will there be at least 10000 measles cases in the U.S. in 2026?",
+  "description": "This market will resolve to \"Yes\" if there have been the specified amount or more confirmed cases of Measles (Rubeola) in humans in the territory of the United States of America in 2026 according to the CDC case counter between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market will be the CDC Measles (Rubeola) counter (see: https://www.cdc.gov/measles/data-research/index.html) at the resolution time. If the counter becomes unavailable, another credible source will be used.\n\nNote: Only cases reported by the CDC Measles (Rubeola) counter will qualify, regardless of reports from U.S. State agencies or other sources.",
+  "outcomePrices": [
+    "0.2845",
+    "0.7155"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 3848.434017000002,
+  "liquidity": 6482.93833,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-27T18:00:54.515667Z",
+  "clobTokenIds": [
+    "108666902993460052548356894576792031068019553485832706137527731404107083354939",
+    "61371441917995783761706990607573951646880237796683453244719301289670873215471"
+  ],
+  "volumeTotal": 6071822.660271,
+  "volume1wk": 46217.7198640002,
+  "competitive": 0.955620734198632,
+  "priceChange24h": 0.0065,
+  "hybridScore": 5.50693523331096,
+  "category": "Economics"
+}

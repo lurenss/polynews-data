@@ -1,0 +1,29 @@
+{
+  "id": "will-trump-nominate-larry-lindsey-as-the-next-fed-chair",
+  "title": "Will Trump nominate Larry Lindsey as the next Fed chair?",
+  "description": "This market will resolve according to the next individual Donald Trump, as President of the United States, formally nominates to be Chair of the Federal Reserve by December 31, 2026, 11:59 PM ET. \n\nFormal nominations are defined as the submission of a nomination message to the U.S. Senate.\n\nActing or interim appointments will not count unless the individual is formally nominated to be Chair of the Federal Reserve by submission of a nomination message to the U.S. Senate.\n\nThe primary resolution source for this market will be official information from the U.S. Senate (see: https://www.senate.gov/legislative/nominations_new.htm), however a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0005",
+    "0.9995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 26020,
+  "liquidity": 3398303.37321,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-08-05T17:13:30.55212Z",
+  "clobTokenIds": [
+    "52281335028968805503254491451326843095467394147503973284515594816003833390796",
+    "64403856105634968862484414903719206928263284395071232431275681844780056528972"
+  ],
+  "volumeTotal": 5931692.678687,
+  "volume1wk": 30062,
+  "competitive": 0.8003199679231757,
+  "priceChange24h": 0,
+  "hybridScore": 6.1404411037433935,
+  "category": "Politics"
+}

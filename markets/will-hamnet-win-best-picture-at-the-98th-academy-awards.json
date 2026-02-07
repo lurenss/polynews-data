@@ -1,0 +1,29 @@
+{
+  "id": "will-hamnet-win-best-picture-at-the-98th-academy-awards",
+  "title": "Will Hamnet win Best Picture at the 98th Academy Awards?",
+  "description": "The Academy Awards are presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS) to honor outstanding artistic and technical achievements in film. For the 98th Academy Awards in 2026, nominations are scheduled to be announced on January 22, followed by the ceremony on March 15, 2026.\n\nThis market will resolve according to the listed movie that wins the 98th Academy Award for Best Picture. \n\nIf a film is not officially nominated for the Academy Award for Best Picture when the 2026 nominees are announced, the corresponding market will immediately resolve to \"No\".\n\nIn case of a tie for the winner, this market will resolve in favor of the nominated film whose listed name comes first in alphabetical order.\n\nIf, for any reason, no winner is declared by June 30, 2026, 11:59 PM ET,  this market will resolve to \"Other\".\n\nThe primary resolution source for this market will be official information from the Academy Awards and AMPAS, including data from their website (e.g., https://www.oscars.org/) and the live broadcast of the award ceremony; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.058",
+    "0.942"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 19481.449682000002,
+  "liquidity": 55678.25769,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-15T00:00:00Z",
+  "createdAt": "2025-09-26T15:57:21.704667Z",
+  "clobTokenIds": [
+    "17781966920345001333694873962725544399622962807536262226327461471000709887625",
+    "69810463519685390977705287406030999283280450973077240059184219530164978871715"
+  ],
+  "volumeTotal": 643354.958688,
+  "volume1wk": 151259.68059800006,
+  "competitive": 0.8365652638024903,
+  "priceChange24h": 0.0035,
+  "hybridScore": 5.395977551189943,
+  "category": "Economics"
+}

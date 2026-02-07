@@ -1,0 +1,29 @@
+{
+  "id": "will-trump-nominate-ron-paul-as-the-next-fed-chair",
+  "title": "Will Trump nominate Ron Paul as the next Fed chair?",
+  "description": "This market will resolve according to the next individual Donald Trump, as President of the United States, formally nominates to be Chair of the Federal Reserve by December 31, 2026, 11:59 PM ET. \n\nFormal nominations are defined as the submission of a nomination message to the U.S. Senate.\n\nActing or interim appointments will not count unless the individual is formally nominated to be Chair of the Federal Reserve by submission of a nomination message to the U.S. Senate.\n\nThe primary resolution source for this market will be official information from the U.S. Senate (see: https://www.senate.gov/legislative/nominations_new.htm), however a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0005",
+    "0.9995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 37020,
+  "liquidity": 3484374.82469,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-08-05T17:13:24.319551Z",
+  "clobTokenIds": [
+    "84470117581201552292019212437667888766423948468396842585606516045633661750278",
+    "47280097262783957280049874418620119471688499199710195097552433273366053089773"
+  ],
+  "volumeTotal": 12435067.084833,
+  "volume1wk": 64960,
+  "competitive": 0.8003199679231757,
+  "priceChange24h": 0,
+  "hybridScore": 6.317138676965266,
+  "category": "Politics"
+}

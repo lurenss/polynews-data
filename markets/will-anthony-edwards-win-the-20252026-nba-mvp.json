@@ -1,0 +1,29 @@
+{
+  "id": "will-anthony-edwards-win-the-20252026-nba-mvp",
+  "title": "Will Anthony Edwards win the 2025–2026 NBA MVP?",
+  "description": "This market will resolve to \"Yes\" if Anthony Edwards is awarded the 2025–26 regular season NBA Most Valuable Player (MVP) Award. Otherwise, this market will resolve to \"No\".\n\nIf the listed player is not announced as a finalist for the 2025–26 NBA MVP award, this market will immediately resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the NBA. However, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.005",
+    "0.995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 9075.390350000001,
+  "liquidity": 100382.92195,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-10T00:00:00Z",
+  "createdAt": "2025-07-16T16:03:22.287946Z",
+  "clobTokenIds": [
+    "37530499493117195782451233735171313136269148305511339352740697906918439679769",
+    "78479552665098816655928352883908122960617168323933482475119854343373488178805"
+  ],
+  "volumeTotal": 722553.820064,
+  "volume1wk": 87108.28269000001,
+  "competitive": 0.8031967229573703,
+  "priceChange24h": 0,
+  "hybridScore": 5.334451825445611,
+  "category": "Sports"
+}

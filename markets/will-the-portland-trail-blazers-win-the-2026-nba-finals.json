@@ -1,0 +1,29 @@
+{
+  "id": "will-the-portland-trail-blazers-win-the-2026-nba-finals",
+  "title": "Will the Portland Trail Blazers win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Portland Trail Blazers win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.003",
+    "0.997"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 38550.13383199999,
+  "liquidity": 484306.10268,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:39.128911Z",
+  "clobTokenIds": [
+    "82402823484466457361170410951601106261368113664328436062375970009969959380598",
+    "48262548906086150698299934962091284390063927164151224719187427455086357699251"
+  ],
+  "volumeTotal": 6240773.503277,
+  "volume1wk": 485424.11962,
+  "competitive": 0.8019188313797254,
+  "priceChange24h": 0,
+  "hybridScore": 6.032849541972978,
+  "category": "Sports"
+}

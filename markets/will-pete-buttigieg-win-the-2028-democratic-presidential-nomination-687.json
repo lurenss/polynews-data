@@ -1,0 +1,29 @@
+{
+  "id": "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687",
+  "title": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.045",
+    "0.955"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2443.921625,
+  "liquidity": 578518.0328,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:00.378246Z",
+  "clobTokenIds": [
+    "91031279171981959197361710127213577102576826515163085396576756946418341946256",
+    "18494065527924073750217237765784380365430319396356251245973222791140100738948"
+  ],
+  "volumeTotal": 1874511.419255,
+  "volume1wk": 105541.64825,
+  "competitive": 0.8284832542822228,
+  "priceChange24h": 0,
+  "hybridScore": 5.506581595966842,
+  "category": "Politics"
+}

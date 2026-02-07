@@ -1,0 +1,29 @@
+{
+  "id": "will-josh-shapiro-win-the-2028-us-presidential-election",
+  "title": "Will Josh Shapiro win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0355",
+    "0.9645"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 30684.79844200004,
+  "liquidity": 176058.4676,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:00.147021Z",
+  "clobTokenIds": [
+    "1420113190297259908358916251277696183671602680024474979931472444792502392139",
+    "9195312844128905514645503106857912558078141569888031031723687687489317147622"
+  ],
+  "volumeTotal": 3196714.779371,
+  "volume1wk": 190445.5428029999,
+  "competitive": 0.822530593511344,
+  "priceChange24h": -0.003,
+  "hybridScore": 5.819625308690803,
+  "category": "Politics"
+}

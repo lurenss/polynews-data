@@ -1,0 +1,29 @@
+{
+  "id": "will-leverkusen-win-the-202526-champions-league",
+  "title": "Will Leverkusen win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0045",
+    "0.9955"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 192681.47700000007,
+  "liquidity": 498772.33042,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:47.092689Z",
+  "clobTokenIds": [
+    "52573332212624920803134176585325859750004424271300789746166939801263546424199",
+    "54288254310839006245201217334074992898039221641789000270404414089297461110375"
+  ],
+  "volumeTotal": 6131130.799096,
+  "volume1wk": 452679.55553300027,
+  "competitive": 0.8028773518535728,
+  "priceChange24h": -0.001,
+  "hybridScore": 6.242926923619702,
+  "category": "Economics"
+}

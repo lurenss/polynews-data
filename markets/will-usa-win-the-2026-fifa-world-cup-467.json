@@ -1,0 +1,29 @@
+{
+  "id": "will-usa-win-the-2026-fifa-world-cup-467",
+  "title": "Will USA win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0155",
+    "0.9845"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 12004.553061,
+  "liquidity": 322483.57057,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:46.301056Z",
+  "clobTokenIds": [
+    "94603648636330087039501304492699481091005420017442244191603206509188088089447",
+    "45270201343463663182019040935560267543606888663369415494551943549463253748361"
+  ],
+  "volumeTotal": 1909560.365648,
+  "volume1wk": 177370.55470499996,
+  "competitive": 0.8098869377587715,
+  "priceChange24h": 0,
+  "hybridScore": 5.6477768250757885,
+  "category": "Sports"
+}

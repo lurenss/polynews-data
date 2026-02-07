@@ -1,0 +1,29 @@
+{
+  "id": "will-china-invades-taiwan-before-gta-vi-716",
+  "title": "Will China invades Taiwan before GTA VI?",
+  "description": "This market will resolve to \"Yes\" if China commences a military offensive intended to establish control over any portion of the Republic of China (Taiwan) before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nAn announcement of Trump's resignation/removal, or a scheduled departure from office due to the outcome of an election will not alone qualify.\n\nTerritory under the administration of the Republic of China including any inhabited islands will qualify, however uninhabited islands will not qualify.\n\nThe resolution source for China invading Taiwan will be will be official confirmation by China, Taiwan, the United Nations, or any permanent member of the UN Security Council, however a consensus of credible reporting will also be use\n",
+  "outcomePrices": [
+    "0.52",
+    "0.48"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 82.3453,
+  "liquidity": 68471.1836,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-31T12:00:00Z",
+  "createdAt": "2025-05-02T15:22:02.679893Z",
+  "clobTokenIds": [
+    "21695138873211375451055566770107682325494206727818897067665810321709249824909",
+    "17516427576383382756368467656206258206490015951115433065318503962238754362428"
+  ],
+  "volumeTotal": 1283162.655913,
+  "volume1wk": 62408.63926700003,
+  "competitive": 0.9996001599360256,
+  "priceChange24h": 0,
+  "hybridScore": 4.986280149856137,
+  "category": "Politics"
+}

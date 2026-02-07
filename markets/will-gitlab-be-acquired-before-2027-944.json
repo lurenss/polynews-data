@@ -1,0 +1,29 @@
+{
+  "id": "will-gitlab-be-acquired-before-2027-944",
+  "title": "Will GitLab be acquired before 2027?",
+  "description": "This market will resolve to “Yes” if credible reporting confirms that any entity enters into an agreement to acquire the listed company by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nMergers where the listed company is subsumed by another entity will count toward a \"Yes\" resolution.\n\nAn announced agreement between the listed company and an acquiring entity will qualify for a “Yes” resolution, regardless of whether the acquisition is ultimately completed.\n\nThe primary resolution source for this market is official information from the listed company and/or its leadership; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.215",
+    "0.785"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1224.877673,
+  "liquidity": 2113.4395,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-21T13:00:19.571405Z",
+  "clobTokenIds": [
+    "78229401955179772346633280675438287183628102967234404539478345545004251094928",
+    "42718002437679987995641088066046545871003504244898724347868454522650727835167"
+  ],
+  "volumeTotal": 1075855.919371,
+  "volume1wk": 201592.860288,
+  "competitive": 0.9248768757659137,
+  "priceChange24h": -0.095,
+  "hybridScore": 4.929151875955622,
+  "category": "Economics"
+}

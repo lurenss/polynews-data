@@ -1,0 +1,29 @@
+{
+  "id": "will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election",
+  "title": "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?",
+  "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate that wins this election.\n\nThis market includes any potential second round. If the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+  "outcomePrices": [
+    "0.003",
+    "0.997"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 28704.483,
+  "liquidity": 78032.14943,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-10-04T00:00:00Z",
+  "createdAt": "2025-09-17T18:40:10.956262Z",
+  "clobTokenIds": [
+    "91154058715822908897619103072380844452822017332608583147987152526225529443892",
+    "16879668974983992641795221456967869661599530861479349066809692639705609051027"
+  ],
+  "volumeTotal": 1545629.818463,
+  "volume1wk": 155915.925824,
+  "competitive": 0.8019188313797254,
+  "priceChange24h": -0.0005,
+  "hybridScore": 5.59340642352711,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-bayern-munich-win-the-202526-champions-league",
+  "title": "Will Bayern Munich win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.175",
+    "0.825"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 6944.927772,
+  "liquidity": 152403.7235,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:42.094174Z",
+  "clobTokenIds": [
+    "99432401000770353406389174286851792153493338941614722624150072378970973371272",
+    "46985784934245469874674051973070583024711389039998687745451745904831527332283"
+  ],
+  "volumeTotal": 1710272.747979,
+  "volume1wk": 87114.21712100004,
+  "competitive": 0.9044657998869418,
+  "priceChange24h": 0,
+  "hybridScore": 5.58681081605149,
+  "category": "Economics"
+}

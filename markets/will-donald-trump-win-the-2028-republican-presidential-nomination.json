@@ -1,0 +1,29 @@
+{
+  "id": "will-donald-trump-win-the-2028-republican-presidential-nomination",
+  "title": "Will Donald Trump win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.045",
+    "0.955"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 109492.7250559998,
+  "liquidity": 220798.67972,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:02.775241Z",
+  "clobTokenIds": [
+    "3039641309958397001906153616677074061284510636204155275446291716739429262374",
+    "27828976648682466778776999076215423777766972981338264154049603024771135223200"
+  ],
+  "volumeTotal": 3120555.336284,
+  "volume1wk": 450655.1404410004,
+  "competitive": 0.8284832542822228,
+  "priceChange24h": -0.0015,
+  "hybridScore": 6.006792522382347,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "trump-out-as-president-before-2027",
+  "title": "Trump out as President before 2027?",
+  "description": "This market will resolve to “Yes” if Donald Trump resigns or is removed as President or otherwise ceases to be the President of the United States for any period of time by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nAn announcement of Donald Trump's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nOnly permanent removal from office will qualify. Temporary removal (e.g. temporary invocation of the 25th Amendment under Section 3 or a Section 4 invocation not sustained by both Houses of Congress) or impeachment without removal will not count.\n\nA sustained invocation of the Twenty-Fifth Amendment, Section 4 (i.e., if both Houses of Congress, by two-thirds vote, uphold the Vice President and Cabinet’s determination of presidential inability) will qualify for a \"Yes\" resolution. \n\nThe resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.165",
+    "0.835"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 24480.634363999998,
+  "liquidity": 151794.2106,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-05T19:22:29.464133Z",
+  "clobTokenIds": [
+    "59252515735652674747158950210016502214756531287333895140318848923768750410355",
+    "2849827372590072151380088930233312280478318575453624773762283369907909283027"
+  ],
+  "volumeTotal": 2735805.11874,
+  "volume1wk": 254328.11568400016,
+  "competitive": 0.8990986535997662,
+  "priceChange24h": 0,
+  "hybridScore": 5.826836516243663,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
+  "title": "Will the Republican Party control the House after the 2026 Midterm elections?",
+  "description": "This market will resolve according to the party that controls the House of Representatives following the 2026 U.S. House elections scheduled for November 3, 2026.\n\nHouse control is defined as having more than half of the voting members of the U.S. House of Representatives.\n\nIf the outcome of this election is ambiguous given the above rules, this market will remain open until the Speaker of the House is selected following the 2026 U.S. general election, at which point it will resolve to the party the Speaker is affiliated with at the time of their election to that position. If the elected Speaker does not caucus with any listed party this market will resolve “Other”.\n\nDetermination of which party controls the House after the 2026 U.S. House elections will be based on a consensus of credible reporting, or if there is ambiguity, final federal and/or state election authority certification or other final official determination of the 2026 election results.",
+  "outcomePrices": [
+    "0.185",
+    "0.815"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 8655.205299,
+  "liquidity": 247510.105,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-11-03T00:00:00Z",
+  "createdAt": "2025-07-11T19:29:38.154529Z",
+  "clobTokenIds": [
+    "65139230827417363158752884968303867495725894165574887635816574090175320800482",
+    "17371217118862125782438074585166210555214661810823929795910191856905580975576"
+  ],
+  "volumeTotal": 1159193.645048,
+  "volume1wk": 74300.03043700002,
+  "competitive": 0.9097318565352862,
+  "priceChange24h": 0,
+  "hybridScore": 5.595311605247044,
+  "category": "Politics"
+}

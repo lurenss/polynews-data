@@ -1,0 +1,29 @@
+{
+  "id": "will-the-charlotte-hornets-win-the-2026-nba-finals",
+  "title": "Will the Charlotte Hornets win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Charlotte Hornets win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0065",
+    "0.9935"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 123879.59876000004,
+  "liquidity": 239626.14477,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:40.949859Z",
+  "clobTokenIds": [
+    "56958503032603479474712760211473691965846495282533669255954105717594026846100",
+    "65993209531308632524221798569537933773833000068656072810215460807745426846637"
+  ],
+  "volumeTotal": 16091750.353081,
+  "volume1wk": 1306085.8234029992,
+  "competitive": 0.8041544225779221,
+  "priceChange24h": -0.007,
+  "hybridScore": 6.290603939246035,
+  "category": "Sports"
+}

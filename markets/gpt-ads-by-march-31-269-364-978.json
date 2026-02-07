@@ -1,0 +1,29 @@
+{
+  "id": "gpt-ads-by-march-31-269-364-978",
+  "title": "GPT ads by March 31?",
+  "description": "This market will resolve to \"Yes\" if OpenAI integrates advertisements into ChatGPT, GPT-4, GPT-4.1, GPT-5, or any successor general-purpose GPT model made publicly available by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nLimited advertisement releases restricted to a specific region, model, or user group will qualify. The release must be publicly announced as accessible to the relevant users. Closed betas or fully private testing do not count.\n\nOnce implemented, the market will resolve to “Yes” immediately, regardless of whether the integration is later removed.\n\nAn announcement will not suffice to resolve this market to \"Yes\"; only the release of the advertisement integration will trigger a \"Yes\" resolution for this market.\n\nThe primary resolution source for this market will be official information from OpenAI; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.943",
+    "0.057"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 4407.875125,
+  "liquidity": 7676.30357,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2025-12-05T15:44:24.646639Z",
+  "clobTokenIds": [
+    "60536648348022646352550586947442313118041244817563984620199822407440592419204",
+    "84136020892268767262794307386367333226341389858008276448645597674343577870160"
+  ],
+  "volumeTotal": 569961.889881,
+  "volume1wk": 85388.33611000003,
+  "competitive": 0.835946362337607,
+  "priceChange24h": -0.007,
+  "hybridScore": 5.0086250764276805,
+  "category": "Economics"
+}

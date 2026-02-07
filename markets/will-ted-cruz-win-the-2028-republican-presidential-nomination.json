@@ -1,0 +1,29 @@
+{
+  "id": "will-ted-cruz-win-the-2028-republican-presidential-nomination",
+  "title": "Will Ted Cruz win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0165",
+    "0.9835"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 67124.82825600001,
+  "liquidity": 229808.45707,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:11.617768Z",
+  "clobTokenIds": [
+    "75602319799101799832214450648958470414659751617273540482126444460192042893239",
+    "67427191791815068910367164354907762897739120962449893449251138341231627575633"
+  ],
+  "volumeTotal": 4930509.388836,
+  "volume1wk": 611778.3284000002,
+  "competitive": 0.8105223634264752,
+  "priceChange24h": 0.001,
+  "hybridScore": 6.008019591288335,
+  "category": "Politics"
+}

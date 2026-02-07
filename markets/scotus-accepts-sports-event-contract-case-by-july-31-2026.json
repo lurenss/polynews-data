@@ -1,0 +1,29 @@
+{
+  "id": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
+  "title": "SCOTUS accepts sports event contract case by July 31, 2026?     ",
+  "description": "This market will resolve to \"Yes\" if the Supreme Court of the United States grants certiorari in a case explicitly concerning the legality, regulation, or jurisdictional authority over sports event contracts by July 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nA case qualifies if it addresses at least one of the following: (1) whether contracts based on sporting event outcomes constitute regulated derivatives under the Commodity Exchange Act; (2) whether federal regulation via the Commodity Futures Trading Commission preempts state-level gambling laws as applied to such contracts; or (3) whether sports event contracts offered by federally licensed markets may legally be offered, restricted, or prohibited by federal or state authorities.\n\nThe certiorari grant must be publicly confirmed via the official SCOTUS docket or orders list, and verifiable through credible legal reporting or the Supreme Court’s official website. The case does not need to be heard, scheduled, or decided to qualify. \n\nThe resolution source will be a consensus census of credible reporting. ",
+  "outcomePrices": [
+    "0.175",
+    "0.825"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 164.89070000000004,
+  "liquidity": 2683.8111,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-31T00:00:00Z",
+  "createdAt": "2025-07-15T15:56:24.794278Z",
+  "clobTokenIds": [
+    "43377185540092441472523885859099478235201860627294255832516299903130560463298",
+    "17398942423057686582491252867921221591924525918102079345877032638913486446065"
+  ],
+  "volumeTotal": 901723.795103,
+  "volume1wk": 2970.843461,
+  "competitive": 0.9044657998869418,
+  "priceChange24h": -0.1,
+  "hybridScore": 4.638224763466474,
+  "category": "Economics"
+}

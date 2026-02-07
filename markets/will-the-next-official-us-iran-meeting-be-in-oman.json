@@ -1,0 +1,29 @@
+{
+  "id": "will-the-next-official-us-iran-meeting-be-in-oman",
+  "title": "Will the next official US-Iran meeting be in Oman?",
+  "description": "This market will resolve according to the country in which the next official diplomatic meeting between government representatives of the United States and Iran takes place by February 13, 2026, 11:59 PM ET.\n\nOfficial diplomatic meeting refers to a deliberate meeting between representatives of the US and Iran who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding US-Iranian relations on behalf of their government. Brief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, meetings through a third-party relaying messages (not including translators), or other meetings where the relevant parties are not present and interacting with each other will not count.\n\nIf the next official meetings between government representatives of the United States and Iran takes place in any country other than the listed options, this market will resolve to “Another Country”.\n\nIf no qualifying meeting takes place by February 13, 2026, 11:59 PM ET, this market will resolve to “No Meeting by Feb 13”.\n\nIf a qualifying meeting occurs in more than one country, resolution will be based on where the meeting begins.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.9985",
+    "0.0015"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 646485.0315689999,
+  "liquidity": 2623276.97728,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-13T00:00:00Z",
+  "createdAt": "2026-02-03T20:22:59.891431Z",
+  "clobTokenIds": [
+    "110752240302764069094765844423880883510535883699501945614788674265037755854960",
+    "83575302115428602925683482942755102848504639726864326546124448397919646671391"
+  ],
+  "volumeTotal": 1085848.404693,
+  "volume1wk": 1074117.694693,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0.8035,
+  "hybridScore": 6.242204155315486,
+  "category": "Economics"
+}

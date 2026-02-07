@@ -1,0 +1,29 @@
+{
+  "id": "will-elon-musk-buy-ryanair",
+  "title": "Will Elon Musk buy Ryanair?",
+  "description": "On January 16, Elon Musk posted that buying Ryanair might be a \"good idea.\" You can read more about that here: https://x.com/elonmusk/status/2012172825444913299\n\nThis market will resolve to “Yes” if credible reporting confirms that Elon Musk, either personally or through an entity led or majority owned by him, enters into an agreement to buy Ryanair by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nAn announced agreement between Elon Musk and Ryanair will qualify for a “Yes” resolution, regardless of whether the acquisition is ultimately completed.\n\nAn agreement to merge with a qualifying entity will count toward \"Yes\" resolution.\n\nThe primary resolution source for this market is official information from Elon Musk and Ryanair, however a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.0335",
+    "0.9665"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 4946.947051000001,
+  "liquidity": 80731.05207,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2026-01-17T03:14:30.995565Z",
+  "clobTokenIds": [
+    "46845794667245845090535661282837962772986744469639958781156040973205830988867",
+    "29841999880530451517107551406493625607655289160330010851567822818547696840316"
+  ],
+  "volumeTotal": 2280451.399519,
+  "volume1wk": 138827.646496,
+  "competitive": 0.8212727715841264,
+  "priceChange24h": 0.001,
+  "hybridScore": 5.454217887576489,
+  "category": "Economics"
+}

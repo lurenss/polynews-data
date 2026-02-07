@@ -1,0 +1,29 @@
+{
+  "id": "will-alaves-win-the-202526-la-liga",
+  "title": "Will Alaves win the 2025–26 La Liga?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 La Liga.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 La Liga. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 La Liga season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from La Liga. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 122983.82699999998,
+  "liquidity": 224405.81553,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-30T00:00:00Z",
+  "createdAt": "2025-07-21T21:26:45.215147Z",
+  "clobTokenIds": [
+    "2332629074636401386026245426018454153414870991842096222001843559040286339925",
+    "23706361105201244918631084152916300962671044173775786064171502103822747104834"
+  ],
+  "volumeTotal": 5984441.507566,
+  "volume1wk": 420454.4539999999,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.108931858497341,
+  "category": "Economics"
+}

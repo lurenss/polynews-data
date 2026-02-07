@@ -1,0 +1,29 @@
+{
+  "id": "will-zohran-mamdani-win-the-2028-us-presidential-election",
+  "title": "Will Zohran Mamdani win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 224835.37084400005,
+  "liquidity": 736246.15354,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:13.209517Z",
+  "clobTokenIds": [
+    "94621929236241392639802280031607240386237812521756048982107414565863464212526",
+    "37476438367629084207797870684242875797541797912993121111059056752005821579571"
+  ],
+  "volumeTotal": 7866300.546025,
+  "volume1wk": 1674895.5314239983,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 6.342065471536264,
+  "category": "Politics"
+}

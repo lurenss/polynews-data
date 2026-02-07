@@ -1,0 +1,29 @@
+{
+  "id": "will-elon-musk-win-the-2028-us-presidential-election",
+  "title": "Will Elon Musk win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0105",
+    "0.9895"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 261618.03505099993,
+  "liquidity": 727777.41776,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:09.780687Z",
+  "clobTokenIds": [
+    "26641906520532802078452346454133721131611596169940893262820937050881742190686",
+    "59064132013843281708610372809406242099497812053529304284160897825180883604145"
+  ],
+  "volumeTotal": 14986314.134952,
+  "volume1wk": 926884.4620970002,
+  "competitive": 0.8067051720490372,
+  "priceChange24h": 0,
+  "hybridScore": 6.474683752698846,
+  "category": "Politics"
+}

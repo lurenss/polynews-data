@@ -1,0 +1,29 @@
+{
+  "id": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup",
+  "title": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
+  "description": "This market will resolve to “Yes” if the Minnesota Wild win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+  "outcomePrices": [
+    "0.0545",
+    "0.9455"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 980524.916239,
+  "liquidity": 65449.74485,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2025-06-19T18:02:57.925543Z",
+  "clobTokenIds": [
+    "52393600221905688380980180540161090876971894580569515967716227210336633318551",
+    "21431572216384228534336063536634350950418274877940611814171622998125116043513"
+  ],
+  "volumeTotal": 2421665.48489,
+  "volume1wk": 1782123.710096001,
+  "competitive": 0.8343970156956337,
+  "priceChange24h": -0.0185,
+  "hybridScore": 6.148663389978501,
+  "category": "Economics"
+}

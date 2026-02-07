@@ -1,0 +1,29 @@
+{
+  "id": "will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination",
+  "title": "Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0085",
+    "0.9915"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 361863.716423,
+  "liquidity": 395157.28908,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:08.992926Z",
+  "clobTokenIds": [
+    "85795532452312461688342921814235563171225750416821603832877839950165564679042",
+    "39330841918533865878755515006696866431225622573860977548617538419162581783990"
+  ],
+  "volumeTotal": 5563766.50722,
+  "volume1wk": 1004680.8028039996,
+  "competitive": 0.8054303726585385,
+  "priceChange24h": 0.001,
+  "hybridScore": 6.290496053285411,
+  "category": "Politics"
+}

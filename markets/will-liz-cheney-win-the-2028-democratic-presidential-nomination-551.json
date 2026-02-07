@@ -1,0 +1,29 @@
+{
+  "id": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
+  "title": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 346929.290275,
+  "liquidity": 1438276.69387,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:18.381851Z",
+  "clobTokenIds": [
+    "41340056280794024415573839406074658402877379128871144681466050648033201160259",
+    "63802361760137863513735993346883582181207639895442036953936089060482564982249"
+  ],
+  "volumeTotal": 23861851.060597,
+  "volume1wk": 1209402.7242170004,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 6.649515413963552,
+  "category": "Politics"
+}

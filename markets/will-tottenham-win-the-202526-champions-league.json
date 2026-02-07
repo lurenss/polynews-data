@@ -1,0 +1,29 @@
+{
+  "id": "will-tottenham-win-the-202526-champions-league",
+  "title": "Will Tottenham win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0255",
+    "0.9745"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 55892.500275999984,
+  "liquidity": 378247.98289,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:46.40413Z",
+  "clobTokenIds": [
+    "43056875374313905973832907529403631296135811407462538380159199626529592941277",
+    "65810667047011144327728455443307199531009544684982457609131541566841564674781"
+  ],
+  "volumeTotal": 2028480.082812,
+  "volume1wk": 213085.00317700044,
+  "competitive": 0.8162264179434318,
+  "priceChange24h": 0.003,
+  "hybridScore": 5.878858748808561,
+  "category": "Economics"
+}

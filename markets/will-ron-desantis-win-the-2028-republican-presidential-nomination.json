@@ -1,0 +1,29 @@
+{
+  "id": "will-ron-desantis-win-the-2028-republican-presidential-nomination",
+  "title": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0245",
+    "0.9755"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 176294.32316000032,
+  "liquidity": 259772.253,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:06.43886Z",
+  "clobTokenIds": [
+    "12127975650736113116407758794754973741525044713193258995588171654429754588610",
+    "95344728193244020854716971584323868633691370479151373416918812532794690491367"
+  ],
+  "volumeTotal": 2448971.294585,
+  "volume1wk": 417923.31026400067,
+  "competitive": 0.8155939940473872,
+  "priceChange24h": -0.001,
+  "hybridScore": 6.027978666780877,
+  "category": "Politics"
+}

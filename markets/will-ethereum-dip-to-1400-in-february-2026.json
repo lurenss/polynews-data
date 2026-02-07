@@ -1,0 +1,29 @@
+{
+  "id": "will-ethereum-dip-to-1400-in-february-2026",
+  "title": "Will Ethereum dip to $1,400 in February?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for ETH/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final Low price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the ETH/USDT Low prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+  "outcomePrices": [
+    "0.1515",
+    "0.8485"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 31054.152102,
+  "liquidity": 41529.03036,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-01T05:00:00Z",
+  "createdAt": "2026-01-31T02:13:42.184768Z",
+  "clobTokenIds": [
+    "53930876201905769775833958802381389758489256953063876725827229916302861900025",
+    "45901345751687464318297071031339912909664023541296310186478301894748962921622"
+  ],
+  "volumeTotal": 565194.002323,
+  "volume1wk": 562820.8936149998,
+  "competitive": 0.8917009172704411,
+  "priceChange24h": 0.0195,
+  "hybridScore": 5.4638927903883365,
+  "category": "Crypto"
+}

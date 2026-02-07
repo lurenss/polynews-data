@@ -1,0 +1,29 @@
+{
+  "id": "will-gta-6-cost-100",
+  "title": "Will GTA 6 cost $100+?",
+  "description": "This market will resolve to \"Yes\" if the standard edition of Grand Theft Auto VI (GTA 6) launches at $100.00 or more. Otherwise, this market will resolve to \"No\".\n\nThis market will resolve based on the pre-tax launch price in USD of the standard edition of GTA 6 on Xbox or PlayStation as listed on the Microsoft Store or PlayStation Store on the first official day of its release in the United States.\n\nIf the price differs between the Microsoft and PlayStation stores, this market will resolve according to the lower price.\n\nThis market will resolve based on the lowest price version that includes the full standard game with no DLC, etc.\n\nIf GTA 6 is not released by February 28, 2026, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be the Microsoft Store/PlayStation Store, however a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.01",
+    "0.99"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 134926.41835700002,
+  "liquidity": 65028.20563,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T12:00:00Z",
+  "createdAt": "2025-03-06T20:41:04.672081Z",
+  "clobTokenIds": [
+    "28946595841244317705636126646676849578876740730186646421280828201004700559420",
+    "42278252558046940014991595990628759801692726198478046188873057685686228021663"
+  ],
+  "volumeTotal": 3041961.058065,
+  "volume1wk": 797747.390288003,
+  "competitive": 0.8063865817272801,
+  "priceChange24h": 0.0005,
+  "hybridScore": 5.9012998518984086,
+  "category": "Economics"
+}

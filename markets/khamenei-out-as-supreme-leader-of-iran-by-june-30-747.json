@@ -1,0 +1,29 @@
+{
+  "id": "khamenei-out-as-supreme-leader-of-iran-by-june-30-747",
+  "title": "Khamenei out as Supreme Leader of Iran by June 30?",
+  "description": "This market will resolve to \"Yes\" if Iran's Supreme Leader, Ali Khamenei, is removed from power for any length of time by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nKhamenei will be considered to be removed from power if he resigns, is detained, or otherwise loses his position or is prevented from fulfilling his duties as Supreme Leader of Iran within this market's timeframe.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.245",
+    "0.755"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 23981.956683000004,
+  "liquidity": 66030.9094,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2025-11-03T14:51:43.128826Z",
+  "clobTokenIds": [
+    "9116770648672617954873502150906669109632013173266181691206825621739241400461",
+    "23311563303783760858176166115231875564829760730498992986905724285046115223219"
+  ],
+  "volumeTotal": 4361449.832823,
+  "volume1wk": 480683.42704400077,
+  "competitive": 0.938945095185559,
+  "priceChange24h": -0.03,
+  "hybridScore": 5.87271907562425,
+  "category": "Economics"
+}

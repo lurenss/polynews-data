@@ -1,0 +1,29 @@
+{
+  "id": "will-microstrategy-be-delisted-from-the-msci-index-by-march-31",
+  "title": "Microstrategy delisted from MSCI index by March 31?",
+  "description": "This market will resolve to “Yes” if MicroStrategy is removed from either the MSCI World Index or the MSCI USA Index at any point by March 31, 2026, 11:59 PM ET. Otherwise, it will resolve to “No.”\n\nIf MicroStrategy is transferred between indexes (e.g., from MSCI World to another MSCI index), that will also count as a removal for the purposes of this market.\n\nAn official MSCI announcement of removal or transfer will be sufficient for a ‘Yes’ resolution.\n\nThe resolution source will be official MSCI communication or a consensus of credible reporting.\n",
+  "outcomePrices": [
+    "0.045",
+    "0.955"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 4800.549046,
+  "liquidity": 13230.12907,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-04-01T05:00:00Z",
+  "createdAt": "2025-12-03T22:11:40.627253Z",
+  "clobTokenIds": [
+    "5742822704475842231084733812481123869321679563885816521019019075205772524279",
+    "25876458715926452819291149008905329179065285293994316839060861417834340116896"
+  ],
+  "volumeTotal": 723291.502548,
+  "volume1wk": 86503.29871999999,
+  "competitive": 0.8284832542822228,
+  "priceChange24h": -0.004,
+  "hybridScore": 5.100942631634592,
+  "category": "Economics"
+}

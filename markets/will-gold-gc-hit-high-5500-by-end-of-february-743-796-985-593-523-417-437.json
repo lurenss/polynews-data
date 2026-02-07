@@ -1,0 +1,29 @@
+{
+  "id": "will-gold-gc-hit-high-5500-by-end-of-february-743-796-985-593-523-417-437",
+  "title": "Will Gold (GC) hit (HIGH) $5,500 by end of February?",
+  "description": "This market will resolve to \"Yes\" if, on any trading day, the official CME settlement price for the Active Month (front month) of Gold (GC) futures is equal to or above the listed price by the final trading day of February 2026. Otherwise, the market will resolve to \"No\".\n\nFor CME Gold (GC) futures contracts, the Active Month is the nearest of CME's designated delivery-cycle months (February, April, June, August, October, December) that is not the spot month. The Active Month changes automatically on the contract's First Position Date, at which point the next eligible contract month becomes the Active Month.\n\nOnly the Active Month's official settlement price published by CME Group will be considered. Intraday trades, highs, lows, bids, offers, midpoint values, or indicative prices do not count.\n\nNote that the settlement price may differ from the last traded price. CME's methodology to determine the settlement price can vary by commodity and contract.\n\nOnly days on which CME publishes an official settlement price for the Active Month will be included. Days without settlement prices (weekends, holidays, or market closures) are ignored.\n\nThis market will resolve based on the settlement price as it appears on the CME settlement page at the time it is first published for that trading day, regardless of any later corrections or updates.\n\nThe resolution source for this market is the CME Group website — specifically, the daily \"Settlement\" price for the Active Month of Gold (GC) futures.",
+  "outcomePrices": [
+    "0.2855",
+    "0.7145"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 28215.561173999995,
+  "liquidity": 52610.98554,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2026-01-26T21:56:25.79674Z",
+  "clobTokenIds": [
+    "98257025456424215677307133371337623577823422273262288920948321774082518211464",
+    "92873152961305004922714071708599676842667498651324333095990834281045542621033"
+  ],
+  "volumeTotal": 563535.37432,
+  "volume1wk": 368207.1019680003,
+  "competitive": 0.9560135763487977,
+  "priceChange24h": 0.015,
+  "hybridScore": 5.535750521373278,
+  "category": "Economics"
+}

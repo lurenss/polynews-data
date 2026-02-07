@@ -1,0 +1,29 @@
+{
+  "id": "nothing-ever-happens-microstrategy",
+  "title": "Nothing Ever Happens: MicroStrategy",
+  "description": "This market will resolve to “No” if any of the following conditions are met between market creation and March 31, 2026, 11:59 ET:\n\n- MicroStrategy sells any Bitcoin\n- MicroStrategy announces holding 750k+ BTC\n- MicroStrategy announces bankruptcy\n- Strategy (MicroStrategy) (MSTR) added to S&P 500\n\nOtherwise, this market will resolve to “Yes”.\n\nThe full rules for this market can be found here:\nhttps://polymarket-upload.s3.us-east-2.amazonaws.com/MicroStrategy.pdf",
+  "outcomePrices": [
+    "0.7",
+    "0.3"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 6948.042274,
+  "liquidity": 32383.172,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2026-01-06T13:53:41.566461Z",
+  "clobTokenIds": [
+    "99927618232847504496994288441065081609945679346633132009334099819308568825497",
+    "60394230660843917254164018140387874203954230572346677615565137456392605048279"
+  ],
+  "volumeTotal": 708328.740067,
+  "volume1wk": 249329.51449099983,
+  "competitive": 0.9615384615384615,
+  "priceChange24h": -0.025,
+  "hybridScore": 5.356276697759335,
+  "category": "Crypto"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-mclaren-be-the-2026-f1-constructors-champion",
+  "title": "Will McLaren be the 2026 F1 Constructors' Champion?",
+  "description": "This market will resolve according to the winner of the Constructors’ Championship for the 2026 F1 season. \n\nThis market will resolve as soon as the official results of the final scheduled race of the 2026 F1 season are known.\n\nIn the case of a tie between multiple teams, this market will resolve according to the tiebreak procedure used by F1 to determine the 2026 F1 Constructors’ champion.\n\nIf at any point it becomes impossible for a listed team to win the 2026 F1 Constructors’ Championship based on the rules of F1 (e.g., they are mathematically eliminated from contention), the corresponding market will resolve to “No.”\n\nIf the F1 season is permanently canceled or has not been completed by March 31, 2027, 11:59 PM ET, this market will resolve to “Other”.\n\nThe resolution source for this market will be information from F1.",
+  "outcomePrices": [
+    "0.22",
+    "0.78"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 481.562564,
+  "liquidity": 51233.8791,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-06T00:00:00Z",
+  "createdAt": "2025-12-08T23:53:51.684159Z",
+  "clobTokenIds": [
+    "63575687681907441240703046859976736246007169544686604626212007174091647597288",
+    "7628913610468709260359477772777143552322542262280864787601806950384374876254"
+  ],
+  "volumeTotal": 609127.978023,
+  "volume1wk": 9293.899561,
+  "competitive": 0.927299703264095,
+  "priceChange24h": -0.015,
+  "hybridScore": 4.9881626388829865,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-satoshi-move-any-bitcoin-in-2026",
+  "title": "Will Satoshi move any Bitcoin in 2026?",
+  "description": "This market will resolve to “Yes” if any wallet labeled as belonging to Satoshi Nakamoto on Arkham’s Intel Explorer shows an “Outflow” or “Swaps” transaction at any time between January 9, 2026, 1:00 PM ET and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No.”\n\nThe resolution source for this market is Arkham’s Intel Explorer, specifically the entity page for Satoshi Nakamoto available at https://intel.arkm.com/explorer/entity/satoshi-nakamoto\n\nIf Arkham becomes permanently unavailable, this market will resolve based on a consensus of credible sources.\n\n\n",
+  "outcomePrices": [
+    "0.0755",
+    "0.9245"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 73478.212781,
+  "liquidity": 133706.13745,
+  "active": true,
+  "closed": false,
+  "endDate": "2027-01-01T05:00:00Z",
+  "createdAt": "2026-01-09T18:03:52.462137Z",
+  "clobTokenIds": [
+    "112007327373263623178671509828927834172092799802464528122988153704237637965568",
+    "69471008782374192790909758203453762302247599306255707151301915677252063291760"
+  ],
+  "volumeTotal": 943487.868167,
+  "volume1wk": 345757.3021309999,
+  "competitive": 0.8473138350885792,
+  "priceChange24h": -0.0135,
+  "hybridScore": 5.722288813941351,
+  "category": "Crypto"
+}

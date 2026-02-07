@@ -1,0 +1,29 @@
+{
+  "id": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2026-meeting",
+  "title": "Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?",
+  "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal fund range are made by the Federal Open Market Committee (FOMC) meetings.\n\nThis market will resolve to the amount of basis points the upper bound of the target federal funds rate is changed by versus the level it was prior to the Federal Reserve's March 2026 meeting.\n\nIf the target federal funds rate is changed to a level not expressed in the displayed options, the change will be rounded up to the nearest 25 and will resolve to the relevant bracket. (e.g. if there's a cut/increase of 12.5 bps it will be considered to be 25 bps)\n\nThe resolution source for this market is the FOMC’s statement after its meeting scheduled for March 17 - 18, 2026 according to the official calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm.\n\nThe level and change of the target federal funds rate is also published at the official website of the Federal Reserve at https://www.federalreserve.gov/monetarypolicy/openmarket.htm.\n\nThis market may resolve as soon as the FOMC’s statement for their March meeting with relevant data is issued. If no statement is released by the end date of the next scheduled meeting, this market will resolve to the \"No change\" bracket.",
+  "outcomePrices": [
+    "0.135",
+    "0.865"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 572673.932904,
+  "liquidity": 305918.2943,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-18T00:00:00Z",
+  "createdAt": "2025-10-28T20:58:05.284418Z",
+  "clobTokenIds": [
+    "62938043365772447095885755955446362343142416536419862840923032141775380249586",
+    "89036168105179001192755120118050209760422683300339582903158940882158509550672"
+  ],
+  "volumeTotal": 7967878.839186,
+  "volume1wk": 4533857.343464986,
+  "competitive": 0.8824372917999515,
+  "priceChange24h": 0.02,
+  "hybridScore": 6.467468228044868,
+  "category": "Economics"
+}

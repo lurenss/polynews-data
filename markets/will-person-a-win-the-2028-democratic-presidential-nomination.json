@@ -1,0 +1,29 @@
+{
+  "id": "will-person-a-win-the-2028-democratic-presidential-nomination",
+  "title": "Will Hunter Biden win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 160693.02929999965,
+  "liquidity": 1222132.83903,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:20.881711Z",
+  "clobTokenIds": [
+    "11343337042526652606304508556838778144915122118685013460142819817079620240439",
+    "19117858613830240204442128472263675815111662346578092643025820800380629933012"
+  ],
+  "volumeTotal": 22497183.617513,
+  "volume1wk": 676908.2441890001,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0,
+  "hybridScore": 6.526142862986623,
+  "category": "Politics"
+}

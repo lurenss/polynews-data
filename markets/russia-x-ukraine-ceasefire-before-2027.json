@@ -1,0 +1,29 @@
+{
+  "id": "russia-x-ukraine-ceasefire-before-2027",
+  "title": "Russia x Ukraine ceasefire by end of 2026?",
+  "description": "This market will resolve to \"Yes\" if there is an official ceasefire agreement, defined as a publicly announced and mutually agreed halt in military engagement, between Russia and Ukraine by December 31, 2026, 11:59 PM ET.\n\nIf the agreement is officially reached before the resolution date, this market will resolve to \"Yes,\" regardless of whether the ceasefire officially starts afterward.\n\nAny form of informal agreement will not be considered an official ceasefire. Humanitarian pauses will not count toward the resolution of this market.\n\nThis market's resolution will be based on official announcements from both Russia and Ukraine; however, a wide consensus of credible media reporting stating an official ceasefire agreement between Russia and Ukraine has been reached will suffice.",
+  "outcomePrices": [
+    "0.435",
+    "0.565"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 174512.34123999983,
+  "liquidity": 544678.8568,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-07-24T23:09:45.502627Z",
+  "clobTokenIds": [
+    "104071616575689490708756996503755160411785604144351427331378560378097635400347",
+    "27911616648163853231017805596118911526202185567944724228908312975649746722206"
+  ],
+  "volumeTotal": 8764304.3571,
+  "volume1wk": 688398.6897529998,
+  "competitive": 0.9957927755234136,
+  "priceChange24h": 0.01,
+  "hybridScore": 6.492656628692586,
+  "category": "Economics"
+}

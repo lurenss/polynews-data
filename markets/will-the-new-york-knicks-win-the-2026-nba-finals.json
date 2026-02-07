@@ -1,0 +1,29 @@
+{
+  "id": "will-the-new-york-knicks-win-the-2026-nba-finals",
+  "title": "Will the New York Knicks win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the New York Knicks win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.055",
+    "0.945"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 22064.044268,
+  "liquidity": 301793.331,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:28.658881Z",
+  "clobTokenIds": [
+    "20257190540739490630509657713144742134547949967093643458458133445357169845406",
+    "1770840559776249239623005379825945674336282130390798724203946923853499387834"
+  ],
+  "volumeTotal": 2153404.42658,
+  "volume1wk": 160532.29496799991,
+  "competitive": 0.8347071221385196,
+  "priceChange24h": 0,
+  "hybridScore": 5.767011099839078,
+  "category": "Sports"
+}

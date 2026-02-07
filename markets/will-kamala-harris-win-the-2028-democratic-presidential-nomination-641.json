@@ -1,0 +1,29 @@
+{
+  "id": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
+  "title": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.062",
+    "0.938"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 55537.08753900004,
+  "liquidity": 266853.73282,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:03.700437Z",
+  "clobTokenIds": [
+    "38171024903091354977195167437673496224420673639143973968032407064172828043588",
+    "26930844951471612827925270830087046333229637930899178134435055616497220846773"
+  ],
+  "volumeTotal": 5568238.52699,
+  "volume1wk": 460027.67953499913,
+  "competitive": 0.8390359812190186,
+  "priceChange24h": 0.002,
+  "hybridScore": 6.045955402917007,
+  "category": "Politics"
+}

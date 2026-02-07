@@ -1,0 +1,29 @@
+{
+  "id": "khamenei-out-as-supreme-leader-of-iran-by-february-28",
+  "title": "Khamenei out as Supreme Leader of Iran by February 28?",
+  "description": "This market will resolve to \"Yes\" if Iran's Supreme Leader, Ali Khamenei, is removed from power for any length of time between this market's creation and February 28, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nKhamenei will be considered to be removed from power if he resigns, is detained, or otherwise loses his position or is prevented from fulfilling his duties as Supreme Leader of Iran within this market's timeframe.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.065",
+    "0.935"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 371347.59907599963,
+  "liquidity": 349151.9386,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2026-01-14T01:32:41.331106Z",
+  "clobTokenIds": [
+    "39317885422026394259056328144566743331998444273202427934141325790266108570112",
+    "37975265083682450969967223199653164268542375291978582835346444673615244164455"
+  ],
+  "volumeTotal": 6595862.888701,
+  "volume1wk": 3168467.016465002,
+  "competitive": 0.8408837688410519,
+  "priceChange24h": 0,
+  "hybridScore": 6.348130120126276,
+  "category": "Economics"
+}

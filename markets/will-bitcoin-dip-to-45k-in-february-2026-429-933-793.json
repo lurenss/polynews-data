@@ -1,0 +1,29 @@
+{
+  "id": "will-bitcoin-dip-to-45k-in-february-2026-429-933-793",
+  "title": "Will Bitcoin dip to $45,000 in February?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for BTC/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final Low price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT Low prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+  "outcomePrices": [
+    "0.0505",
+    "0.9495"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 229663.48796400017,
+  "liquidity": 104014.29519,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-01T05:00:00Z",
+  "createdAt": "2026-01-31T02:13:41.727216Z",
+  "clobTokenIds": [
+    "114837825043540833283672067889503269800770742012349287528082825707091415484982",
+    "76567812600040744524275218256953311951050034738153459449884702218254274610736"
+  ],
+  "volumeTotal": 1315765.240552,
+  "volume1wk": 1313763.8805519987,
+  "competitive": 0.8319119770575315,
+  "priceChange24h": -0.001,
+  "hybridScore": 5.891331068122197,
+  "category": "Crypto"
+}

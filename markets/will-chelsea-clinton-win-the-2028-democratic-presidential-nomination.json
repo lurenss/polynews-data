@@ -1,0 +1,29 @@
+{
+  "id": "will-chelsea-clinton-win-the-2028-democratic-presidential-nomination",
+  "title": "Will Chelsea Clinton win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 621665.3174170001,
+  "liquidity": 1091459.36119,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:22.130557Z",
+  "clobTokenIds": [
+    "46211769122513729244602558513001215391004042100934296321661285791281233261657",
+    "76057920052421891902791411567177996435483774677774664174053982044923692373687"
+  ],
+  "volumeTotal": 32647644.599836,
+  "volume1wk": 1840921.2535050001,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 6.7560020813541914,
+  "category": "Politics"
+}

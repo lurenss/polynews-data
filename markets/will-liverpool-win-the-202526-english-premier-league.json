@@ -1,0 +1,29 @@
+{
+  "id": "will-liverpool-win-the-202526-english-premier-league",
+  "title": "Will Liverpool win the 2025–26 English Premier League?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 English Premier League.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 English Premier League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 English Premier League season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the English Premier League. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.004",
+    "0.996"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 32675.45922799999,
+  "liquidity": 346044.56933,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-27T00:00:00Z",
+  "createdAt": "2025-07-21T21:12:58.753072Z",
+  "clobTokenIds": [
+    "45490428844116430227464511946812179496772833301930709619155920762438980078343",
+    "98019691446282827283674116828841315574891853949493251990346236030685612262858"
+  ],
+  "volumeTotal": 4449449.285509,
+  "volume1wk": 275294.2916220001,
+  "competitive": 0.8025579125789717,
+  "priceChange24h": -0.001,
+  "hybridScore": 5.92397761193238,
+  "category": "Economics"
+}

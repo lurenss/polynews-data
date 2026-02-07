@@ -1,0 +1,29 @@
+{
+  "id": "will-the-cleveland-cavaliers-win-the-2026-nba-finals",
+  "title": "Will the Cleveland Cavaliers win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Cleveland Cavaliers win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.065",
+    "0.935"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 48450.53410600002,
+  "liquidity": 139041.03527,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:28.173262Z",
+  "clobTokenIds": [
+    "21929863894047830651599085392978377118642353711084157807549430066031384497667",
+    "87330689906224096887625709229706923472442188571057301299963059101866409440363"
+  ],
+  "volumeTotal": 2390345.972313,
+  "volume1wk": 353007.5189709999,
+  "competitive": 0.8408837688410519,
+  "priceChange24h": 0.005,
+  "hybridScore": 5.826489630180461,
+  "category": "Sports"
+}

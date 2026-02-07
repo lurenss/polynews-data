@@ -1,0 +1,29 @@
+{
+  "id": "will-bitcoin-reach-250000-by-december-31-2026",
+  "title": "Will Bitcoin reach $250,000 by December 31, 2026?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for Bitcoin (BTC/USDT) between November 24, 2025, 14:00 and December 31, 2026, 23:59 in the ET timezone has a final \"High\" price equal to or greater than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"High\" prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+  "outcomePrices": [
+    "0.048",
+    "0.952"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 298583.636064,
+  "liquidity": 61033.38273,
+  "active": true,
+  "closed": false,
+  "endDate": "2027-01-01T05:00:00Z",
+  "createdAt": "2025-12-29T15:15:07.148218Z",
+  "clobTokenIds": [
+    "13433573766910980267981622064090484781359464703732825845886677588040916221533",
+    "68320692409850091190490975441025843632582876963922128660910974326175304515755"
+  ],
+  "volumeTotal": 1029841.28565,
+  "volume1wk": 537956.700907002,
+  "competitive": 0.8303551262804076,
+  "priceChange24h": -0.0005,
+  "hybridScore": 5.835098562758802,
+  "category": "Crypto"
+}

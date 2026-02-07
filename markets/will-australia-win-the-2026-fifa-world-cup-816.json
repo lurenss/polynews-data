@@ -1,0 +1,29 @@
+{
+  "id": "will-australia-win-the-2026-fifa-world-cup-816",
+  "title": "Will Australia win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0025",
+    "0.9975"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 21760.227499999997,
+  "liquidity": 759725.44427,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:54.563354Z",
+  "clobTokenIds": [
+    "43661509251351142169227141691164122649250455115438867334436875294380701133091",
+    "36726371220435722462734467218102931225443889493446335046337202920930764439505"
+  ],
+  "volumeTotal": 2004763.682041,
+  "volume1wk": 290897.133999,
+  "competitive": 0.8015991903848178,
+  "priceChange24h": 0,
+  "hybridScore": 5.799861016944996,
+  "category": "Sports"
+}

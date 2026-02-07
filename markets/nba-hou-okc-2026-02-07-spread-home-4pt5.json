@@ -1,0 +1,29 @@
+{
+  "id": "nba-hou-okc-2026-02-07-spread-home-4pt5",
+  "title": "Spread: Thunder (-4.5)",
+  "description": "In the upcoming NBA game, scheduled for February 7 at 3:30 PM ET:\n\nThis market will resolve to \"Thunder\" if the Thunder win the game by 5 or more points.\n\nOtherwise, this market will resolve to \"Rockets\". If the game ends in a tie, this market will resolve to \"Rockets\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50.",
+  "outcomePrices": [
+    "0.465",
+    "0.535"
+  ],
+  "outcomes": [
+    "Thunder",
+    "Rockets"
+  ],
+  "volume24hr": 908119.6795659995,
+  "liquidity": 69387.8358,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-07T20:30:00Z",
+  "createdAt": "2026-02-06T22:10:33.580423Z",
+  "clobTokenIds": [
+    "49504040386469423908774436358894141575473290821607686815564355073734747167100",
+    "6293681959172718364131348996666872839137146752750719177008431950924493628526"
+  ],
+  "volumeTotal": 925408.692367,
+  "volume1wk": 908119.6795659995,
+  "competitive": 0.9987764987889834,
+  "priceChange24h": -0.535,
+  "hybridScore": 6.141011106153233,
+  "category": "Sports"
+}

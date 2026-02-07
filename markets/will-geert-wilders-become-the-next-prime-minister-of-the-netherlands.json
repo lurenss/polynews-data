@@ -1,0 +1,29 @@
+{
+  "id": "will-geert-wilders-become-the-next-prime-minister-of-the-netherlands",
+  "title": "Will Geert Wilders become the next Prime Minister of the Netherlands?",
+  "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0035",
+    "0.9965"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 9257.17795,
+  "liquidity": 75158.59231,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-06-04T19:49:22.678388Z",
+  "clobTokenIds": [
+    "17341591283976249708265102843145010140177116038289454410633359529240476297211",
+    "87279367353669458109256966035486195882105617131709876367579110385360435838834"
+  ],
+  "volumeTotal": 1868266.227372,
+  "volume1wk": 65612.890484,
+  "competitive": 0.8022384055993032,
+  "priceChange24h": -0.0005,
+  "hybridScore": 5.475968544183458,
+  "category": "Politics"
+}

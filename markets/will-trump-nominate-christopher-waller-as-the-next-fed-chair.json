@@ -1,0 +1,29 @@
+{
+  "id": "will-trump-nominate-christopher-waller-as-the-next-fed-chair",
+  "title": "Will Trump nominate Christopher Waller as the next Fed chair?",
+  "description": "This market will resolve according to the next individual Donald Trump, as President of the United States, formally nominates to be Chair of the Federal Reserve by December 31, 2026, 11:59 PM ET. \n\nFormal nominations are defined as the submission of a nomination message to the U.S. Senate.\n\nActing or interim appointments will not count unless the individual is formally nominated to be Chair of the Federal Reserve by submission of a nomination message to the U.S. Senate.\n\nThe primary resolution source for this market will be official information from the U.S. Senate (see: https://www.senate.gov/legislative/nominations_new.htm), however a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0025",
+    "0.9975"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 174210.741497,
+  "liquidity": 365736.39888,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-08-05T17:13:20.108183Z",
+  "clobTokenIds": [
+    "114421380098084026753773605667430150755820287180340356465450569515479471185603",
+    "31167532153450638526564509379216016814499874840833154348394853115050097836415"
+  ],
+  "volumeTotal": 17839389.434482,
+  "volume1wk": 4056188.215162002,
+  "competitive": 0.8015991903848178,
+  "priceChange24h": 0,
+  "hybridScore": 6.3871082956537295,
+  "category": "Politics"
+}

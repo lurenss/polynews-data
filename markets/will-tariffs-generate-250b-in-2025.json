@@ -1,0 +1,29 @@
+{
+  "id": "will-tariffs-generate-250b-in-2025",
+  "title": "Will tariffs generate >$250b in 2025?",
+  "description": "The U.S. government collected $82.2b in customs duties in FY 2025 (See: https://www.fiscal.treasury.gov/files/reports-statements/financial-report/2024/notes-to-the-financial-statements19.pdf).\n\nThis market will resolve to \"Yes\"  if the value of costumes duties collected in FY 2025 according to the Financial Report of the United States Government published by the Treasury Department for FY 2025 (See: https://www.fiscal.treasury.gov/reports-statements/financial-report/) is greater than $250b. Otherwise this market will resolve to \"No\". \n\nIf the Treasury Department does not publish relevant data  for FY 2025 by February 28, 2026, 11:59 PM ET, this market will resolve to \"No\". \n\nThe resolution source will be the Treasury Department.\n",
+  "outcomePrices": [
+    "0.009",
+    "0.991"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 6463.718571,
+  "liquidity": 18290.34918,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T12:00:00Z",
+  "createdAt": "2025-04-15T21:40:58.785759Z",
+  "clobTokenIds": [
+    "7935869750973568991063634796432742901043529564448603464914559127943627115874",
+    "40635745065483171354210492699079862696789237657248181561502664751201684944045"
+  ],
+  "volumeTotal": 1221495.365212,
+  "volume1wk": 67419.97974400014,
+  "competitive": 0.8057491815602688,
+  "priceChange24h": -0.0045,
+  "hybridScore": 5.2361200882847925,
+  "category": "Economics"
+}

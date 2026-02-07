@@ -1,0 +1,29 @@
+{
+  "id": "nothing-ever-happens-khamenei",
+  "title": "Nothing Ever Happens: Khamenei",
+  "description": "This market will resolve to “No” if any of the following conditions are met between market creation and March 31, 2026, 11:59 ET:\n\n- Khamenei out as Supreme Leader of Iran\n- Khamenei leaves Iran\n\nOtherwise, this market will resolve to “Yes”.\n\nKhamenei out as Supreme Leader of Iran:\nThis market will resolve to \"No\" if Iran's Supreme Leader, Ali Khamenei, is removed from power for any length of time during this market’s above-specified time frame. Khamenei will be considered to be removed from power if he resigns, is detained, or otherwise loses his position or is prevented from fulfilling his duties as Supreme Leader of Iran within this market's timeframe. The primary resolution source for this market will be a consensus of credible reporting.\n\nKhamenei leaves Iran:\nThis market will resolve to \"No\" if it is confirmed that Ali Khamenei has left Iran for any length of time during this market’s above-specified time frame. In cases where Ali Khamenei may have exited Iranian airspace on a plane, he must be confirmed to have exited the plane in a country other than Iran for this market to resolve to \"No\". If Ali Khamenei exits Iranian maritime territory on a boat to international waters, this market may resolve to \"No\". The resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.845",
+    "0.155"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2346.733386,
+  "liquidity": 16335.0085,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2026-01-05T22:44:16.221026Z",
+  "clobTokenIds": [
+    "105172792593287085858606406234785306574242246071042157052532529020389839736280",
+    "48235519421790695234133964412652504861896898363257026325653050512366541603070"
+  ],
+  "volumeTotal": 534032.533213,
+  "volume1wk": 72331.241488,
+  "competitive": 0.8936350841134023,
+  "priceChange24h": 0.02,
+  "hybridScore": 5.038486318325397,
+  "category": "Economics"
+}

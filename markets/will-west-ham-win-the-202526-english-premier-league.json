@@ -1,0 +1,29 @@
+{
+  "id": "will-west-ham-win-the-202526-english-premier-league",
+  "title": "Will West Ham win the 2025–26 English Premier League?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 English Premier League.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 English Premier League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 English Premier League season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the English Premier League. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 49607.757,
+  "liquidity": 1090569.38346,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-27T00:00:00Z",
+  "createdAt": "2025-07-21T21:13:05.362713Z",
+  "clobTokenIds": [
+    "22372762924107607377389518493238055420245556927478205009020254863753681448011",
+    "45492490097454038739684132924692677594067216125473796617554646525628353283673"
+  ],
+  "volumeTotal": 13636748.788273,
+  "volume1wk": 1174801.0779999995,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.271042302241294,
+  "category": "Economics"
+}

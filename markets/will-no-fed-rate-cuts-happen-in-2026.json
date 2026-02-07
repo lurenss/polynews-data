@@ -1,0 +1,29 @@
+{
+  "id": "will-no-fed-rate-cuts-happen-in-2026",
+  "title": "Will no Fed rate cuts happen in 2026?",
+  "description": "This market will resolve according to the exact amount of cuts of 25 basis points in 2026 by the Fed (including any cuts made during the December meeting).\n\nEmergency rate cuts outside of scheduled FOMC meetings will also count toward the total number of cuts in 2026. This market will remain open until December 31, 2026, 11:59 PM ET, to account for any such emergency actions.\n\nFor example, if the Fed cuts rates by 50 bps after a meeting, it would be considered 2 cuts (of 25 bps each).\n\nThis market will resolve early to \"No\" if the specified number of cuts becomes impossible — i.e., if more cuts have already occurred than the strike in question.\n\nNote that cuts between 1–24 bps (inclusive) will also be considered 1 rate cut.\n\nThe resolution source for this market will be FOMC statements after meetings scheduled in 2026 according to the official calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm. The level and change of the target federal funds rate is also published at the official website of the Federal Reserve at https://www.federalreserve.gov/monetarypolicy/openmarket.htm.",
+  "outcomePrices": [
+    "0.07",
+    "0.93"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 15391.839815999996,
+  "liquidity": 94803.6615,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-09-29T13:23:19.152108Z",
+  "clobTokenIds": [
+    "12403602920039269077597917340921667997547115084613238528792639013246536343316",
+    "21294592205022969346730955103773391901993330222644504059576935265667917187903"
+  ],
+  "volumeTotal": 792520.356998,
+  "volume1wk": 183361.90855,
+  "competitive": 0.8439530762089628,
+  "priceChange24h": -0.003,
+  "hybridScore": 5.455119029374553,
+  "category": "Economics"
+}

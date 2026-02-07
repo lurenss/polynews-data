@@ -1,0 +1,29 @@
+{
+  "id": "will-tim-walz-win-the-2028-us-presidential-election",
+  "title": "Will Tim Walz win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0065",
+    "0.9935"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 282956.051366,
+  "liquidity": 658709.98693,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:08.2515Z",
+  "clobTokenIds": [
+    "2638997461401140008448476093092229850740161649668999975101243681118238509713",
+    "31711509411930636383466083293019394636501894118049148509527295292186501260570"
+  ],
+  "volumeTotal": 26416447.052445,
+  "volume1wk": 3374935.2101120027,
+  "competitive": 0.8041544225779221,
+  "priceChange24h": 0,
+  "hybridScore": 6.572159329218683,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-athletic-bilbao-win-the-202526-la-liga",
+  "title": "Will Athletic Bilbao win the 2025–26 La Liga?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 La Liga.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 La Liga. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 La Liga season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from La Liga. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.001",
+    "0.999"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1214256,
+  "liquidity": 40900.68226,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-30T00:00:00Z",
+  "createdAt": "2025-07-21T21:26:40.161897Z",
+  "clobTokenIds": [
+    "62879964217939128159041732372471282435867630805374273119612718787570017238994",
+    "13360807129353260055815270900033348118734575281169282485465766555025995785134"
+  ],
+  "volumeTotal": 10256683.467767,
+  "volume1wk": 6823929.237220001,
+  "competitive": 0.8006398713852111,
+  "priceChange24h": 0,
+  "hybridScore": 6.352684088357556,
+  "category": "Economics"
+}

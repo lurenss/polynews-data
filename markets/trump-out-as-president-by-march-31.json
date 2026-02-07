@@ -1,0 +1,29 @@
+{
+  "id": "trump-out-as-president-by-march-31",
+  "title": "Trump out as President by March 31?",
+  "description": "This market will resolve to “Yes” if Donald Trump resigns or is removed as President or otherwise ceases to be the President of the United States for any period of time by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nAn announcement of Donald Trump's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nOnly permanent removal from office will qualify. Temporary removal (e.g. temporary invocation of the 25th Amendment under Section 3 or a Section 4 invocation not sustained by both Houses of Congress) or impeachment without removal will not count.\n\nA sustained invocation of the Twenty-Fifth Amendment, Section 4 (i.e., if both Houses of Congress, by two-thirds vote, uphold the Vice President and Cabinet’s determination of presidential inability) will qualify for a \"Yes\" resolution. \n\nThe resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.0305",
+    "0.9695"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 31999.224561,
+  "liquidity": 119452.72467,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2025-11-05T19:21:21.070587Z",
+  "clobTokenIds": [
+    "35310682957697690340134737345493711959150107013422405879293611184874706794887",
+    "65043136223558236406880883493530246945676092392253490811720228449610885808418"
+  ],
+  "volumeTotal": 2427731.176917,
+  "volume1wk": 295324.62886899995,
+  "competitive": 0.8193831642570315,
+  "priceChange24h": 0.001,
+  "hybridScore": 5.7404493210281995,
+  "category": "Politics"
+}

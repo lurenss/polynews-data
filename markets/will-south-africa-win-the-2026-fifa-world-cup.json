@@ -1,0 +1,29 @@
+{
+  "id": "will-south-africa-win-the-2026-fifa-world-cup",
+  "title": "Will South Africa win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 61180.56799999999,
+  "liquidity": 613472.56305,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:58.14101Z",
+  "clobTokenIds": [
+    "29544965695734183971376022965555206180154533479443150154863135205600734339980",
+    "111245917748445356120705119950074393193967942028497826347734348592797775138872"
+  ],
+  "volumeTotal": 4956545.906138,
+  "volume1wk": 1233333.7441410017,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.072576749468162,
+  "category": "Sports"
+}

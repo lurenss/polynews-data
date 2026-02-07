@@ -1,0 +1,29 @@
+{
+  "id": "will-donald-trump-win-the-2028-us-presidential-election",
+  "title": "Will Donald Trump win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0265",
+    "0.9735"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 39723.82255800002,
+  "liquidity": 258105.42152,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:06.284103Z",
+  "clobTokenIds": [
+    "11807691644868166983390207408868795383945915035851758101409310535538572683733",
+    "72656506786460378316387284276713856836841708169262528054985577978493419440428"
+  ],
+  "volumeTotal": 3936363.035809,
+  "volume1wk": 220900.792428,
+  "competitive": 0.8168584888648914,
+  "priceChange24h": -0.002,
+  "hybridScore": 5.916974942695521,
+  "category": "Politics"
+}

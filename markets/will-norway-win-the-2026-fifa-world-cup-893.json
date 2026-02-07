@@ -1,0 +1,29 @@
+{
+  "id": "will-norway-win-the-2026-fifa-world-cup-893",
+  "title": "Will Norway win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0255",
+    "0.9745"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 41139.44757600001,
+  "liquidity": 262078.11108,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:50.383881Z",
+  "clobTokenIds": [
+    "60447443643099453130956385288904175887233107411078568881602330835010340506057",
+    "111538579557239934343870815626480092245052857494675784434731223739153238373070"
+  ],
+  "volumeTotal": 2728544.018606,
+  "volume1wk": 631270.741726999,
+  "competitive": 0.8162264179434318,
+  "priceChange24h": 0,
+  "hybridScore": 5.858566052465848,
+  "category": "Sports"
+}

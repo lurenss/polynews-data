@@ -1,0 +1,29 @@
+{
+  "id": "zelenskyy-out-as-ukraine-president-before-2027",
+  "title": "Zelenskyy out as Ukraine president by end of 2026?",
+  "description": "This market will resolve to \"Yes\" if Volodymyr Zelenskyy is no longer serving as President of Ukraine for any length of time between July 24 and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nAn announcement of Volodymyr Zelenskyy's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThis market's resolution source will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.25",
+    "0.75"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 3836.631327,
+  "liquidity": 42618.9493,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-07-24T23:14:11.033603Z",
+  "clobTokenIds": [
+    "108187737663325442737199857734058032845728149267925579081973309839049299838520",
+    "12238337804021350373072513606997115174826680613156170611182546081135779794915"
+  ],
+  "volumeTotal": 1508150.428662,
+  "volume1wk": 118210.44678700008,
+  "competitive": 0.9411764705882353,
+  "priceChange24h": 0.015,
+  "hybridScore": 5.413696011474822,
+  "category": "Politics"
+}

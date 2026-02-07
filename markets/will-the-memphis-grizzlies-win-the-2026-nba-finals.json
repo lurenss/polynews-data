@@ -1,0 +1,29 @@
+{
+  "id": "will-the-memphis-grizzlies-win-the-2026-nba-finals",
+  "title": "Will the Memphis Grizzlies win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Memphis Grizzlies win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 96290.518,
+  "liquidity": 880169.15447,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:36.929001Z",
+  "clobTokenIds": [
+    "14471701768196830630634668680091812585489580903183764961933738527738578243643",
+    "24880818617132598688829402716541764724600685149042631991938921403533284241164"
+  ],
+  "volumeTotal": 30176441.817182,
+  "volume1wk": 744149.9655000005,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.476816665135355,
+  "category": "Sports"
+}

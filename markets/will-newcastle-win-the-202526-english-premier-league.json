@@ -1,0 +1,29 @@
+{
+  "id": "will-newcastle-win-the-202526-english-premier-league",
+  "title": "Will Newcastle win the 2025–26 English Premier League?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 English Premier League.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 English Premier League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 English Premier League season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the English Premier League. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 28218.989999999983,
+  "liquidity": 332728.81277,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-27T00:00:00Z",
+  "createdAt": "2025-07-21T21:13:00.946674Z",
+  "clobTokenIds": [
+    "92578288188432979359071261963415339111880931964393842646101434005006460761534",
+    "93889421969336142745558340143509705147769228903969346254516362084783696296524"
+  ],
+  "volumeTotal": 7465517.912427,
+  "volume1wk": 655409.102,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 5.989769109707733,
+  "category": "Economics"
+}

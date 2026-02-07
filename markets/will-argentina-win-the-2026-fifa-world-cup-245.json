@@ -1,0 +1,29 @@
+{
+  "id": "will-argentina-win-the-2026-fifa-world-cup-245",
+  "title": "Will Argentina win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.105",
+    "0.895"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1265.250893,
+  "liquidity": 343762.5932,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:43.302408Z",
+  "clobTokenIds": [
+    "18812649149814341758733697580460697418474693998558159483117100240528657629879",
+    "115428153746996892211798999366308897078723117634059783423375188043903703749062"
+  ],
+  "volumeTotal": 1411837.437035,
+  "volume1wk": 42859.22647299997,
+  "competitive": 0.865033195648883,
+  "priceChange24h": 0,
+  "hybridScore": 5.362955101600548,
+  "category": "Sports"
+}

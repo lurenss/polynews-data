@@ -1,0 +1,29 @@
+{
+  "id": "will-john-cornyn-win-the-2026-republican-primary",
+  "title": "Will John Cornyn win the 2026 Texas Republican Primary?",
+  "description": "This market will resolve according to the winner of the Republican Primary for United States Senator from Texas. \n\nIf no 2026 Texas Republican Senate Primary takes place, this market will resolve to \"Other\".\n\nThe resolution source for this market will be the first announcement of the results from the Texas Republican party, however an overwhelming consensus of credible reporting may suffice.\n",
+  "outcomePrices": [
+    "0.32",
+    "0.68"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 6969.470946000002,
+  "liquidity": 9672.0532,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-03T00:00:00Z",
+  "createdAt": "2025-07-10T21:02:41.206578Z",
+  "clobTokenIds": [
+    "75262277240576503541125200255351734877619831936165222710769956674779076695947",
+    "90947087843800748216337872555249627261367488016883099502112117942793109306639"
+  ],
+  "volumeTotal": 1060044.126154,
+  "volume1wk": 62626.48792699993,
+  "competitive": 0.9686168151879117,
+  "priceChange24h": -0.015,
+  "hybridScore": 5.328837908286434,
+  "category": "Politics"
+}

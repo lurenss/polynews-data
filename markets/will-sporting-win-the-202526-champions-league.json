@@ -1,0 +1,29 @@
+{
+  "id": "will-sporting-win-the-202526-champions-league",
+  "title": "Will Sporting win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0085",
+    "0.9915"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 80410.90994599999,
+  "liquidity": 412487.99189,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:51.991458Z",
+  "clobTokenIds": [
+    "95717746392239739926375768716856250054023078540629301064251098770911523489151",
+    "47773219925008158425193773022223301400784502627205561460452578517640901381205"
+  ],
+  "volumeTotal": 5085501.368572,
+  "volume1wk": 495504.4874189999,
+  "competitive": 0.8054303726585385,
+  "priceChange24h": -0.001,
+  "hybridScore": 6.082642502912327,
+  "category": "Economics"
+}

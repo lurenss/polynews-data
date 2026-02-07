@@ -1,0 +1,29 @@
+{
+  "id": "will-the-new-orleans-pelicans-win-the-2026-nba-finals",
+  "title": "Will the New Orleans Pelicans win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the New Orleans Pelicans win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 46111.383,
+  "liquidity": 1177952.81046,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:37.3647Z",
+  "clobTokenIds": [
+    "53866778779597540216098195494948116143462973030875609635557099377395290457894",
+    "25368863740974864770720000338083961261087739794602905297379922879468265754277"
+  ],
+  "volumeTotal": 11837569.033835,
+  "volume1wk": 754633.686,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.243635656654391,
+  "category": "Sports"
+}

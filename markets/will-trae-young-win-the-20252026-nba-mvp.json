@@ -1,0 +1,29 @@
+{
+  "id": "will-trae-young-win-the-20252026-nba-mvp",
+  "title": "Will Trae Young win the 2025–2026 NBA MVP?",
+  "description": "This market will resolve to \"Yes\" if Trae Young is awarded the 2025–26 regular season NBA Most Valuable Player (MVP) Award. Otherwise, this market will resolve to \"No\".\n\nIf the listed player is not announced as a finalist for the 2025–26 NBA MVP award, this market will immediately resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the NBA. However, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0005",
+    "0.9995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 91580,
+  "liquidity": 69155.34429,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-10T00:00:00Z",
+  "createdAt": "2025-07-16T16:03:28.029504Z",
+  "clobTokenIds": [
+    "5140781455716909563776111637536865083352312125872611479651831996330931913942",
+    "81819134475192751850244767853940338256678046543134780375943253123997657598247"
+  ],
+  "volumeTotal": 4731817.06776,
+  "volume1wk": 1163491.8199999998,
+  "competitive": 0.8003199679231757,
+  "priceChange24h": 0,
+  "hybridScore": 5.926839203181112,
+  "category": "Sports"
+}

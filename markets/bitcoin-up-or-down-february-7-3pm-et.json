@@ -1,0 +1,29 @@
+{
+  "id": "bitcoin-up-or-down-february-7-3pm-et",
+  "title": "Bitcoin Up or Down - February 7, 3PM ET",
+  "description": "This market will resolve to \"Up\" if the close price is greater than or equal to the open price for the BTC/USDT 1 hour candle that begins on the time and date specified in the title. Otherwise, this market will resolve to \"Down\".\n\nThe resolution source for this market is information from Binance, specifically the BTC/USDT pair (https://www.binance.com/en/trade/BTC_USDT). The close « C » and open « O » displayed at the top of the graph for the relevant \"1H\" candle will be used once the data for that candle is finalized.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.",
+  "outcomePrices": [
+    "0.5",
+    "0.5"
+  ],
+  "outcomes": [
+    "Up",
+    "Down"
+  ],
+  "volume24hr": 2,
+  "liquidity": 12881.0347,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-07T21:00:00Z",
+  "createdAt": "2026-02-05T20:00:01.927284Z",
+  "clobTokenIds": [
+    "11504166344356357301832362763910704884412060793080194001929079153137980434248",
+    "36074460358221959283473033575665395027528546731342421061429976073869540734391"
+  ],
+  "volumeTotal": 584014.373526,
+  "volume1wk": 29.08,
+  "competitive": 1,
+  "priceChange24h": 0,
+  "hybridScore": 4.271702981173889,
+  "category": "Crypto"
+}

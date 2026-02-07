@@ -1,0 +1,29 @@
+{
+  "id": "israel-strikes-iran-by-february-28-2026",
+  "title": "Israel strikes Iran by February 28, 2026?",
+  "description": "This market will resolve to \"Yes\" if Israel initiates a drone, missile, or air strike on Iranian soil or any official Iranian embassy or consulate by February 28, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact Iranian ground territory or any official Iranian embassy or consulate (e.g., if a weapons depot on Iranian soil is hit by an Israeli missile, this market will resolve to \"Yes\").\n\nMissiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution regardless of whether they land on Iranian territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.185",
+    "0.815"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 26915.727658000003,
+  "liquidity": 35483.462,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2026-01-16T14:54:38.626135Z",
+  "clobTokenIds": [
+    "85324706404898418733124688475544132829833150847063731129342470870679237865517",
+    "109485896404435445224771356926428046595093346501629729876439793593978284351864"
+  ],
+  "volumeTotal": 733055.716937,
+  "volume1wk": 542010.6498830004,
+  "competitive": 0.9097318565352862,
+  "priceChange24h": -0.07,
+  "hybridScore": 5.494801210652963,
+  "category": "Economics"
+}

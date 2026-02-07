@@ -1,0 +1,29 @@
+{
+  "id": "will-the-supreme-court-rule-in-favor-of-trumps-tariffs",
+  "title": "Supreme Court rules in favor of Trump's tariffs?",
+  "description": "This market will resolve to \"Yes\" if the Supreme Court of the United States issues a decision that reverses, vacates, or otherwise overturns the U.S. Court of Appeals for the Federal Circuit’s August 29, 2025 decision in V.O.S. Selections, Inc. v. Trump, in which the Federal Circuit held that the tariffs imposed by Executive Orders 14193, 14194, 14195, 14257, and 14266 exceeded the President’s authority under the International Emergency Economic Powers Act (IEEPA) by December 2026, 11:59 PM ET. Otherwise this market will resolve to \"No.\" \n\nIf the Supreme Court dismisses the case as improvidently granted, denies certiorari, grants/vacates/remands without deciding the merits of IEEPA authorization, affirms by an equally divided Court, or vacates due to mootness, or if the parties settle the case this market will resolve to \"No.\" \n\nFor purposes of this market, the government prevails if the Supreme Court rules on the merits that the tariffs are authorized under IEEPA, or otherwise reverses or vacates the Federal Circuit’s holding that they are unauthorized under IEEPA, regardless of whether the Court remands for further proceedings on issues such as remedy or scope of relief. The government does not prevail if the Supreme Court affirms the Federal Circuit’s decision that the tariffs are unauthorized by IEEPA, even if the Court modifies or vacates portions of the judgment relating only to remedy or injunctive relief.\n\nThe resolution source will be a consensus of credible reporting. \n",
+  "outcomePrices": [
+    "0.305",
+    "0.695"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 7977.098394999999,
+  "liquidity": 41996.8766,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-09-02T22:28:08.728561Z",
+  "clobTokenIds": [
+    "105826416199005342591038391498217708749113687972802625260881736773834354050519",
+    "51171279104285400909666677762285621845926753560865042481170667672124752488918"
+  ],
+  "volumeTotal": 4107571.265005,
+  "volume1wk": 179176.54230400082,
+  "competitive": 0.9633679342983069,
+  "priceChange24h": -0.01,
+  "hybridScore": 5.704017302503034,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-katie-britt-win-the-2028-republican-presidential-nomination",
+  "title": "Will Katie Britt win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 293349.83327400003,
+  "liquidity": 707227.22562,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:13.392205Z",
+  "clobTokenIds": [
+    "42282542821681724515855150589432262778581936160356547088323204270366545065655",
+    "16356411122994156106976113515543626616680005491893556174464804958397610666717"
+  ],
+  "volumeTotal": 16528981.456275,
+  "volume1wk": 1746533.3065949993,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 6.502219101939208,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-jamie-dimon-win-the-2028-us-presidential-election",
+  "title": "Will Jamie Dimon win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 96906.65122599999,
+  "liquidity": 258912.14633,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:14.179025Z",
+  "clobTokenIds": [
+    "23692929455124171734375794579007643086071570310019729232490607671061438183936",
+    "30050897091642315762983745166096629857367320723415212749446858994810226049012"
+  ],
+  "volumeTotal": 4294690.432091,
+  "volume1wk": 593261.6014109998,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0.001,
+  "hybridScore": 6.037778945138809,
+  "category": "Politics"
+}

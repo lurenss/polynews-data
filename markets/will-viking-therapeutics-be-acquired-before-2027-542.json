@@ -1,0 +1,29 @@
+{
+  "id": "will-viking-therapeutics-be-acquired-before-2027-542",
+  "title": "Will Viking Therapeutics be acquired before 2027?",
+  "description": "This market will resolve to “Yes” if credible reporting confirms that any entity enters into an agreement to acquire the listed company by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nMergers where the listed company is subsumed by another entity will count toward a \"Yes\" resolution.\n\nAn announced agreement between the listed company and an acquiring entity will qualify for a “Yes” resolution, regardless of whether the acquisition is ultimately completed.\n\nThe primary resolution source for this market is official information from the listed company and/or its leadership; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.16",
+    "0.84"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 0,
+  "liquidity": 1842.9743,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-21T13:00:17.358103Z",
+  "clobTokenIds": [
+    "31817818387484449402330242065217602245522171510789850932244171346186630830068",
+    "90243643522266968974697235205722928394490919354015648405599117147393732995840"
+  ],
+  "volumeTotal": 1343452.042863,
+  "volume1wk": 24900.827757,
+  "competitive": 0.8963786303334529,
+  "priceChange24h": 0,
+  "hybridScore": 4.000818599638412,
+  "category": "Economics"
+}

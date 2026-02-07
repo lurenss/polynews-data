@@ -1,0 +1,29 @@
+{
+  "id": "will-jd-vance-win-the-2028-us-presidential-election",
+  "title": "Will JD Vance win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.245",
+    "0.755"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 30044.985083999996,
+  "liquidity": 518642.7906,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:05:57.953786Z",
+  "clobTokenIds": [
+    "16040015440196279900485035793550429453516625694844857319147506590755961451627",
+    "94476829201604408463453426454480212459887267917122244941405244686637914508323"
+  ],
+  "volumeTotal": 6008612.906861,
+  "volume1wk": 532826.2500470044,
+  "competitive": 0.938945095185559,
+  "priceChange24h": 0,
+  "hybridScore": 6.136764585371118,
+  "category": "Politics"
+}

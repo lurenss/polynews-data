@@ -1,0 +1,29 @@
+{
+  "id": "will-anthropic-have-the-best-ai-model-at-the-end-of-february-2026",
+  "title": "Will Anthropic have the best AI model at the end of February 2026?",
+  "description": "This market will resolve according to the company that owns the model that has the highest arena score based on the Chatbot Arena LLM Leaderboard (https://lmarena.ai/) when the table under the \"Leaderboard\" tab is checked on February 28, 2026, 12:00 PM ET.\n\nResults from the \"Arena Score\" section on the Leaderboard tab of https://lmarena.ai/leaderboard/text with the style control off will be used to resolve this market.\n\nIf two models are tied for the highest arena score at this market's check time, resolution will be based on whichever company's name, as it is described in this market group, comes first in alphabetical order (e.g., if both were tied, \"Google\" would resolve to \"Yes\", and \"xAI\" would resolve to \"No\")\n\nThe resolution source for this market is the Chatbot Arena LLM Leaderboard found at https://lmarena.ai/. If this resolution source is unavailable at check time, this market will remain open until the leaderboard comes back online and will resolve based on the first check after it becomes available. If it becomes permanently unavailable, this market will resolve based on another resolution source.",
+  "outcomePrices": [
+    "0.624",
+    "0.376"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 229907.1494929998,
+  "liquidity": 24635.1275,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2026-01-27T13:37:54.910009Z",
+  "clobTokenIds": [
+    "63143918686236233928672983984129058891473353803994659201131614781821505294362",
+    "17684103634551804737486484987140091628651099600063498180892004247805196400871"
+  ],
+  "volumeTotal": 588443.990854,
+  "volume1wk": 554624.1667510007,
+  "competitive": 0.9848568412095619,
+  "priceChange24h": 0.5655,
+  "hybridScore": 5.779519987681728,
+  "category": "Economics"
+}

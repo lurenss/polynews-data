@@ -1,0 +1,29 @@
+{
+  "id": "will-sanae-takaichi-be-the-prime-minister-of-japan-as-a-result-of-the-2026-snap-election",
+  "title": "Will Sanae Takaichi be the Prime Minister of Japan as a result of the 2026 snap election?",
+  "description": "General elections are scheduled to be held in Japan on February 8, 2026.\n\nThis market will resolve according to the individual who is the Prime Minister of Japan, as a result of this election. \n\nThis market will resolve to Sanae Takaichi if she remains Prime Minister as a result of this election. Any other individual must be formally appointed by the Japanese Emperor to qualify. \n\nIf the results of this election are not officially released by November 30, 2026, 11:59 PM ET, this market will resolve to “Other”. \n\nThe primary resolution source for this market will be official information from the Japanese government; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.9905",
+    "0.0095"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 91352.43682,
+  "liquidity": 180563.91684,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-04-30T00:00:00Z",
+  "createdAt": "2026-01-20T20:27:11.168964Z",
+  "clobTokenIds": [
+    "61314108379303602556780787166545563627865541585617788690063202168617820540288",
+    "49075698923593796134916121998127217218589036013923054660576350239184648780446"
+  ],
+  "volumeTotal": 1124945.332526,
+  "volume1wk": 661236.7199350005,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0,
+  "hybridScore": 5.7660647813838395,
+  "category": "Politics"
+}

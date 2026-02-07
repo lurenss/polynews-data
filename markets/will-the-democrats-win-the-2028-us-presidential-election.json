@@ -1,0 +1,29 @@
+{
+  "id": "will-the-democrats-win-the-2028-us-presidential-election",
+  "title": "Will the Democrats win the 2028 US Presidential Election?",
+  "description": "The 2028 United States presidential election will be held on Tuesday, November 7, 2028.\n\nThis market will resolve to the political party whose candidate is elected the next President of the United States in the 2028 election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same party. If all three sources haven’t called the race for the same party by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.535",
+    "0.465"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2082.075445,
+  "liquidity": 157593.7779,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-18T16:09:59.684978Z",
+  "clobTokenIds": [
+    "49084048476353771153083262278964615095037480324537117350127265918750912547378",
+    "1376044590327709616459174469529480611299625159235587466149878628404281805565"
+  ],
+  "volumeTotal": 558361.708651,
+  "volume1wk": 6861.360972999998,
+  "competitive": 0.9987764987889834,
+  "priceChange24h": 0,
+  "hybridScore": 5.332662925302981,
+  "category": "Politics"
+}

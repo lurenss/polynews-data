@@ -1,0 +1,29 @@
+{
+  "id": "will-elise-stefanik-win-the-2028-republican-presidential-nomination",
+  "title": "Will Elise Stefanik win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0085",
+    "0.9915"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 128827.71149999999,
+  "liquidity": 632538.95395,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:10.530903Z",
+  "clobTokenIds": [
+    "46762065358788748743762617584400316865170283087328708370205000691002445395596",
+    "6106142631847917497743561296507558396893160722310876727437797090897927202403"
+  ],
+  "volumeTotal": 11511568.240568,
+  "volume1wk": 1259333.6719860001,
+  "competitive": 0.8054303726585385,
+  "priceChange24h": 0,
+  "hybridScore": 6.323105576154974,
+  "category": "Politics"
+}

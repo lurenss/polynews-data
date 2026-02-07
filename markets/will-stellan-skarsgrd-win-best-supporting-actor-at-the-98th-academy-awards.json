@@ -1,0 +1,29 @@
+{
+  "id": "will-stellan-skarsgrd-win-best-supporting-actor-at-the-98th-academy-awards",
+  "title": "Will Stellan Skarsgård win Best Supporting Actor at the 98th Academy Awards?",
+  "description": "The Academy Awards are presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS) to honor outstanding artistic and technical achievements in film. For the 98th Academy Awards in 2026, nominations are scheduled to be announced on January 22, followed by the ceremony on March 15, 2026.\n\nThis market will resolve according to the listed actor who wins the 98th Academy Award for Best Supporting Actor. \n\nIf an actor is not officially nominated for the Academy Award for Best Supporting Actor when the 2026 nominees are announced, the corresponding market will immediately resolve to \"No\".\n\nIn case of a tie for the winner, this market will resolve in favor of the nominated actor whose listed last name comes first in alphabetical order.\n\nIf, for any reason, no winner is declared by June 30, 2026, 11:59 PM ET,  this market will resolve to \"Other\".\n\nThe primary resolution source for this market will be official information from the Academy Awards and AMPAS, including data from their website (e.g., https://www.oscars.org/) and the live broadcast of the award ceremony; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.72",
+    "0.28"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 144103.44172,
+  "liquidity": 13028.8082,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-15T00:00:00Z",
+  "createdAt": "2025-09-26T17:01:40.731855Z",
+  "clobTokenIds": [
+    "58198710311579915535691075580727536486537716969204598157134462435731312061441",
+    "106820146733184719100966062623986655992997037363317463528901190592661638187355"
+  ],
+  "volumeTotal": 2653961.071693,
+  "volume1wk": 308968.604133,
+  "competitive": 0.9538344143456696,
+  "priceChange24h": 0.03,
+  "hybridScore": 5.893983113893197,
+  "category": "Economics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-psg-win-the-202526-champions-league",
+  "title": "Will PSG win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.095",
+    "0.905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1305.43,
+  "liquidity": 345757.6585,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:38.943871Z",
+  "clobTokenIds": [
+    "104259436423064082971150541232006260758664018969024622611484550356541952860834",
+    "17522237181479319953129418683394157683167669858670412329571078616243234898741"
+  ],
+  "volumeTotal": 2130948.101587,
+  "volume1wk": 34585.58821000001,
+  "competitive": 0.8590880780051975,
+  "priceChange24h": 0,
+  "hybridScore": 5.433097764950182,
+  "category": "Economics"
+}

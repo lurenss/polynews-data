@@ -1,0 +1,29 @@
+{
+  "id": "will-ilhan-omar-resign-by-march-31",
+  "title": "Will Ilhan Omar resign by March 31?",
+  "description": "This market will resolve to \"Yes\" if Ilhan Omar announces she has resigned, will resign, or will not run for re-election for United States Representative from Minnesota by March 31, 2026, 11:59PM ET. Otherwise, this market will resolve to \"No.\"\n\nIf it becomes impossible for Ilhan Omar to resign or to announce her resignation (e.g., due to her removal from office by other means, etc.), this market will immediately resolve to \"No.\"\n\nFor this market to resolve to \"Yes,\" it is only necessary that Ilhan Omar announce that she has resigned or will resign or will not run for re-election. Whether she actually resigns will have no bearing on the resolution of this market.\n\nThe primary resolution source for this market will be official information from the US federal government or the government of Minnesota; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.0275",
+    "0.9725"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2014.347406,
+  "liquidity": 9966.29739,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2025-12-28T15:23:16.051199Z",
+  "clobTokenIds": [
+    "46998295576396820527132494503576722911066636483594300565694193151195666264336",
+    "11678461937055825466057716803125521304311336179890004296090489597093508320332"
+  ],
+  "volumeTotal": 1554316.095851,
+  "volume1wk": 1180960.0443349988,
+  "competitive": 0.8174902028908497,
+  "priceChange24h": -0.0065,
+  "hybridScore": 5.085126511890241,
+  "category": "Politics"
+}

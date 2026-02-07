@@ -1,0 +1,29 @@
+{
+  "id": "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653",
+  "title": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.075",
+    "0.925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 100886.64527999998,
+  "liquidity": 474139.224,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:36:59.751189Z",
+  "clobTokenIds": [
+    "107064985435494333113391038470401719113272800530429703182710416066774068907304",
+    "65176072261324737856085688071627118509549293922582857186996392180609764586527"
+  ],
+  "volumeTotal": 3571330.074306,
+  "volume1wk": 256749.39756899964,
+  "competitive": 0.8470089994706194,
+  "priceChange24h": 0,
+  "hybridScore": 6.104473800334375,
+  "category": "Politics"
+}

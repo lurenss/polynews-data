@@ -1,0 +1,29 @@
+{
+  "id": "will-ghana-win-the-2026-fifa-world-cup",
+  "title": "Will Ghana win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0025",
+    "0.9975"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 17063.761000000002,
+  "liquidity": 826650.6786,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:59.845064Z",
+  "clobTokenIds": [
+    "43907673646206657865778036957293730446366626078011238443367990170655175896145",
+    "10398766811303655595339782235864350348828881761515262235130136230008770201075"
+  ],
+  "volumeTotal": 1442269.748957,
+  "volume1wk": 256342.97983199998,
+  "competitive": 0.8015991903848178,
+  "priceChange24h": 0,
+  "hybridScore": 5.718312482053096,
+  "category": "Sports"
+}

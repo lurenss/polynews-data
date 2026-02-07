@@ -1,0 +1,29 @@
+{
+  "id": "will-ethereum-reach-2800-in-february-2026",
+  "title": "Will Ethereum reach $2,800 in February?",
+  "description": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for ETH/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final High price equal to or greater than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the ETH/USDT High prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+  "outcomePrices": [
+    "0.11",
+    "0.89"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 104214.70480900002,
+  "liquidity": 75629.7794,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-01T05:00:00Z",
+  "createdAt": "2026-01-31T02:13:38.711254Z",
+  "clobTokenIds": [
+    "12303448555781782879551620246402816567343508050116456313129248358813303423860",
+    "36631294615510098620554640682956937117879229728837284049644621387033930778478"
+  ],
+  "volumeTotal": 714522.238105,
+  "volume1wk": 711488.92933,
+  "competitive": 0.8679802100512108,
+  "priceChange24h": 0,
+  "hybridScore": 5.690706419329506,
+  "category": "Crypto"
+}

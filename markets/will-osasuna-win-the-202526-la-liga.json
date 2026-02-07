@@ -1,0 +1,29 @@
+{
+  "id": "will-osasuna-win-the-202526-la-liga",
+  "title": "Will Osasuna win the 2025–26 La Liga?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 La Liga.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 La Liga. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 La Liga season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from La Liga. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 30737.905000000017,
+  "liquidity": 396399.00027,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-30T00:00:00Z",
+  "createdAt": "2025-07-21T21:26:44.737399Z",
+  "clobTokenIds": [
+    "73097359182550697347912972166857046139097661150236286190825211064841983710604",
+    "105246153288542217801351728788238650045230635065830379799277115628902822323734"
+  ],
+  "volumeTotal": 3283086.384794,
+  "volume1wk": 149803.04499999984,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 5.873405933906528,
+  "category": "Economics"
+}

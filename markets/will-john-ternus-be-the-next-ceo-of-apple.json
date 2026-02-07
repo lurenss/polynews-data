@@ -1,0 +1,29 @@
+{
+  "id": "will-john-ternus-be-the-next-ceo-of-apple",
+  "title": "Will John Ternus be the next CEO of Apple?",
+  "description": "This market will resolve according to the first individual who is officially announced as the next permanent successor to Tim Cook as CEO of Apple Inc. by December 31, 2026, 11:59 PM ET.\n\nAn announcement of a successor will be sufficient for a \"Yes\" resolution regardless of whether the announced replacement actually becomes the next CEO of Apple.\n\nInterim CEOs will not qualify.\n\nIf no permanent successor to Tim Cook as CEO of Apple Inc. is announced by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe resolution source will be public statements from Apple Inc.",
+  "outcomePrices": [
+    "0.545",
+    "0.455"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 185.05,
+  "liquidity": 2454.0608,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-18T00:10:06.020828Z",
+  "clobTokenIds": [
+    "92311850691119989700494243314039291208974625045063458908184129720108035114164",
+    "14954786464025422340381119759227166561985048022429770302259194276382916274663"
+  ],
+  "volumeTotal": 522178.60941,
+  "volume1wk": 6316.752805000001,
+  "competitive": 0.9979790923380155,
+  "priceChange24h": 0.05,
+  "hybridScore": 4.644008408660762,
+  "category": "Economics"
+}

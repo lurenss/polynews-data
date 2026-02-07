@@ -1,0 +1,29 @@
+{
+  "id": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
+  "title": "Will Donald Trump win the Nobel Peace Prize in 2026?",
+  "description": "This market will resolve according to the winner of the 2026 Nobel Peace Prize, as announced by the Norwegian Nobel Committee.\n\nIf multiple listed individuals or entities jointly receive the prize, the market will resolve to a single winner. If Donald Trump, Volodymyr Zelenskyy,  Benjamin Netanyahu, Vladimir Putin, or Elon Musk are among the recipients, the market will resolve to the highest-ranked among them in that exact order of precedence. If none of those five are among the winners and the prize is awarded jointly to at least one listed individual and at least one listed organization, the market will resolve in favor of the individual. If no prioritized individuals are among the winners and all listed recipients are of the same type (all individuals or all organizations), the market will resolve to the person whose last name, or the entity’s name, comes first in alphabetical order as listed in this market.\n\nIf no official announcement regarding the 2026 Nobel Peace Prize has been made by March 31, 2027, 11:59 PM ET, this market will resolve to \"Other.\"\n\nThe resolution source for this market will be the first official announcement from the Norwegian Nobel Committee.",
+  "outcomePrices": [
+    "0.12",
+    "0.88"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 9852.215471999998,
+  "liquidity": 323581.0666,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-10-10T00:00:00Z",
+  "createdAt": "2025-10-15T21:00:27.898814Z",
+  "clobTokenIds": [
+    "96308556109755835434254900303426519652053230974356832970824534225192181988516",
+    "75648553599758807820760400986240186978327005811004242427218252697572451485336"
+  ],
+  "volumeTotal": 1540163.267396,
+  "volume1wk": 39424.86324600004,
+  "competitive": 0.8738203425375743,
+  "priceChange24h": -0.005,
+  "hybridScore": 5.648917442774682,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-stephen-a-smith-win-the-2028-democratic-presidential-nomination-914",
+  "title": "Will Stephen A. Smith win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 189892.5073230003,
+  "liquidity": 417881.32847,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:02.834964Z",
+  "clobTokenIds": [
+    "60590045489347122735554346200880179420435533609307820342798544098823516727807",
+    "76005700027045000587004110133818166617024719626220722682005164003117993034812"
+  ],
+  "volumeTotal": 8005967.494749,
+  "volume1wk": 959406.4576859947,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0,
+  "hybridScore": 6.2751973047460385,
+  "category": "Politics"
+}

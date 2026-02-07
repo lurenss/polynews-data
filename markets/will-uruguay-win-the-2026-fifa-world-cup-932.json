@@ -1,0 +1,29 @@
+{
+  "id": "will-uruguay-win-the-2026-fifa-world-cup-932",
+  "title": "Will Uruguay win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0105",
+    "0.9895"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 8337.301400000002,
+  "liquidity": 514276.6256,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:46.856637Z",
+  "clobTokenIds": [
+    "97239126062673310243763617236644392945530356142765650402171508075574679292913",
+    "19291692040378529618917910599727571242305935029274321291612270922648172794670"
+  ],
+  "volumeTotal": 2691823.083474,
+  "volume1wk": 495263.04516900005,
+  "competitive": 0.8067051720490372,
+  "priceChange24h": 0,
+  "hybridScore": 5.697286644613829,
+  "category": "Sports"
+}

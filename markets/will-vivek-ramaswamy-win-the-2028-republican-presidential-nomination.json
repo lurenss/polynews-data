@@ -1,0 +1,29 @@
+{
+  "id": "will-vivek-ramaswamy-win-the-2028-republican-presidential-nomination",
+  "title": "Will Vivek Ramaswamy win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0135",
+    "0.9865"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 13119.754977,
+  "liquidity": 308092.6478,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:07.429979Z",
+  "clobTokenIds": [
+    "7847177314809025001842027337093046201021185723933452855314998541165696902642",
+    "61638209040977576407645319654548998972645370498978369829582391676362965890344"
+  ],
+  "volumeTotal": 8598604.331119,
+  "volume1wk": 181092.95485100002,
+  "competitive": 0.8086151475045429,
+  "priceChange24h": 0,
+  "hybridScore": 5.915510550216071,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
+  "title": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 125069.524848,
+  "liquidity": 1150578.91987,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:17.804012Z",
+  "clobTokenIds": [
+    "6349038249650226718426900942104344803413105653564595362433352811865798195800",
+    "57931882677606943294773135604094039468334392354204920135953322654005083822055"
+  ],
+  "volumeTotal": 27422218.977331,
+  "volume1wk": 2214959.6366449986,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 6.521363433493635,
+  "category": "Politics"
+}

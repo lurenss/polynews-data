@@ -1,0 +1,29 @@
+{
+  "id": "will-no-player-win-a-calendar-grand-slam-in-2026",
+  "title": "Will no player win a Calendar Grand Slam in 2026?",
+  "description": "This is a market to predict who will win a women's tennis Calendar Grand Slam in 2026.\n\nThis market resolves to the single woman player who wins the Women's Singles titles at all four Grand Slam tournaments in 2026. The relevant 2026 Grand Slams are the Women's Singles tournaments in the 2026 Australian Open, French Open, U.S. Open, and Wimbledon.\n\nFor the purpose of this market, a tournament victory is valid regardless of whether the final was won via a walkover, a mid-match retirement, or a standard completed match.\n\nIf at any point it becomes impossible for a listed player to achieve a Calendar Grand Slam in 2026 (e.g. Sabalenka does not win the 2026 Australian Open) this market will resolve immediately to \"No\". \n\nIf at any point it becomes impossible for any listed player to achieve a Calendar Grand Slam in 2026 (e.g. Sabalenka wins the 2026 Australian Open but loses in the first round of 2026 French Open) this market will resolve immediately to \"None\". \n\nOtherwise, this market will resolve when the results of the final 2026 Grand Slam are official.\n\nIf any of the 2026 Grand Slam Women' Singles Tournaments are cancelled, postponed after December 31, 2026 11:59 PM ET, or there is otherwise no winner declared within that timeframe, this market will resolve to “None”.\n\nThe primary resolution source for this market will be information from the organizers of the Grand Slam tournaments; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.9625",
+    "0.0375"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1520.163444,
+  "liquidity": 364281.78713,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T23:55:00Z",
+  "createdAt": "2026-01-06T22:27:49.461802Z",
+  "clobTokenIds": [
+    "54376189174472853120923883275447864219715377088444065542378689704796406271826",
+    "108881320560470010424257593001274183986066695826560899722217468611786656598005"
+  ],
+  "volumeTotal": 975204.01943,
+  "volume1wk": 182599.13294899993,
+  "competitive": 0.8237868451538164,
+  "priceChange24h": -0.005,
+  "hybridScore": 5.286365710497251,
+  "category": "Economics"
+}

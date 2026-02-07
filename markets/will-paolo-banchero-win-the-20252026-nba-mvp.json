@@ -1,0 +1,29 @@
+{
+  "id": "will-paolo-banchero-win-the-20252026-nba-mvp",
+  "title": "Will Paolo Banchero win the 2025–2026 NBA MVP?",
+  "description": "This market will resolve to \"Yes\" if Pablo Banchero is awarded the 2025–26 regular season NBA Most Valuable Player (MVP) Award. Otherwise, this market will resolve to \"No\".\n\nIf the listed player is not announced as a finalist for the 2025–26 NBA MVP award, this market will immediately resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the NBA. However, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0005",
+    "0.9995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 0,
+  "liquidity": 42712.78654,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-10T00:00:00Z",
+  "createdAt": "2025-07-16T16:03:25.586241Z",
+  "clobTokenIds": [
+    "35860392242789677660843128633880273047999536228481481169784265672448106307688",
+    "104136471953275707571448642325206840852839877417604434112982860785920924591128"
+  ],
+  "volumeTotal": 1396237.298463,
+  "volume1wk": 225993.76,
+  "competitive": 0.8003199679231757,
+  "priceChange24h": 0,
+  "hybridScore": 4.184417401083996,
+  "category": "Sports"
+}

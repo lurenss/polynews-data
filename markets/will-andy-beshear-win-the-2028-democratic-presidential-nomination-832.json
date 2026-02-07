@@ -1,0 +1,29 @@
+{
+  "id": "will-andy-beshear-win-the-2028-democratic-presidential-nomination-832",
+  "title": "Will Andy Beshear win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.028",
+    "0.972"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 104952.55690000008,
+  "liquidity": 361369.7105,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:05.271632Z",
+  "clobTokenIds": [
+    "26468656392978559668331516709623917078428425933265692717836103090220693717685",
+    "26335362363448644358593284423242327477307616743233875606762153873424287882825"
+  ],
+  "volumeTotal": 3967577.921394,
+  "volume1wk": 927679.475762998,
+  "competitive": 0.8178059248403643,
+  "priceChange24h": -0.0005,
+  "hybridScore": 6.075105892937721,
+  "category": "Politics"
+}

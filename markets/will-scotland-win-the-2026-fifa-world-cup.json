@@ -1,0 +1,29 @@
+{
+  "id": "will-scotland-win-the-2026-fifa-world-cup",
+  "title": "Will Scotland win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0045",
+    "0.9955"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 54404.917244,
+  "liquidity": 554760.07293,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:55:03.304664Z",
+  "clobTokenIds": [
+    "105252206997885252352889070218074909957179496257006510170583432513037465278006",
+    "83036729811309811995794968105073507480036161583897760544623930912713394505713"
+  ],
+  "volumeTotal": 3697801.65514,
+  "volume1wk": 698300.1484129996,
+  "competitive": 0.8028773518535728,
+  "priceChange24h": 0.001,
+  "hybridScore": 5.999569880695731,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-tarcisio-de-frietas-win-the-2026-brazilian-presidential-election",
+  "title": "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?",
+  "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate that wins this election.\n\nThis market includes any potential second round. If the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+  "outcomePrices": [
+    "0.066",
+    "0.934"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 39662.276563,
+  "liquidity": 48718.59202,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-10-04T00:00:00Z",
+  "createdAt": "2025-09-17T18:40:07.536951Z",
+  "clobTokenIds": [
+    "52634616068523389389514492087655237014427439869589807217055529923225131895030",
+    "106302272146511626715366732538958019243031587527887799373406690681902311718700"
+  ],
+  "volumeTotal": 2107762.429628,
+  "volume1wk": 177630.560532,
+  "competitive": 0.8414986754810848,
+  "priceChange24h": 0.011,
+  "hybridScore": 5.688084726544755,
+  "category": "Politics"
+}

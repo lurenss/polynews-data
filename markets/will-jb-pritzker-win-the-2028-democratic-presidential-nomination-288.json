@@ -1,0 +1,29 @@
+{
+  "id": "will-jb-pritzker-win-the-2028-democratic-presidential-nomination-288",
+  "title": "Will J.B. Pritzker win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0275",
+    "0.9725"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 35385.30645999999,
+  "liquidity": 195655.66495,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:07.438948Z",
+  "clobTokenIds": [
+    "103988345069738240821107916249290759786442703283901164377120414690701074137717",
+    "108650988487983371520585351370999192979899647080710024226285750050382033453124"
+  ],
+  "volumeTotal": 4412918.394359,
+  "volume1wk": 248456.2193429995,
+  "competitive": 0.8174902028908497,
+  "priceChange24h": -0.0035,
+  "hybridScore": 5.8983301004109,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-benfica-win-the-202526-champions-league",
+  "title": "Will Benfica win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0065",
+    "0.9935"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 151344.765798,
+  "liquidity": 229302.85781,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:51.501199Z",
+  "clobTokenIds": [
+    "7586304249265791430570845852083081174415852091440035325232275534452369156457",
+    "30481107705228164981180756150572089785688985325793326240520837196628361716295"
+  ],
+  "volumeTotal": 9450979.409359,
+  "volume1wk": 420893.3369809997,
+  "competitive": 0.8041544225779221,
+  "priceChange24h": 0,
+  "hybridScore": 6.2204185225840005,
+  "category": "Economics"
+}

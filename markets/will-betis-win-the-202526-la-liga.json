@@ -1,0 +1,29 @@
+{
+  "id": "will-betis-win-the-202526-la-liga",
+  "title": "Will Betis win the 2025–26 La Liga?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 La Liga.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 La Liga. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 La Liga season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from La Liga. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 216351.526,
+  "liquidity": 263576.34348,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-30T00:00:00Z",
+  "createdAt": "2025-07-21T21:26:40.616672Z",
+  "clobTokenIds": [
+    "26071339486935244185829149917525934020397205886492282113586650229795183961040",
+    "58273022149837357899853455678738903487300194555090924124615389765961549963650"
+  ],
+  "volumeTotal": 3318513.420093,
+  "volume1wk": 520506.1409999997,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.094067399926108,
+  "category": "Economics"
+}

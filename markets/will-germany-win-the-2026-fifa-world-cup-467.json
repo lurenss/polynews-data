@@ -1,0 +1,29 @@
+{
+  "id": "will-germany-win-the-2026-fifa-world-cup-467",
+  "title": "Will Germany win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0605",
+    "0.9395"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 200739.9126290002,
+  "liquidity": 280137.64961,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:43.890444Z",
+  "clobTokenIds": [
+    "81739002353269632749850710185641576213562066971072676369728657545679630163887",
+    "45484070731786948288366703334552551439356529561722304542938873238430842810537"
+  ],
+  "volumeTotal": 2386949.664239,
+  "volume1wk": 587193.9420830006,
+  "competitive": 0.8381103879382505,
+  "priceChange24h": 0.001,
+  "hybridScore": 6.069513139455944,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup",
+  "title": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+  "description": "This market will resolve to “Yes” if the Los Angeles Kings win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+  "outcomePrices": [
+    "0.025",
+    "0.975"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 754901.6592910002,
+  "liquidity": 83158.67749,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2025-06-19T18:02:54.474918Z",
+  "clobTokenIds": [
+    "75497690502531380056390405612014900797768656980504946546336044296003833597355",
+    "2729425106258568059271359452117793887389510413905823490566998620570283391162"
+  ],
+  "volumeTotal": 1815098.760014,
+  "volume1wk": 1655506.961907,
+  "competitive": 0.815910249872514,
+  "priceChange24h": -0.0045,
+  "hybridScore": 6.0668202954720485,
+  "category": "Economics"
+}

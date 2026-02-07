@@ -1,0 +1,29 @@
+{
+  "id": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+  "title": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+  "description": "Parliamentary elections are to be scheduled to be held in Russia in September 2026.\n\nThis market will resolve according to the political party that gains the greatest number of seats in the next Russian State Duma election, compared to before the election.\n\nIf the results are not known definitively by September 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties for the most seats gained, this market will resolve in favor of the party that received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed abbreviation appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats gained by the named party in the State Duma of the Federal Assembly of the Russian Federation.\n\nThis market will resolve based on the results of this election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results reported by Russian government sources such as the Central Election Commission of the Russian Federation.",
+  "outcomePrices": [
+    "0.695",
+    "0.305"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 4185.410705,
+  "liquidity": 86549.4466,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-09-30T00:00:00Z",
+  "createdAt": "2026-01-07T18:00:57.604709Z",
+  "clobTokenIds": [
+    "20915769520649892253891152116814645067070024223185517956799957803974344024878",
+    "115351075585746600277716377744935410125916932950844626289798775482755919708780"
+  ],
+  "volumeTotal": 728106.828648,
+  "volume1wk": 103801.475066,
+  "competitive": 0.9633679342983069,
+  "priceChange24h": -0.01,
+  "hybridScore": 5.382252626863549,
+  "category": "Politics"
+}

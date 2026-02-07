@@ -1,0 +1,29 @@
+{
+  "id": "will-brighton-win-the-202526-english-premier-league",
+  "title": "Will Brighton win the 2025–26 English Premier League?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 English Premier League.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 English Premier League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 English Premier League season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the English Premier League. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 61726.501000000004,
+  "liquidity": 1145044.44743,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-27T00:00:00Z",
+  "createdAt": "2025-07-21T21:13:03.080976Z",
+  "clobTokenIds": [
+    "106091393532729698254091291989228847760748504157996919988906251292740781302254",
+    "88334804941947174667395249323919609246886788307207141350406453478086692021167"
+  ],
+  "volumeTotal": 14263306.153326,
+  "volume1wk": 673802.7829999999,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.311555957205115,
+  "category": "Economics"
+}

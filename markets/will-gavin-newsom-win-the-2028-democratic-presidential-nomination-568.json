@@ -1,0 +1,29 @@
+{
+  "id": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
+  "title": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.285",
+    "0.715"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 22971.859840000012,
+  "liquidity": 456112.0168,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:36:58.88434Z",
+  "clobTokenIds": [
+    "54533043819946592547517511176940999955633860128497669742211153063842200957669",
+    "87854174148074652060467921081181402357467303721471806610111179101805869578687"
+  ],
+  "volumeTotal": 6819481.223144,
+  "volume1wk": 486410.5463100006,
+  "competitive": 0.9558173433056943,
+  "priceChange24h": -0.01,
+  "hybridScore": 6.129496916133054,
+  "category": "Politics"
+}

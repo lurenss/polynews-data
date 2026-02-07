@@ -1,0 +1,29 @@
+{
+  "id": "will-morocco-win-the-2026-fifa-world-cup-464",
+  "title": "Will Morocco win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0165",
+    "0.9835"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 73421.72127100002,
+  "liquidity": 339313.62673,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:57.522078Z",
+  "clobTokenIds": [
+    "69910730841487615802736046038473620030754616421912831175284551372639933569112",
+    "64291832879722161879651094688874074984529456778901604558632306686248535158725"
+  ],
+  "volumeTotal": 2438775.991152,
+  "volume1wk": 650550.6804579998,
+  "competitive": 0.8105223634264752,
+  "priceChange24h": 0,
+  "hybridScore": 5.931260858253174,
+  "category": "Sports"
+}

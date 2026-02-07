@@ -1,0 +1,29 @@
+{
+  "id": "will-openai-be-acquired-before-2027-859",
+  "title": "Will OpenAI be acquired before 2027?",
+  "description": "This market will resolve to “Yes” if credible reporting confirms that any entity enters into an agreement to acquire the listed company by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nMergers where the listed company is subsumed by another entity will count toward a \"Yes\" resolution.\n\nAn announced agreement between the listed company and an acquiring entity will qualify for a “Yes” resolution, regardless of whether the acquisition is ultimately completed.\n\nThe primary resolution source for this market is official information from the listed company and/or its leadership; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.121",
+    "0.879"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 353.401355,
+  "liquidity": 2567.37312,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-24T13:12:37.218052Z",
+  "clobTokenIds": [
+    "32919655202731037203140231130939093798403278359599025499865606899485004387270",
+    "32092875561147271184944910629865778951233504975959962272756868730156377190099"
+  ],
+  "volumeTotal": 548496.961519,
+  "volume1wk": 309469.5557930001,
+  "competitive": 0.8744002707143238,
+  "priceChange24h": -0.001,
+  "hybridScore": 4.616850513173077,
+  "category": "Economics"
+}

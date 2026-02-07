@@ -1,0 +1,29 @@
+{
+  "id": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
+  "title": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0135",
+    "0.9865"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 115983.57683300001,
+  "liquidity": 341153.69873,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:23.883364Z",
+  "clobTokenIds": [
+    "2213957649161627793381994368131485505647723208738124952452819345058597751695",
+    "44046525152074436753629616217525652949736205933417533647338274649282385796755"
+  ],
+  "volumeTotal": 32691669.77986,
+  "volume1wk": 969091.7530929918,
+  "competitive": 0.8086151475045429,
+  "priceChange24h": 0.004,
+  "hybridScore": 6.440300338329551,
+  "category": "Politics"
+}

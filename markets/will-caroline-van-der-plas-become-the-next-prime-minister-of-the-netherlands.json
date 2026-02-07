@@ -1,0 +1,29 @@
+{
+  "id": "will-caroline-van-der-plas-become-the-next-prime-minister-of-the-netherlands",
+  "title": "Will Caroline van der Plas become the next Prime Minister of the Netherlands?",
+  "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0025",
+    "0.9975"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 5296.639999999999,
+  "liquidity": 13353.0565,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-06-04T19:49:24.882961Z",
+  "clobTokenIds": [
+    "4478601170918246785868380998903892274616603585285096189273239208778986969273",
+    "54631405746867803533962867685009345007855878892822426769397638632397777800993"
+  ],
+  "volumeTotal": 2976143.207185,
+  "volume1wk": 13143.730000000001,
+  "competitive": 0.8015991903848178,
+  "priceChange24h": 0.0015,
+  "hybridScore": 5.333408153370144,
+  "category": "Politics"
+}

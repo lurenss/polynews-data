@@ -1,0 +1,29 @@
+{
+  "id": "will-the-iranian-regime-fall-by-the-end-of-2026",
+  "title": "Will the Iranian regime fall before 2027?",
+  "description": "This market will resolve to \"Yes\" if the Islamic Republic of Iran’s current ruling regime is overthrown, collapsed, or otherwise ceases to govern by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nThis requires a broad consensus of reporting indicating that core structures of the Islamic Republic (e.g. the office of the Supreme Leader, the Guardian Council, IRGC control under clerical authority) have been dissolved, incapacitated, or replaced by a fundamentally different governing system or otherwise lost de facto power over a majority of the population of Iran. This could occur via revolution, civil war, military coup, or voluntary abdication, but only qualifies if the Islamic Republic no longer exercises sovereign power.\n\nRoutine political events such as elections, reforms, or leadership succession do not qualify. Internal coups or power shifts that preserve the Islamic Republic’s core structures also do not qualify. Only a clear break in continuity—such as a new provisional government, revolutionary council, or constitution replacing the Islamic Republic will qualify.\n\nPartial loss of territory or challenges from rebel or exile groups will not qualify unless the Islamic Republic no longer administers the majority of the Iranian population within Iran. \n\nThe resolution source will be a consensus of credible reporting. ",
+  "outcomePrices": [
+    "0.325",
+    "0.675"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 37924.409680999976,
+  "liquidity": 105392.7313,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-03T21:05:26.527062Z",
+  "clobTokenIds": [
+    "10991849228756847439673778874175365458450913336396982752046655649803657501964",
+    "106181075047366745139197108801635573283215248045056329679360376976893016488727"
+  ],
+  "volumeTotal": 3862119.396209,
+  "volume1wk": 407549.1406559999,
+  "competitive": 0.9702850212249848,
+  "priceChange24h": 0.02,
+  "hybridScore": 5.983257384813042,
+  "category": "Politics"
+}

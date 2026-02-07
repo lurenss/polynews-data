@@ -1,0 +1,29 @@
+{
+  "id": "will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election",
+  "title": "Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?",
+  "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate that wins this election.\n\nThis market includes any potential second round. If the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 19247.169,
+  "liquidity": 251647.29362,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-10-04T00:00:00Z",
+  "createdAt": "2025-09-17T18:40:11.805791Z",
+  "clobTokenIds": [
+    "68827474128979817444758177181483142354604256745613325980470518365059439724226",
+    "74201542293075536162258436779948914914665324387949186755842303569200449516790"
+  ],
+  "volumeTotal": 1398104.12237,
+  "volume1wk": 267082.13700599986,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 5.624651265594207,
+  "category": "Politics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-tulsi-gabbard-win-the-2028-us-presidential-election",
+  "title": "Will Tulsi Gabbard win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 188003.68970399996,
+  "liquidity": 1019933.33449,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:05.739113Z",
+  "clobTokenIds": [
+    "97633418272282627828834872960145259034624388719803091466146359304286851612172",
+    "17854429586516792397214557963923647011517685971868312042416963526864862523185"
+  ],
+  "volumeTotal": 19582970.999618,
+  "volume1wk": 1832746.8907760007,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 6.505509027938185,
+  "category": "Politics"
+}

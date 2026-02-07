@@ -1,0 +1,29 @@
+{
+  "id": "xi-jinping-out-before-2027",
+  "title": "Xi Jinping out before 2027?",
+  "description": "This market will resolve to \"Yes\" if China's General Secretary of the Communist Party, Xi Jinping, is removed from power for any length of time between July 3, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nCCP General Secretary Xi Jinping will be considered removed from power if he announces his resignation from his role as General Secretary, or is otherwise dismissed, detained, disqualified, or otherwise loses his position or is prevented from fulfilling his duties as General Secretary within this market's timeframe.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.085",
+    "0.915"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 10989.533361999976,
+  "liquidity": 217376.2059,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-07-03T20:25:56.889606Z",
+  "clobTokenIds": [
+    "32338220190071351435772801779725302244575775216413325951443816017994629993401",
+    "25659310674993675562345759665114759892400026242514633218387667107987341231962"
+  ],
+  "volumeTotal": 5957582.144695,
+  "volume1wk": 145101.3504710005,
+  "competitive": 0.8530785472072341,
+  "priceChange24h": 0,
+  "hybridScore": 5.8428550231616905,
+  "category": "Economics"
+}

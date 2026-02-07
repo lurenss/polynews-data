@@ -1,0 +1,29 @@
+{
+  "id": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
+  "title": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0215",
+    "0.9785"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 38904.18644499996,
+  "liquidity": 265701.64258,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:16.510177Z",
+  "clobTokenIds": [
+    "58343456405874365460518182619380252930558598368174305791768670198253267891911",
+    "84566561349071752664514432513198569980219178901068420341175150225620958953893"
+  ],
+  "volumeTotal": 6640808.449582,
+  "volume1wk": 928956.039803005,
+  "competitive": 0.8136946435905578,
+  "priceChange24h": 0,
+  "hybridScore": 6.0044644761539745,
+  "category": "Politics"
+}

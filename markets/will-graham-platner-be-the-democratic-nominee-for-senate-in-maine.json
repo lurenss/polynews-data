@@ -1,0 +1,29 @@
+{
+  "id": "will-graham-platner-be-the-democratic-nominee-for-senate-in-maine",
+  "title": "Will Graham Platner be the Democratic nominee for Senate in Maine?",
+  "description": "This market will resolve according to the winner of the Democratic Primary for United States Senator from Maine.\n\nIf no 2026 Maine Democratic Senate Primary takes place, this market will resolve to \"Other\".\n\nThe resolution source for this market will be the first announcement of the results from the Maine Democratic party, however an overwhelming consensus of credible reporting may suffice.",
+  "outcomePrices": [
+    "0.665",
+    "0.335"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1237.536613,
+  "liquidity": 37831.6587,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-31T00:00:00Z",
+  "createdAt": "2025-09-15T18:39:05.86611Z",
+  "clobTokenIds": [
+    "51273396751548994017117054764897754414228591289652072971120018616721173971444",
+    "69732267236340588035067724177359769962979053624149789047101950615640324836190"
+  ],
+  "volumeTotal": 707844.995664,
+  "volume1wk": 16776.648019,
+  "competitive": 0.9734965562559322,
+  "priceChange24h": 0,
+  "hybridScore": 5.156918095441155,
+  "category": "Politics"
+}

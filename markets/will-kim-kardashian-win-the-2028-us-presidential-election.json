@@ -1,0 +1,29 @@
+{
+  "id": "will-kim-kardashian-win-the-2028-us-presidential-election",
+  "title": "Will Kim Kardashian win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 267591.81855499995,
+  "liquidity": 1304108.05894,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:12.12096Z",
+  "clobTokenIds": [
+    "24863363384036117015867671383779186335047493791693657275104567365292353535818",
+    "44632793419668141561343859504077903947361590865219599333832862239708628173864"
+  ],
+  "volumeTotal": 16293683.707693,
+  "volume1wk": 1828262.1214900005,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": 0,
+  "hybridScore": 6.54090538140065,
+  "category": "Politics"
+}

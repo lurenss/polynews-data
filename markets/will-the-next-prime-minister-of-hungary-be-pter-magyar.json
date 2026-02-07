@@ -1,0 +1,29 @@
+{
+  "id": "will-the-next-prime-minister-of-hungary-be-pter-magyar",
+  "title": "Will the next Prime Minister of Hungary be Péter Magyar?",
+  "description": "Parliamentary elections are expected to be held in Hungary in April or May 2026.\n\nThis market will resolve to the individual who is next officially appointed and confirmed as Prime Minister of Hungary following the 2026 parliamentary election.\n\nTo count for resolution, the individual must be formally elected and appointed to the role of Prime Minister. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is confirmed by December 31, 2026, 11:59 PM ET, this market will resolve to “Other.”\n\nThe primary resolution source for this market will be official information from the Government of Hungary; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.575",
+    "0.425"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 11786.046520999998,
+  "liquidity": 66602.3423,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-24T21:26:35.833305Z",
+  "clobTokenIds": [
+    "94192784911459194325909253314484842244405314804074606736702592885535642919725",
+    "114802065330196313748583636362219556679241104184345158405411161275523811071216"
+  ],
+  "volumeTotal": 1892482.91529,
+  "volume1wk": 263680.3385529999,
+  "competitive": 0.9944064636420137,
+  "priceChange24h": 0.01,
+  "hybridScore": 5.69134004643694,
+  "category": "Politics"
+}

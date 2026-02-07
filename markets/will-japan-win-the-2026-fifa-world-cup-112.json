@@ -1,0 +1,29 @@
+{
+  "id": "will-japan-win-the-2026-fifa-world-cup-112",
+  "title": "Will Japan win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0125",
+    "0.9875"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 96811.05614000002,
+  "liquidity": 323942.89867,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:49.807435Z",
+  "clobTokenIds": [
+    "19159976531313550247579355752030367100657092033093647047491459813592996250034",
+    "30480347120583372139084467958111617967991872806450711152133323106144105346695"
+  ],
+  "volumeTotal": 2059708.769062,
+  "volume1wk": 415419.62777699984,
+  "competitive": 0.8079787905567479,
+  "priceChange24h": -0.001,
+  "hybridScore": 5.931373996205018,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "over-5m-committed-to-the-hurupay-public-sale-241-999-813-678-217-134-593-326",
+  "title": "Over $5M committed to the Hurupay public sale?",
+  "description": "This market will resolve to “Yes” if total commitments for the Hurupay raise on MetaDAO exceeds the number specified in the title before the raise closes. Otherwise, it will resolve to “No.”\n\nThe resolution source is the official Hurupay raise page on MetaDAO\n\nIf the final commitment amount cannot be verified by April 30, 2026, 11:59 PM ET, or if relevant information becomes permanently unavailable within the market timeframe, this market will resolve to “No.”\n\nCommitments from any points-holder or reserved allocation pool will be included in total commitments.",
+  "outcomePrices": [
+    "0.1375",
+    "0.8625"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 76054.10685799997,
+  "liquidity": 16533.52798,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-01T05:00:00Z",
+  "createdAt": "2026-01-27T21:30:43.87667Z",
+  "clobTokenIds": [
+    "57728718175040113728674572048203954719192020597702446346035335900019029491713",
+    "16345480166623601081978078253137817068798498652701782189256605262699615188092"
+  ],
+  "volumeTotal": 659958.076134,
+  "volume1wk": 463941.23653100047,
+  "competitive": 0.8838558210191962,
+  "priceChange24h": -0.0515,
+  "hybridScore": 5.51967949791678,
+  "category": "Economics"
+}

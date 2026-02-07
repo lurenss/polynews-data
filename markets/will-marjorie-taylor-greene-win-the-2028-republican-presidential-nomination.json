@@ -1,0 +1,29 @@
+{
+  "id": "will-marjorie-taylor-greene-win-the-2028-republican-presidential-nomination",
+  "title": "Will Marjorie Taylor Greene win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.016",
+    "0.984"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2768.891446,
+  "liquidity": 253682.91455,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:22.412839Z",
+  "clobTokenIds": [
+    "65830295349944471218641822318218876930376684645620468557619951782520997909982",
+    "33372330947023860525870630758549137902170576919090726047009795835189818269107"
+  ],
+  "volumeTotal": 1360714.188583,
+  "volume1wk": 53625.222817,
+  "competitive": 0.8102046901129101,
+  "priceChange24h": -0.001,
+  "hybridScore": 5.3773089939575325,
+  "category": "Politics"
+}

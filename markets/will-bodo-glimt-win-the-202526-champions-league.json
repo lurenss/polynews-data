@@ -1,0 +1,29 @@
+{
+  "id": "will-bodo-glimt-win-the-202526-champions-league",
+  "title": "Will Bodo Glimt win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.005",
+    "0.995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 228292.07529100002,
+  "liquidity": 159676.44453,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:58.737382Z",
+  "clobTokenIds": [
+    "62582575185741601914570060329560489452594281062505278063937336145989216796217",
+    "42256377489275961318725099478818786100179340185057752937112043662235323118766"
+  ],
+  "volumeTotal": 8754192.174854,
+  "volume1wk": 592606.1105370001,
+  "competitive": 0.8031967229573703,
+  "priceChange24h": -0.0015,
+  "hybridScore": 6.228279709507864,
+  "category": "Economics"
+}

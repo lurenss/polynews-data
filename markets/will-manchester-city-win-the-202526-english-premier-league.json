@@ -1,0 +1,29 @@
+{
+  "id": "will-manchester-city-win-the-202526-english-premier-league",
+  "title": "Will Manchester City win the 2025–26 English Premier League?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 English Premier League.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 English Premier League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 English Premier League season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the English Premier League. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.12",
+    "0.88"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 38196.785777,
+  "liquidity": 125221.8723,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-27T00:00:00Z",
+  "createdAt": "2025-07-21T21:12:59.931624Z",
+  "clobTokenIds": [
+    "78140458432174397862436707256368409182467606418188760097873260862383336868084",
+    "35557505468942422215419202181286909041351037263532118361009530538680475882313"
+  ],
+  "volumeTotal": 3902543.017906,
+  "volume1wk": 206302.26062699972,
+  "competitive": 0.8738203425375743,
+  "priceChange24h": -0.025,
+  "hybridScore": 5.904507655520918,
+  "category": "Economics"
+}

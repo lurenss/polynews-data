@@ -1,0 +1,29 @@
+{
+  "id": "will-zohran-mamdani-win-the-2028-democratic-presidential-nomination-445",
+  "title": "Will Zohran Mamdani win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0105",
+    "0.9895"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 1095548.986987,
+  "liquidity": 724068.37701,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:13.666113Z",
+  "clobTokenIds": [
+    "19323997520040734631220675039559156784534982703459512097490198935565229528445",
+    "111309365336519526711604102518316708823622751854213281307404397618571408959194"
+  ],
+  "volumeTotal": 27699580.754224,
+  "volume1wk": 1765865.2939779998,
+  "competitive": 0.8067051720490372,
+  "priceChange24h": 0,
+  "hybridScore": 6.767540152137803,
+  "category": "Politics"
+}

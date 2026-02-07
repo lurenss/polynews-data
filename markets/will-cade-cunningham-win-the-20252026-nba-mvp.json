@@ -1,0 +1,29 @@
+{
+  "id": "will-cade-cunningham-win-the-20252026-nba-mvp",
+  "title": "Will Cade Cunningham win the 2025–2026 NBA MVP?",
+  "description": "This market will resolve to \"Yes\" if Cade Cunningham is awarded the 2025–26 regular season NBA Most Valuable Player (MVP) Award. Otherwise, this market will resolve to \"No\".\n\nIf the listed player is not announced as a finalist for the 2025–26 NBA MVP award, this market will immediately resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the NBA. However, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.054",
+    "0.946"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 31308.884151000013,
+  "liquidity": 27226.0602,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-10T00:00:00Z",
+  "createdAt": "2025-07-16T16:03:24.100806Z",
+  "clobTokenIds": [
+    "34119601935291220616728117106690337057964105103638371147174952394298971933530",
+    "23637695676589567801908162966008599210388633138867275717354437429702726087534"
+  ],
+  "volumeTotal": 696312.30711,
+  "volume1wk": 167973.51719799993,
+  "competitive": 0.8340867917352008,
+  "priceChange24h": 0.02,
+  "hybridScore": 5.406913258251906,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-cape-verde-win-the-2026-fifa-world-cup",
+  "title": "Will Cape Verde win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 11499.97,
+  "liquidity": 852206.17041,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:55:01.531967Z",
+  "clobTokenIds": [
+    "61595193871140044336898809781418183952441527621084596848414908595268863899573",
+    "51603557647605526784272094285656249935467020057355371392584885347569984808630"
+  ],
+  "volumeTotal": 2786472.359,
+  "volume1wk": 544198.0319999999,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 5.783311045984607,
+  "category": "Sports"
+}

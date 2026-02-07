@@ -1,0 +1,29 @@
+{
+  "id": "will-nikki-haley-win-the-2028-us-presidential-election",
+  "title": "Will Nikki Haley win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0095",
+    "0.9905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 151947.22823000004,
+  "liquidity": 455135.20316,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:07.253833Z",
+  "clobTokenIds": [
+    "14253956839582698877884742930225331487593177635330318923853046874994118249367",
+    "84386913213192310444216977895083273572419886997719576824320630372812149173320"
+  ],
+  "volumeTotal": 13704111.956792,
+  "volume1wk": 795806.620621,
+  "competitive": 0.806067918073675,
+  "priceChange24h": 0.001,
+  "hybridScore": 6.34694525850821,
+  "category": "Politics"
+}

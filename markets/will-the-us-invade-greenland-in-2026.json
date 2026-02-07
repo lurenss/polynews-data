@@ -1,0 +1,29 @@
+{
+  "id": "will-the-us-invade-greenland-in-2026",
+  "title": "Will the U.S. invade Greenland in 2026?",
+  "description": "This market will resolve to \"Yes\" if the United States commences a military offensive intended to establish control over any portion of the land territory of Greenland by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, the land territory of Greenland refers to all territory recognized by Denmark as part of the autonomous territory of Greenland within the Kingdom of Denmark, as of market creation.\n\nThe resolution source for this market will be a consensus of credible reporting.\n",
+  "outcomePrices": [
+    "0.065",
+    "0.935"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 2135.480693,
+  "liquidity": 109492.2209,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2026-01-05T17:38:57.427713Z",
+  "clobTokenIds": [
+    "92674041769676787946853574644277638811231469622795349256540717061493540204868",
+    "17095902971709157441219887002231819699119343581253499592038634568134421624411"
+  ],
+  "volumeTotal": 1093051.238617,
+  "volume1wk": 45647.536575,
+  "competitive": 0.8408837688410519,
+  "priceChange24h": -0.01,
+  "hybridScore": 5.2631272740835895,
+  "category": "Economics"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "trump-x-greenland-deal-signed-by-march-31",
+  "title": "Trump-Denmark Greenland deal signed by March 31?",
+  "description": "This market will resolve to “Yes” if both Denmark and the United States sign a deal, treaty, or similar international agreement of any kind relating to Greenland by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nAny U.S.–Danish agreement relating to Greenland will qualify, regardless of subject matter, including but not limited to sovereignty, governance, security arrangements, or access to natural resources.\n\nExamples of qualifying deals include but are not limited to a treaty that makes any portion of Greenland a U.S. territory or possession (even if the handover date for such territory or possession is later); or, a Guantánamo-style arrangement treaty establishing a defined zone in Greenland under exclusive or primary U.S. jurisdiction and control, where Denmark and Greenland’s ordinary legal authority does not apply except by U.S. permission; or agreements permitting additional U.S. troop stationing, basing access, or resource extraction rights in Greenland.\n\nThis market will resolve to “Yes” only if a qualifying agreement is formally signed by authorized representatives of both Denmark and the United States. Official announcements, statements of intent, or declarations that an agreement has been reached will not suffice unless accompanied by signatures from both sides. Whether or not a qualifying deal is later passed by the respective parliaments or enters into force will not affect this market’s resolution. Signaling from Greenland’s population will not be considered.\n\nAnnouncements, negotiations, proposals, frameworks, or understandings that are not formally signed by both parties will not qualify. Any qualifying U.S. jurisdiction, control, basing rights, or access arrangements in Greenland that existed at market creation will not count as new qualifying agreements.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Denmark; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.11",
+    "0.89"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 8386.132221000002,
+  "liquidity": 45729.4798,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-31T00:00:00Z",
+  "createdAt": "2026-01-12T16:23:29.832395Z",
+  "clobTokenIds": [
+    "3319181900543095738263983138332846530489075265718671695066727684531627567914",
+    "53481396712842089320349903159134403826367214581988937152055339754029604578480"
+  ],
+  "volumeTotal": 786659.575959,
+  "volume1wk": 47092.78617499999,
+  "competitive": 0.8679802100512108,
+  "priceChange24h": 0.015,
+  "hybridScore": 5.3354203628296375,
+  "category": "Politics"
+}

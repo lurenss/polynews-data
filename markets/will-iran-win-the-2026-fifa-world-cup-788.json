@@ -1,0 +1,29 @@
+{
+  "id": "will-iran-win-the-2026-fifa-world-cup-788",
+  "title": "Will Iran win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0025",
+    "0.9975"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 14000.649999999998,
+  "liquidity": 466452.17072,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:55.140328Z",
+  "clobTokenIds": [
+    "33747305042007778221968790541070114008811587676172030120559423448386310500957",
+    "80777593725072886250387021020386140490553855405927920539616996585797139624012"
+  ],
+  "volumeTotal": 2006440.029051,
+  "volume1wk": 474220.17900000006,
+  "competitive": 0.8015991903848178,
+  "priceChange24h": 0,
+  "hybridScore": 5.700185125498527,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-south-korea-win-the-2026-fifa-world-cup-485",
+  "title": "Will South Korea win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.007",
+    "0.993"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 4427.723277,
+  "liquidity": 189063.70728,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:54:56.391365Z",
+  "clobTokenIds": [
+    "80724786407275266937534613008558715581084712230616856739273522348302669402554",
+    "100966306057435164439067339228624332754270252294302540206756310699254942177976"
+  ],
+  "volumeTotal": 3038431.684418,
+  "volume1wk": 803785.1125370001,
+  "competitive": 0.8044735163296057,
+  "priceChange24h": 0.0005,
+  "hybridScore": 5.546739020748268,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "will-jaylen-brown-win-the-20252026-nba-mvp",
+  "title": "Will Jaylen Brown win the 2025–2026 NBA MVP?",
+  "description": "This market will resolve to \"Yes\" if Jaylen Brown is awarded the 2025–26 regular season NBA Most Valuable Player (MVP) Award. Otherwise, this market will resolve to \"No\".\n\nIf the listed player is not announced as a finalist for the 2025–26 NBA MVP award, this market will immediately resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the NBA. However, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0125",
+    "0.9875"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 386227.9327159999,
+  "liquidity": 64617.39339,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-10T00:00:00Z",
+  "createdAt": "2025-07-16T16:03:27.554801Z",
+  "clobTokenIds": [
+    "27317805083324305657153029216706373718348619238641707186673635855142895952316",
+    "50506784840746014472165828748986922256603852018037221896235814226504255159103"
+  ],
+  "volumeTotal": 912177.552223,
+  "volume1wk": 479344.7658979999,
+  "competitive": 0.8079787905567479,
+  "priceChange24h": 0.002,
+  "hybridScore": 5.830135405581567,
+  "category": "Sports"
+}

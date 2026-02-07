@@ -1,0 +1,29 @@
+{
+  "id": "new-rhianna-album-before-gta-vi-926",
+  "title": "New Rihanna Album before GTA VI?",
+  "description": "This market will resolve to \"Yes\" if Rihanna officially releases a new album before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nOfficially released means that a newly released album is officially available for download or streaming (not including live events) by the resolution date.\n\nRe-releases, deluxe editions, compilations, or greatest hits albums will not count, unless they contain at least 50% tracks that have never been officially released in any format prior to the album's release.\n\nThe resolution source for the album release will be any official streaming or download site, e.g. Apple Music or Spotify.",
+  "outcomePrices": [
+    "0.585",
+    "0.415"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 178.529856,
+  "liquidity": 43151.2103,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-31T12:00:00Z",
+  "createdAt": "2025-05-02T15:04:43.762151Z",
+  "clobTokenIds": [
+    "98022490269692409998126496127597032490334070080325855126491859374983463996227",
+    "53831553061883006530739877284105938919721408776239639687877978808906551086026"
+  ],
+  "volumeTotal": 636427.910243,
+  "volume1wk": 1212.0056610000001,
+  "competitive": 0.9928268261808434,
+  "priceChange24h": -0.005,
+  "hybridScore": 4.917568399893184,
+  "category": "Economics"
+}

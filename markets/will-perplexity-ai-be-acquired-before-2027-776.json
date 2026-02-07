@@ -1,0 +1,29 @@
+{
+  "id": "will-perplexity-ai-be-acquired-before-2027-776",
+  "title": "Will Perplexity AI be acquired before 2027?",
+  "description": "This market will resolve to “Yes” if credible reporting confirms that any entity enters into an agreement to acquire the listed company by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nMergers where the listed company is subsumed by another entity will count toward a \"Yes\" resolution.\n\nAn announced agreement between the listed company and an acquiring entity will qualify for a “Yes” resolution, regardless of whether the acquisition is ultimately completed.\n\nThe primary resolution source for this market is official information from the listed company and/or its leadership; however, a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.425",
+    "0.575"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 751.714037,
+  "liquidity": 9229.0702,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-24T13:11:21.403365Z",
+  "clobTokenIds": [
+    "42574248959284530646091368047066126180445434974022460106859680414580532069710",
+    "84834595145551060233480988152606214225219613758644201086445418024052582755907"
+  ],
+  "volumeTotal": 2211937.397689,
+  "volume1wk": 1809895.1538890053,
+  "competitive": 0.9944064636420137,
+  "priceChange24h": -0.01,
+  "hybridScore": 5.18834568007242,
+  "category": "Economics"
+}

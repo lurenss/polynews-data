@@ -1,0 +1,29 @@
+{
+  "id": "will-wes-moore-win-the-2028-democratic-presidential-nomination-714",
+  "title": "Will Wes Moore win the 2028 Democratic presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Democratic Party sources.\n\nAny replacement of the democratic nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.0175",
+    "0.9825"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 3305.718068,
+  "liquidity": 287015.85912,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-03T20:37:01.954955Z",
+  "clobTokenIds": [
+    "90227223115596293448966158151606153337847900483048338623540402385929720677904",
+    "105134691322323565615831879054043168027913414000042547943201361115853277749482"
+  ],
+  "volumeTotal": 3564021.074061,
+  "volume1wk": 135011.28422600005,
+  "competitive": 0.8111574710137947,
+  "priceChange24h": -0.0025,
+  "hybridScore": 5.579334257126241,
+  "category": "Politics"
+}

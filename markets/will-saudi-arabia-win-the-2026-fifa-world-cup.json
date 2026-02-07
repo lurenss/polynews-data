@@ -1,0 +1,29 @@
+{
+  "id": "will-saudi-arabia-win-the-2026-fifa-world-cup",
+  "title": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+  "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0025",
+    "0.9975"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 18987.7205,
+  "liquidity": 841769.16633,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-20T00:00:00Z",
+  "createdAt": "2025-07-02T16:55:02.732073Z",
+  "clobTokenIds": [
+    "23542782083949026234898323432000742558288032327930681121040136746492993951914",
+    "114546670306823666642195507621782951860129088864927983250949362928442688463192"
+  ],
+  "volumeTotal": 4567397.612402,
+  "volume1wk": 248459.58749899996,
+  "competitive": 0.8015991903848178,
+  "priceChange24h": 0,
+  "hybridScore": 5.93405417316504,
+  "category": "Sports"
+}

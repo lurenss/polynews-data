@@ -1,0 +1,29 @@
+{
+  "id": "will-renan-santos-win-the-2026-brazilian-presidential-election",
+  "title": "Will Renan Santos win the 2026 Brazilian presidential election?",
+  "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate that wins this election.\n\nThis market includes any potential second round. If the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+  "outcomePrices": [
+    "0.069",
+    "0.931"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 53878.230801999984,
+  "liquidity": 86158.27445,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-10-04T00:00:00Z",
+  "createdAt": "2025-09-17T18:40:13.408329Z",
+  "clobTokenIds": [
+    "93998891488819623915454849994768171534113749478841216025646247933473925258016",
+    "7565921021555775006041943394390068423142281108752994121417017072842379450830"
+  ],
+  "volumeTotal": 1548092.44714,
+  "volume1wk": 239327.87743100012,
+  "competitive": 0.8433402684014738,
+  "priceChange24h": -0.006,
+  "hybridScore": 5.725745960044091,
+  "category": "Politics"
+}

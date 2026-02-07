@@ -1,0 +1,29 @@
+{
+  "id": "us-x-iran-meeting-by-february-6-2026",
+  "title": "US x Iran meeting by February 6, 2026?",
+  "description": "This market will resolve to \"Yes\" if there is an official diplomatic meeting between government representatives of the United States and Iran by the listed date, 11:59 PM ET. Otherwise this market will resolve to “No”.\n\nOfficial diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy on behalf of their government. Brief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, meetings through a third-party relaying messages (not including translators), or other meetings where the relevant parties are not present and interacting with each other will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.9985",
+    "0.0015"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 3879664.948691007,
+  "liquidity": 5747237.59859,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-13T00:00:00Z",
+  "createdAt": "2026-02-03T19:13:03.441896Z",
+  "clobTokenIds": [
+    "105999601513560278968876871354011816371662460306447522911118766757022097746482",
+    "25841427349099021030477407408202074144234948026062046702103181016766959946974"
+  ],
+  "volumeTotal": 4822986.101883,
+  "volume1wk": 4727546.2218829915,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0.996,
+  "hybridScore": 6.802816295528176,
+  "category": "Economics"
+}

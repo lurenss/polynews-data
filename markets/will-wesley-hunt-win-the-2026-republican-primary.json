@@ -1,0 +1,29 @@
+{
+  "id": "will-wesley-hunt-win-the-2026-republican-primary",
+  "title": "Will Wesley Hunt win the 2026 Texas Republican Primary?",
+  "description": "This market will resolve according to the winner of the Republican Primary for United States Senator from Texas. \n\nIf no 2026 Texas Republican Senate Primary takes place, this market will resolve to \"Other\".\n\nThe resolution source for this market will be the first announcement of the results from the Texas Republican party, however an overwhelming consensus of credible reporting may suffice.\n",
+  "outcomePrices": [
+    "0.174",
+    "0.826"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 104264.878335,
+  "liquidity": 13819.24304,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-03-03T00:00:00Z",
+  "createdAt": "2025-07-10T21:02:42.541414Z",
+  "clobTokenIds": [
+    "107927272895121873896592780561794303301515708678562694349024225854697593171909",
+    "100333398771549990435986817872587460650263444431054342556176662063680731819090"
+  ],
+  "volumeTotal": 545844.401767,
+  "volume1wk": 245384.74936000002,
+  "competitive": 0.9039335572678066,
+  "priceChange24h": 0.079,
+  "hybridScore": 5.532307217648421,
+  "category": "Politics"
+}

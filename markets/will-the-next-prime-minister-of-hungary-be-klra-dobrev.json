@@ -1,0 +1,29 @@
+{
+  "id": "will-the-next-prime-minister-of-hungary-be-klra-dobrev",
+  "title": "Will the next Prime Minister of Hungary be Klára Dobrev?",
+  "description": "Parliamentary elections are expected to be held in Hungary in April or May 2026.\n\nThis market will resolve to the individual who is next officially appointed and confirmed as Prime Minister of Hungary following the 2026 parliamentary election.\n\nTo count for resolution, the individual must be formally elected and appointed to the role of Prime Minister. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is confirmed by December 31, 2026, 11:59 PM ET, this market will resolve to “Other.”\n\nThe primary resolution source for this market will be official information from the Government of Hungary; however, a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 13432.242,
+  "liquidity": 196319.65122,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-24T21:26:36.319705Z",
+  "clobTokenIds": [
+    "112536763962112966413913689999835610937825698421206043055719132308018314071040",
+    "33006593420020441073522915423328726677372124830096783637646098077801110464339"
+  ],
+  "volumeTotal": 1438002.036504,
+  "volume1wk": 61889.53000000001,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 5.5611110799589,
+  "category": "Politics"
+}

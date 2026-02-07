@@ -1,0 +1,29 @@
+{
+  "id": "will-the-brooklyn-nets-win-the-2026-nba-finals",
+  "title": "Will the Brooklyn Nets win the 2026 NBA Finals?",
+  "description": "This market will resolve to “Yes” if the Brooklyn Nets win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+  "outcomePrices": [
+    "0.0015",
+    "0.9985"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 92859.94000000002,
+  "liquidity": 1160883.09774,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T00:00:00Z",
+  "createdAt": "2025-06-19T18:23:39.603474Z",
+  "clobTokenIds": [
+    "64549842273644936434796394147539611999053320902810805414231521716955581728589",
+    "30598999830369341021624573843394877129149514727451675974353839463470643521263"
+  ],
+  "volumeTotal": 14818753.236807,
+  "volume1wk": 1059065.6309999996,
+  "competitive": 0.8009597099244316,
+  "priceChange24h": 0,
+  "hybridScore": 6.372592083210379,
+  "category": "Sports"
+}

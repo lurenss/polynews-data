@@ -1,0 +1,29 @@
+{
+  "id": "will-trump-nominate-david-zervos-as-the-next-fed-chair",
+  "title": "Will Trump nominate David Zervos as the next Fed chair?",
+  "description": "This market will resolve according to the next individual Donald Trump, as President of the United States, formally nominates to be Chair of the Federal Reserve by December 31, 2026, 11:59 PM ET. \n\nFormal nominations are defined as the submission of a nomination message to the U.S. Senate.\n\nActing or interim appointments will not count unless the individual is formally nominated to be Chair of the Federal Reserve by submission of a nomination message to the U.S. Senate.\n\nThe primary resolution source for this market will be official information from the U.S. Senate (see: https://www.senate.gov/legislative/nominations_new.htm), however a consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0005",
+    "0.9995"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 20000,
+  "liquidity": 3023746.39564,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-08-05T17:13:26.976005Z",
+  "clobTokenIds": [
+    "88391082672262916083180818865706688728408351209155276040680367442281248954606",
+    "47931494361124809158885258715190860465351951728625194428478655092738533215367"
+  ],
+  "volumeTotal": 17791409.01491,
+  "volume1wk": 30430.92,
+  "competitive": 0.8003199679231757,
+  "priceChange24h": 0,
+  "hybridScore": 6.286828729699138,
+  "category": "Politics"
+}

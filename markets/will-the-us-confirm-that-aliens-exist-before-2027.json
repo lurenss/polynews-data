@@ -1,0 +1,29 @@
+{
+  "id": "will-the-us-confirm-that-aliens-exist-before-2027",
+  "title": "Will the US confirm that aliens exist before 2027?",
+  "description": "This market will resolve to \"Yes\" if the President of the United States, any member of the Cabinet of the United States, any member of the Joint Chiefs of Staff, or any US federal agency definitively states that extraterrestrial life or technology exists by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the government of the United States, however a consensus of credible reporting will also be used.",
+  "outcomePrices": [
+    "0.095",
+    "0.905"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 59700.011197,
+  "liquidity": 200027.623,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-12-31T00:00:00Z",
+  "createdAt": "2025-11-25T15:10:30.228568Z",
+  "clobTokenIds": [
+    "107505882767731489358349912513945399560393482969656700824895970500493757150417",
+    "7305630249804085635496399869905769372294302716159034447326228509068694952392"
+  ],
+  "volumeTotal": 1825259.493538,
+  "volume1wk": 271789.3245479998,
+  "competitive": 0.8590880780051975,
+  "priceChange24h": 0,
+  "hybridScore": 5.856630954762704,
+  "category": "Politics"
+}

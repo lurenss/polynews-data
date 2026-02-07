@@ -1,0 +1,29 @@
+{
+  "id": "will-atalanta-win-the-202526-champions-league",
+  "title": "Will Atalanta win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0055",
+    "0.9945"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 174483.40739999985,
+  "liquidity": 493415.53172,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:48.144601Z",
+  "clobTokenIds": [
+    "110744751097176596240040438772217801257447554009105101069887748928186140599293",
+    "21944894353965897951603275348219343854238849215840619102823032771992655122234"
+  ],
+  "volumeTotal": 5135694.799665,
+  "volume1wk": 490628.13761599996,
+  "competitive": 0.8035160254240507,
+  "priceChange24h": 0,
+  "hybridScore": 6.198925468096992,
+  "category": "Economics"
+}

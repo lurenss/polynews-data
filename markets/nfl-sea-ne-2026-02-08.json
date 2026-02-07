@@ -1,0 +1,29 @@
+{
+  "id": "nfl-sea-ne-2026-02-08",
+  "title": "Seahawks vs. Patriots",
+  "description": "In the upcoming NFL game, scheduled for February 8 at 6:30PM ET:\nIf Seahawks wins, the market will resolve to \"Seahawks\".\nIf Patriots wins, the market will resolve to \"Patriots\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely or ends in a tie, with no make-up game, this market will resolve 50-50.",
+  "outcomePrices": [
+    "0.685",
+    "0.315"
+  ],
+  "outcomes": [
+    "Seahawks",
+    "Patriots"
+  ],
+  "volume24hr": 1262705.4024420006,
+  "liquidity": 3467972.3441,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-08T23:30:00Z",
+  "createdAt": "2026-01-26T03:19:04.0016Z",
+  "clobTokenIds": [
+    "46434110155841033529384949983718980438706543876953886750286883506638610790525",
+    "57625936606489185661652559589880983710918172021553907271126623944716577292773"
+  ],
+  "volumeTotal": 5935563.485188,
+  "volume1wk": 3784928.5668230136,
+  "competitive": 0.9669075878072954,
+  "priceChange24h": 0,
+  "hybridScore": 6.814698263748953,
+  "category": "Sports"
+}

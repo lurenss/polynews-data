@@ -1,0 +1,29 @@
+{
+  "id": "jerome-powell-out-as-fed-chair-by-march-31-2026",
+  "title": "Jerome Powell out as Fed Chair by March 31, 2026?",
+  "description": "This market will resolve to “Yes” if Jerome Powell ceases to be the Chair of the U.S. Federal Reserve for any period of time between this market's creation and the listed date, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be information from the U.S. Government; however, a consensus of credible reporting will also suffice.",
+  "outcomePrices": [
+    "0.0305",
+    "0.9695"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 6554.074947000001,
+  "liquidity": 53231.07697,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-14T00:00:00Z",
+  "createdAt": "2026-01-03T02:23:03.150635Z",
+  "clobTokenIds": [
+    "37630452565726710287337019432568734999935105393847322660206180233791277542800",
+    "22220888495634956063244044136609960213710905308790329884735167234963946757921"
+  ],
+  "volumeTotal": 531500.336539,
+  "volume1wk": 37842.053737999995,
+  "competitive": 0.8193831642570315,
+  "priceChange24h": 0.0075,
+  "hybridScore": 5.199792889396841,
+  "category": "Economics"
+}

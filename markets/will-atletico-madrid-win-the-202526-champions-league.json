@@ -1,0 +1,29 @@
+{
+  "id": "will-atletico-madrid-win-the-202526-champions-league",
+  "title": "Will Atletico Madrid win the 2025–26 Champions League?",
+  "description": "This is a polymarket on whether the listed team will win the 2025–26 UEFA Champions League.\n\nThis market will resolve to \"Yes\" if the listed team is officially crowned the winner of the 2025–26 UEFA Champions League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed team to win the tournament (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 UEFA Champions League is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from UEFA Champions League (https://www.uefa.com/uefachampionsleague/). A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.02",
+    "0.98"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 18008.40880799999,
+  "liquidity": 150795.09956,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-31T00:00:00Z",
+  "createdAt": "2025-07-21T20:58:44.853238Z",
+  "clobTokenIds": [
+    "39199930181061027002976945656289590914091865583643541107948177704448092689848",
+    "27446117479784640697574527032292820989191318340119712250294208229142056414640"
+  ],
+  "volumeTotal": 3323123.941407,
+  "volume1wk": 363247.5168590006,
+  "competitive": 0.8127438231469442,
+  "priceChange24h": -0.0015,
+  "hybridScore": 5.733690349782048,
+  "category": "Economics"
+}

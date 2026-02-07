@@ -1,0 +1,29 @@
+{
+  "id": "cs2-ts7-furia-2026-02-07",
+  "title": "Counter-Strike: Spirit vs FURIA (BO3) - IEM Krakow Playoffs",
+  "description": "This market refers to the Counter-Strike match between Spirit and FURIA in the IEM Krakow Playoffs, scheduled for February 7 at 9:45AM ET.\n\nThis market will resolve to \"Spirit\" if Spirit win the match against FURIA.\n\nThis market will resolve to \"FURIA\" if FURIA win the match against Spirit.\n\nIf the match is canceled (not played at all), ends in a tie, or is delayed beyond 7 days from the scheduled date without a winner determined, this market will resolve to 50-50. \n\nIf the match begins but is not completed, and one team wins due to the opponent's forfeiture, disqualification, or walkover, this market will resolve to the team who wins. \n\nIf the match ends in a forfeit, disqualification, or walkover (team withdraws before the start and the other wins automatically), this market will resolve to 50-50. \n\nThe resolution source for this market will be official information from https://hltv.org/.",
+  "outcomePrices": [
+    "0.245",
+    "0.755"
+  ],
+  "outcomes": [
+    "Spirit",
+    "FURIA"
+  ],
+  "volume24hr": 1218043.7462509999,
+  "liquidity": 39979.4636,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-07T20:45:00Z",
+  "createdAt": "2026-02-06T17:30:05.708621Z",
+  "clobTokenIds": [
+    "7562276265098964580967050219473404298582194625943507413388791962374694577228",
+    "92265507144814913132334408692037384823066845563081711626309490617513028213934"
+  ],
+  "volumeTotal": 1435677.531673,
+  "volume1wk": 1218043.7462509999,
+  "competitive": 0.938945095185559,
+  "priceChange24h": -0.23,
+  "hybridScore": 6.147836515695556,
+  "category": "Economics"
+}
