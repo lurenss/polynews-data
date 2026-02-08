@@ -1,0 +1,29 @@
+{
+  "id": "bitcoin-above-68k-on-february-8",
+  "title": "Will the price of Bitcoin be above $68,000 on February 8?",
+  "description": "This market will resolve to \"Yes\" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final \"Close\" price higher than the price specified in the title. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.\n\nPrice precision is determined by the number of decimal places in the source.",
+  "outcomePrices": [
+    "0.991",
+    "0.009"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 147293.96629200023,
+  "liquidity": 25221.24236,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-08T17:00:00Z",
+  "createdAt": "2026-02-01T17:00:14.86651Z",
+  "clobTokenIds": [
+    "86747772836911775922057639239053413816155316577458452758134270001018486135733",
+    "3144374762332727482720135270338099524066725580001284463544365773649030901809"
+  ],
+  "volumeTotal": 605533.498603,
+  "volume1wk": 519125.92699300003,
+  "competitive": 0.8057491815602688,
+  "priceChange24h": 0.2635,
+  "hybridScore": 5.5494178484212,
+  "category": "Crypto"
+}

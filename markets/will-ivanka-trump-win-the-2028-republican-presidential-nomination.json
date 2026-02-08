@@ -1,0 +1,29 @@
+{
+  "id": "will-ivanka-trump-win-the-2028-republican-presidential-nomination",
+  "title": "Will Ivanka Trump win the 2028 Republican presidential nomination?",
+  "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to “No”.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "outcomePrices": [
+    "0.009",
+    "0.991"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 60244.75882900001,
+  "liquidity": 227020.10309,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-10T16:58:17.790005Z",
+  "clobTokenIds": [
+    "64219883837418173804780196379638150140562767673275103175135949850170609939649",
+    "38205061485482832990648495179350163959936416627781540057460551493511094122497"
+  ],
+  "volumeTotal": 2180621.236171,
+  "volume1wk": 323977.7842479999,
+  "competitive": 0.8057491815602688,
+  "priceChange24h": 0.0005,
+  "hybridScore": 5.8463725456922155,
+  "category": "Politics"
+}

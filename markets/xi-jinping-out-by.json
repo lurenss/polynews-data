@@ -1,0 +1,29 @@
+{
+  "id": "xi-jinping-out-by",
+  "title": "Xi Jinping out by June 30?",
+  "description": "This market will resolve to \"Yes\" if China's General Secretary of the Communist Party, Xi Jinping, is removed from power for any length of time between this market's creation and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nCCP General Secretary Xi Jinping will be considered removed from power if he announces his resignation from his role as General Secretary, or is otherwise dismissed, detained, disqualified, or otherwise loses his position or is prevented from fulfilling his duties as General Secretary within this market's timeframe.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.035",
+    "0.965"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 11299.300831,
+  "liquidity": 58946.91616,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-06-30T00:00:00Z",
+  "createdAt": "2025-12-17T19:59:36.290146Z",
+  "clobTokenIds": [
+    "31883462749119556388086799399919753637232555218950340228250860473714993542724",
+    "83880982683889885965133727500100095351145396204583518599800736520025739660868"
+  ],
+  "volumeTotal": 1268504.780289,
+  "volume1wk": 129283.40091899992,
+  "competitive": 0.8222162839935045,
+  "priceChange24h": 0.0015,
+  "hybridScore": 5.433553957205846,
+  "category": "Economics"
+}

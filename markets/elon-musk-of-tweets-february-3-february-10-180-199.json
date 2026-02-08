@@ -1,0 +1,29 @@
+{
+  "id": "elon-musk-of-tweets-february-3-february-10-180-199",
+  "title": "Will Elon Musk post 180-199 tweets from February 3 to February 10, 2026?",
+  "description": "This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from February 3 12:00 PM ET to February 10, 2026 12:00 PM ET.\n\nFor the purposes of this market, only main feed posts, quote posts and reposts will count.\n\nReplies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.\n\nDeleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).\n\nCommunity reposts which are not counted by the tracker not count toward the total.\n\nThe resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking \"Export Data\". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.",
+  "outcomePrices": [
+    "0.0265",
+    "0.9735"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 254583.5135799999,
+  "liquidity": 40140.5087,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-10T17:00:00Z",
+  "createdAt": "2026-01-31T05:00:09.840054Z",
+  "clobTokenIds": [
+    "25222905998469540116678747734009624933807903309411767963185088324919741162058",
+    "5088614182271368412851312698930350788814481204949854119822575367542637235824"
+  ],
+  "volumeTotal": 820397.951472,
+  "volume1wk": 637038.5829800003,
+  "competitive": 0.8168584888648914,
+  "priceChange24h": -0.0185,
+  "hybridScore": 5.724936860336719,
+  "category": "Economics"
+}

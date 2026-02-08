@@ -1,0 +1,29 @@
+{
+  "id": "lol-drx-ns-2026-02-08",
+  "title": "LoL: DRX vs Nongshim Red Force (BO5) - LCK Cup Play-In",
+  "description": "This market refers to the LoL match between DRX and Nongshim Red Force in the LCK Cup Play-In, scheduled for February 8 at 3:00AM ET.\n\nThis market will resolve to \"DRX\" if DRX win the match against Nongshim Red Force.\n\nThis market will resolve to \"Nongshim Red Force\" if Nongshim Red Force win the match against DRX.\n\nIf the match is canceled (not played at all), ends in a tie, or is delayed beyond 7 days from the scheduled date without a winner determined, this market will resolve to 50-50. \n\nIf the match begins but is not completed, and one team wins due to the opponent's forfeiture, disqualification, or walkover, this market will resolve to the team who wins. \n\nIf the match ends in a forfeit, disqualification, or walkover (team withdraws before the start and the other wins automatically), this market will resolve to 50-50. \n\nThe resolution source for this market will be official information from https://liquipedia.net/leagueoflegends/Main_Page.",
+  "outcomePrices": [
+    "0.9995",
+    "0.0005"
+  ],
+  "outcomes": [
+    "DRX",
+    "Nongshim Red Force"
+  ],
+  "volume24hr": 235869.04064099985,
+  "liquidity": 671763.63996,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-08T14:00:00Z",
+  "createdAt": "2026-02-07T14:00:12.471917Z",
+  "clobTokenIds": [
+    "55807909783707224793487876168755547959078405793275735330526178765621269727686",
+    "90831658297384840266643389976846411667101773832761347387016448993712133034841"
+  ],
+  "volumeTotal": 901163.362469,
+  "volume1wk": 235869.04064099985,
+  "competitive": 0.8003199679231757,
+  "priceChange24h": -0.675,
+  "hybridScore": 5.959486833964593,
+  "category": "Economics"
+}

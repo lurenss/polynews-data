@@ -1,0 +1,29 @@
+{
+  "id": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-february-28-846",
+  "title": "Will NVIDIA be the largest company in the world by market cap on February 28?",
+  "description": "This market will resolve to the largest company in the world by market cap on February 28, 2026, as of market close.\n\nThe resolution source for this market will be a consensus of credible reporting.",
+  "outcomePrices": [
+    "0.83",
+    "0.17"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 26531.600744000018,
+  "liquidity": 13113.901,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-28T00:00:00Z",
+  "createdAt": "2026-01-21T22:49:24.849686Z",
+  "clobTokenIds": [
+    "34859576120138621057883642775024843615141424700876369267127573058571005854932",
+    "35113438369005110239490121711824917969929339602867156779630117245966987778108"
+  ],
+  "volumeTotal": 693207.66816,
+  "volume1wk": 517307.43805899966,
+  "competitive": 0.9017945711966814,
+  "priceChange24h": 0.02,
+  "hybridScore": 5.388827114958071,
+  "category": "Economics"
+}

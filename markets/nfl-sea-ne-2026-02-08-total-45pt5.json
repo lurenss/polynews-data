@@ -1,0 +1,29 @@
+{
+  "id": "nfl-sea-ne-2026-02-08-total-45pt5",
+  "title": "Seahawks vs. Patriots: O/U 45.5",
+  "description": "In the upcoming NFL game, scheduled for February 8 at 6:30 PM ET:\n\nThis market will resolve to \"Over\" if the Seahawks and Patriots combine to score 46 or more points in this game.\n\nIf the combined total is less than 46, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50.",
+  "outcomePrices": [
+    "0.485",
+    "0.515"
+  ],
+  "outcomes": [
+    "Over",
+    "Under"
+  ],
+  "volume24hr": 403535.1337279991,
+  "liquidity": 882086.959,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-08T23:30:00Z",
+  "createdAt": "2026-01-29T14:15:09.620452Z",
+  "clobTokenIds": [
+    "108749336458408553368792986541835444297133235728578472729457377468389003986147",
+    "49908766491603417989216322963574217601993944632739699040463213139319918694970"
+  ],
+  "volumeTotal": 547273.923587,
+  "volume1wk": 521038.8773259992,
+  "competitive": 0.9997750506136119,
+  "priceChange24h": 0,
+  "hybridScore": 6.165924377580788,
+  "category": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "megaeth-market-cap-fdv-2b-one-day-after-launch-392-656-565",
+  "title": "MegaETH market cap (FDV) >$3B one day after launch?",
+  "description": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of MegaETH's token is greater than $3,000,000,000 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nFor the purposes of this market \"locked\" tokens or non-swappable tokens will not be considered a launch.\n\n\"1 day after launch\" is defined as 24 hours after launch. The resolution source for this market is the most liquid price source available. If MegaETH doesn't launch a token by June 30, 2026, 11:59 PM ET, this market will resolve to \"No.\"",
+  "outcomePrices": [
+    "0.057",
+    "0.943"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 34529.968693999996,
+  "liquidity": 52472.77105,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-07-01T04:00:00Z",
+  "createdAt": "2025-11-05T16:57:41.278317Z",
+  "clobTokenIds": [
+    "92206458231325096769152348269441704588222763710040504959674288895806154976594",
+    "76923693924406713859745805828172340186379347372867842378616708773220670988116"
+  ],
+  "volumeTotal": 1050361.862725,
+  "volume1wk": 206830.74226099995,
+  "competitive": 0.835946362337607,
+  "priceChange24h": 0.002,
+  "hybridScore": 5.5499331893441255,
+  "category": "Crypto"
+}

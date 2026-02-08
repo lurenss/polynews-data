@@ -1,0 +1,29 @@
+{
+  "id": "will-andy-beshear-win-the-2028-us-presidential-election",
+  "title": "Will Andy Beshear win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.025",
+    "0.975"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 24766.35133799998,
+  "liquidity": 215991.84797,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:02.391606Z",
+  "clobTokenIds": [
+    "50507496430692162923857760920722624157737138256097150616293040054748564876552",
+    "53112547591746110422238703365888013497196468199611167129486770819598374380742"
+  ],
+  "volumeTotal": 2976473.937677,
+  "volume1wk": 250829.6295890003,
+  "competitive": 0.815910249872514,
+  "priceChange24h": 0.0035,
+  "hybridScore": 5.7904428855494405,
+  "category": "Politics"
+}

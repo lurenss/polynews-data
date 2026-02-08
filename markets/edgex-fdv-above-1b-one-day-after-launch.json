@@ -1,0 +1,29 @@
+{
+  "id": "edgex-fdv-above-1b-one-day-after-launch",
+  "title": "EdgeX FDV above $1B one day after launch?",
+  "description": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of EdgeX's token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If EdgeX doesn't launch a token by December 31, 2026, 11:59 PM ET, this market will resolve to \"No\".",
+  "outcomePrices": [
+    "0.51",
+    "0.49"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 4801.992969999999,
+  "liquidity": 58513.6501,
+  "active": true,
+  "closed": false,
+  "endDate": "2027-01-01T05:00:00Z",
+  "createdAt": "2025-11-05T15:50:50.408429Z",
+  "clobTokenIds": [
+    "57572277528781440709849260888499365707002750997326123260697174694336034045593",
+    "56957120444915187104180039358928655665170856936378886389046743531659382644066"
+  ],
+  "volumeTotal": 984595.39495,
+  "volume1wk": 123836.10976299996,
+  "competitive": 0.9999000099990001,
+  "priceChange24h": -0.025,
+  "hybridScore": 5.455109814293512,
+  "category": "Crypto"
+}

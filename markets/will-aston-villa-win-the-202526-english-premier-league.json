@@ -1,0 +1,29 @@
+{
+  "id": "will-aston-villa-win-the-202526-english-premier-league",
+  "title": "Will Aston Villa win the 2025–26 English Premier League?",
+  "description": "This is a polymarket on whether the listed club will win the 2025–26 English Premier League.\n\nThis market will resolve to \"Yes\" if the listed club is officially crowned the winner of the 2025–26 English Premier League. Otherwise, it will resolve to \"No\".\n\nIf at any point it becomes impossible for the listed club to win the league (e.g. they are mathematically eliminated), the market will resolve to \"No\".\n\nIf the 2025–26 English Premier League season is canceled or not completed by October 1, 2026, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the English Premier League. A consensus of credible reporting may also be used.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 121093.87798800001,
+  "liquidity": 222233.75196,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-05-27T00:00:00Z",
+  "createdAt": "2025-07-21T21:13:02.575545Z",
+  "clobTokenIds": [
+    "25809383138093824706090718781537708242092412302214045832942141727122297283403",
+    "42411362942871625791264806970415546212059967717285110439043637146881463498986"
+  ],
+  "volumeTotal": 14012080.320572,
+  "volume1wk": 451790.7762749999,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": -0.009,
+  "hybridScore": 6.257693725953581,
+  "category": "Economics"
+}

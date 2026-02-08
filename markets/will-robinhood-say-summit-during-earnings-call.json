@@ -1,0 +1,29 @@
+{
+  "id": "will-robinhood-say-summit-during-earnings-call",
+  "title": "Will Robinhood say \"Summit\" during earnings call?",
+  "description": "This market will resolve based on the next earnings announcement of Robinhood Markets currently scheduled to take place on February 10, 2026 at 5PM ET.\n\nThis market will resolve to \"Yes\" if the listed term is mentioned by anyone during this event. Otherwise, the market will resolve to \"No\".\n\nAny usage of the term, regardless of context, will count toward the resolution of this market.\n\nPluralization/possessive of the term will count toward the resolution of this market; however, other forms will NOT count.\n\nInstances where the term is used in a compound word will count regardless of context (e.g. joyful is not a compound word for \"joy,\" however \"killjoy\" is a compounding of the words \"kill\" and \"joy\").\n\nIf this market requires a specified number of mentions of a person’s first or last name, a full-name mention will count as one mention (e.g., if a market is about “Joe / Biden 5+ times,” a mention of “Joe Biden” will count once).\n\nA Q&A event will count toward the resolution of this market.\n\nIf this event is definitely cancelled, or otherwise is not aired by March 31, 2026, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source will be audio of the event.",
+  "outcomePrices": [
+    "0.23",
+    "0.77"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 449719.725846,
+  "liquidity": 117.5088,
+  "active": true,
+  "closed": false,
+  "endDate": "2026-02-10T00:00:00Z",
+  "createdAt": "2026-02-05T20:47:23.664886Z",
+  "clobTokenIds": [
+    "1182467989068992704404361657482079352476634455386855010557020042480848874973",
+    "8632415113654192531992744483739558405747942730990854097730063477665573227727"
+  ],
+  "volumeTotal": 705069.909894,
+  "volume1wk": 451721.325846,
+  "competitive": 0.9320533134495294,
+  "priceChange24h": -0.22,
+  "hybridScore": 5.381979423140813,
+  "category": "Politics"
+}

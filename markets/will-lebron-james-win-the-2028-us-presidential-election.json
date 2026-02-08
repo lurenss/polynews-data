@@ -1,0 +1,29 @@
+{
+  "id": "will-lebron-james-win-the-2028-us-presidential-election",
+  "title": "Will LeBron James win the 2028 US Presidential Election?",
+  "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.",
+  "outcomePrices": [
+    "0.0075",
+    "0.9925"
+  ],
+  "outcomes": [
+    "Yes",
+    "No"
+  ],
+  "volume24hr": 675729.148957,
+  "liquidity": 1189970.26697,
+  "active": true,
+  "closed": false,
+  "endDate": "2028-11-07T00:00:00Z",
+  "createdAt": "2025-07-08T19:06:10.305398Z",
+  "clobTokenIds": [
+    "39223330966352513418907732239455948906399882924787587183466504819170775983376",
+    "50862799703982327636174441241062907649998751737045006653560124656563256528691"
+  ],
+  "volumeTotal": 26777811.483144,
+  "volume1wk": 2214779.395734,
+  "competitive": 0.8047925395731582,
+  "priceChange24h": -0.001,
+  "hybridScore": 6.7399418618483695,
+  "category": "Politics"
+}
